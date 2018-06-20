@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Ships Version="1.4">
+<?xml version="1.0" encoding="utf-8"?>
+<Ships Version="1.5">
   <Ship>
     <JP-Name>長門</JP-Name>
     <TR-Name>나가토</TR-Name>
@@ -765,10 +765,6 @@
     <TR-Name>하야나미</TR-Name>
   </Ship>
   <Ship>
-    <JP-Name>濱波</JP-Name>
-    <TR-Name>하마나미</TR-Name>
-  </Ship>
-  <Ship>
     <JP-Name>沖波</JP-Name>
     <TR-Name>오키나미</TR-Name>
   </Ship>
@@ -854,7 +850,7 @@
   </Ship>
   <Ship>
     <JP-Name>秋月</JP-Name>
-    <TR-Name>아키즈치</TR-Name>
+    <TR-Name>아키즈키</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>照月</JP-Name>
@@ -906,7 +902,7 @@
   </Ship>
   <Ship>
     <JP-Name>Prinz Eugen</JP-Name>
-    <TR-Name>Prinz Eugen</TR-Name>
+    <TR-Name>프린츠 오이겐</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>U-511</JP-Name>
@@ -922,15 +918,15 @@
   </Ship>
   <Ship>
     <JP-Name>Littorio</JP-Name>
-    <TR-Name>Littorio</TR-Name>
+    <TR-Name>리토리오</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>Italia</JP-Name>
-    <TR-Name>Italia</TR-Name>
+    <TR-Name>이탈리아</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>Roma</JP-Name>
-    <TR-Name>Roma</TR-Name>
+    <TR-Name>로마</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>速吸</JP-Name>
@@ -942,7 +938,171 @@
   </Ship>
   <Ship>
     <JP-Name>Libeccio</JP-Name>
-    <TR-Name>Libeccio</TR-Name>
+    <TR-Name>리베치오</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>Graf Zeppelin</JP-Name>
+    <TR-Name>그라프 체펠린</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>Zara</JP-Name>
+    <TR-Name>차라</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>Pola</JP-Name>
+    <TR-Name>폴라</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>神風</JP-Name>
+    <TR-Name>카미카제</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>神風</JP-Name>
+    <TR-Name>카미카제</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>朝風</JP-Name>
+    <TR-Name>아사카제</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>春風</JP-Name>
+    <TR-Name>하루카제</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>松風</JP-Name>
+    <TR-Name>마츠카제</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>旗風</JP-Name>
+    <TR-Name>하타카제</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>Iowa</JP-Name>
+    <TR-Name>아이오와</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>Warspite</JP-Name>
+    <TR-Name>워스파이트</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>伊26</JP-Name>
+    <TR-Name>이-26</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>Aquila</JP-Name>
+    <TR-Name>아퀼라</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>Commandant Teste</JP-Name>
+    <TR-Name>코망단 테스트</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>Saratoga</JP-Name>
+    <TR-Name>새러토가</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>伊14</JP-Name>
+    <TR-Name>이-14</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>伊13</JP-Name>
+    <TR-Name>이-13</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>春日丸</JP-Name>
+    <TR-Name>카스가마루</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>Гангут</JP-Name>
+    <TR-Name>강구트</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>Октябрьская революция</JP-Name>
+    <TR-Name>옥차브리스카야 레볼루치야</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>Гангут два</JP-Name>
+    <TR-Name>강구트 два</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>国後</JP-Name>
+    <TR-Name>쿠나시리</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>占守</JP-Name>
+    <TR-Name>시무슈</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>択捉</JP-Name>
+    <TR-Name>에토로후</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>松輪</JP-Name>
+    <TR-Name>마츠와</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>神威</JP-Name>
+    <TR-Name>카모이</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>Luigi Torelli</JP-Name>
+    <TR-Name>루이지 토렐리</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>UIT-25</JP-Name>
+    <TR-Name>UIT-25</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>I-504</JP-Name>
+    <TR-Name>I-504</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>Ark Royal</JP-Name>
+    <TR-Name>아크 로열</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>Richelieu</JP-Name>
+    <TR-Name>리슐리외</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>佐渡</JP-Name>
+    <TR-Name>사도</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>伊400</JP-Name>
+    <TR-Name>이-400</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>対馬</JP-Name>
+    <TR-Name>쓰시마</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>日振</JP-Name>
+    <TR-Name>히부리</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>Gambier Bay</JP-Name>
+    <TR-Name>갬비어 베이</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>Intrepid</JP-Name>
+    <TR-Name>인트레피드</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>Jervis</JP-Name>
+    <TR-Name>저비스</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>浜波</JP-Name>
+    <TR-Name>하마나미</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>Ташкент</JP-Name>
+    <TR-Name>타슈켄트</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>福江</JP-Name>
+    <TR-Name>후카에</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>駆逐イ級</JP-Name>
@@ -1171,6 +1331,22 @@
   <Ship mode="suffix">
     <JP-Name>甲</JP-Name>
     <TR-Name>갑</TR-Name>
+  </Ship>
+  <Ship mode="suffix">
+    <JP-Name> due</JP-Name>
+    <TR-Name> Due</TR-Name>
+  </Ship>
+  <Ship mode="suffix">
+    <JP-Name> Mk.ll</JP-Name>
+    <TR-Name> Mk.ll</TR-Name>
+  </Ship>
+  <Ship mode="suffix">
+    <JP-Name> Mk.ll Mod.2</JP-Name>
+    <TR-Name> Mk.ll Mod.2</TR-Name>
+  </Ship>
+  <Ship mode="suffix">
+    <JP-Name>母</JP-Name>
+    <TR-Name>모</TR-Name>
   </Ship>
   <Ship mode="suffix">
     <JP-Name>elite</JP-Name>
