@@ -882,7 +882,7 @@
   </Quest>
   <Quest>
     <ID>402</ID>
-    <JP-Name>「遠征」を3回成功させよう！</JP-Name>
+    <JP-Name>「遠征」を３回成功させよう！</JP-Name>
     <TR-Name>원정 3회 성공 - 일일반복</TR-Name>
     <JP-Detail>本日中に「遠征」３回成功させよう！</JP-Detail>
     <TR-Detail>당일 05:00 부터 다음날 04:59 까지 원정 3번 성공</TR-Detail>
