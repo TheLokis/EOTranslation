@@ -168,4 +168,12 @@
     <JP-Name>補給物資</JP-Name>
     <TR-Name>보급물자</TR-Name>
   </Type>
+    <Type>
+    <JP-Name>局地戦闘機 </JP-Name>
+    <TR-Name>국지전투기</TR-Name>
+  </Type>
+  <Type>
+    <JP-Name>陸上攻撃機</JP-Name>
+    <TR-Name>육상공격기</TR-Name>
+  </Type>
 </EquipmentTypes>
