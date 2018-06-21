@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.4">
+<Equipment Version="1.4.1">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm 단장포</TR-Name>
@@ -195,6 +195,10 @@
   <Item>
     <JP-Name>12.7cm単装高角砲</JP-Name>
     <TR-Name>12.7cm 단장고각포</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>12.7cm単装高角砲(後期型)</JP-Name>
+    <TR-Name>12.7cm 단장고각포 후기형</TR-Name>
   </Item>
   <Item>
     <JP-Name>25mm単装機銃</JP-Name>
