@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.3.3">
+<?xml version="1.0" encoding="utf-8"?>
+<Quests Version="1.3.4">
   <Quest>
     <ID>SF</ID>
     <JP-Name>初夏の整理整頓</JP-Name>
@@ -877,7 +877,7 @@
     <ID>403</ID>
     <JP-Name>「遠征」を10回成功させよう！</JP-Name>
     <TR-Name>원정 10회 성공 - 일일반복</TR-Name>
-    <JP-Detail>本日中に「遠征」を10回成功させよう！</JP-Detail>
+    <JP-Detail>本日中に「遠征」を10回成功させよう</JP-Detail>
     <TR-Detail>당일 05:00 부터 다음날 04:59 까지 원정 10번 성공</TR-Detail>
   </Quest>
   <Quest>
