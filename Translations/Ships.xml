@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Ships Version="1.7">
   <Ship>
     <JP-Name>長門</JP-Name>
@@ -1053,8 +1053,8 @@
     <TR-Name>UIT-25</TR-Name>
   </Ship>
   <Ship>
-    <JP-Name>I-504</JP-Name>
-    <TR-Name>I-504</TR-Name>
+    <JP-Name>伊504</JP-Name>
+    <TR-Name>이-504</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>Ark Royal</JP-Name>
@@ -1107,6 +1107,10 @@
   <Ship>
     <JP-Name>福江</JP-Name>
     <TR-Name>후카에</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>Samuel B.Roberts</JP-Name>
+    <TR-Name>사무엘 B. 로버츠</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>駆逐イ級</JP-Name>
@@ -1356,11 +1360,11 @@
     <JP-Name>丁</JP-Name>
     <TR-Name> 정</TR-Name>
   </Ship>
-    <Ship mode="suffix">
+  <Ship mode="suffix">
     <JP-Name>乙</JP-Name>
     <TR-Name> 을</TR-Name>
   </Ship>
-      <Ship mode="suffix">
+  <Ship mode="suffix">
     <JP-Name>航</JP-Name>
     <TR-Name> 항</TR-Name>
   </Ship>

@@ -1,88 +1,108 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Operations Version="1.1">
+<Operations Version="1.3">
   <Map>
     <JP-Name>鎮守府正面海域</JP-Name>
-    <TR-Name>1-1 : 진수부정면해역</TR-Name>
+    <TR-Name>진수부정면해역</TR-Name>
   </Map>
   <Map>
     <JP-Name>南西諸島沖</JP-Name>
-    <TR-Name>1-2 : 남서제도 앞바다</TR-Name>
+    <TR-Name>남서제도 앞바다</TR-Name>
   </Map>
   <Map>
     <JP-Name>製油所地帯沿岸</JP-Name>
-    <TR-Name>1-3 : 유전지대 연안</TR-Name>
+    <TR-Name>유전지대 연안</TR-Name>
   </Map>
   <Map>
     <JP-Name>南西諸島防衛線</JP-Name>
-    <TR-Name>1-4 : 남서제도방위선</TR-Name>
+    <TR-Name>남서제도방위선</TR-Name>
   </Map>
   <Map>
     <JP-Name>カムラン半島</JP-Name>
-    <TR-Name>2-1 : 캄란 반도</TR-Name>
+    <TR-Name>캄란 반도</TR-Name>
   </Map>
   <Map>
     <JP-Name>バシー島沖</JP-Name>
-    <TR-Name>2-2 : 바시 섬 앞바다</TR-Name>
+    <TR-Name>바시 섬 앞바다</TR-Name>
   </Map>
   <Map>
     <JP-Name>東部オリョール海</JP-Name>
-    <TR-Name>2-3 : 동부 오룔해</TR-Name>
+    <TR-Name>동부 오룔해</TR-Name>
   </Map>
   <Map>
     <JP-Name>沖ノ島海域</JP-Name>
-    <TR-Name>2-4 : 오키노시마 해역</TR-Name>
+    <TR-Name>오키노시마 해역</TR-Name>
   </Map>
   <Map>
     <JP-Name>モーレイ海哨戒</JP-Name>
-    <TR-Name>3-1 : 모레이 해</TR-Name>
+    <TR-Name>모레이 해</TR-Name>
   </Map>
   <Map>
     <JP-Name>キス島沖</JP-Name>
-    <TR-Name>3-2 : 키스 섬 앞바다</TR-Name>
+    <TR-Name>키스 섬 앞바다</TR-Name>
   </Map>
   <Map>
     <JP-Name>アルフォンシーノ方面</JP-Name>
-    <TR-Name>3-3 : 알폰시노 방면</TR-Name>
+    <TR-Name>알폰시노 방면</TR-Name>
   </Map>
   <Map>
     <JP-Name>北方海域全域</JP-Name>
-    <TR-Name>3-4 : 북방해역 전역</TR-Name>
+    <TR-Name>북방해역 전역</TR-Name>
   </Map>
   <Map>
     <JP-Name>ジャム島攻略作戦</JP-Name>
-    <TR-Name>4-1 : 쟘 섬 공략작전</TR-Name>
+    <TR-Name>쟘 섬 공략작전</TR-Name>
   </Map>
   <Map>
     <JP-Name>カレー洋制圧戦</JP-Name>
-    <TR-Name>4-2 : 카레양 제압전</TR-Name>
+    <TR-Name>카레양 제압전</TR-Name>
   </Map>
   <Map>
     <JP-Name>リランカ島空襲</JP-Name>
-    <TR-Name>4-3 : 리랑카 섬 공습</TR-Name>
+    <TR-Name>리랑카 섬 공습</TR-Name>
   </Map>
   <Map>
     <JP-Name>カスガダマ沖海戦</JP-Name>
-    <TR-Name>4-4 : 카스가다마 앞바다 해전</TR-Name>
+    <TR-Name>카스가다마 앞바다 해전</TR-Name>
   </Map>
   <Map>
     <JP-Name>南方海域前面</JP-Name>
-    <TR-Name>5-1 : 남방해역 전면</TR-Name>
+    <TR-Name>남방해역 전면</TR-Name>
   </Map>
   <Map>
     <JP-Name>珊瑚諸島沖</JP-Name>
-    <TR-Name>5-2 : 산호제도 앞바다</TR-Name>
+    <TR-Name>산호제도 앞바다</TR-Name>
   </Map>
   <Map>
     <JP-Name>サブ島沖海域</JP-Name>
-    <TR-Name>5-3 : 사부 섬 앞바다 해역</TR-Name>
+    <TR-Name>사부 섬 앞바다 해역</TR-Name>
   </Map>
   <Map>
     <JP-Name>サーモン海域</JP-Name>
-    <TR-Name>5-4 : 서몬 해역</TR-Name>
+    <TR-Name>서몬 해역</TR-Name>
   </Map>
   <Map>
     <JP-Name>鎮守府近海</JP-Name>
-    <TR-Name>1-5 : 진수부 근해</TR-Name>
+    <TR-Name>진수부 근해</TR-Name>
+  </Map>
+    <Map>
+    <JP-Name>中部海域哨戒線</JP-Name>
+    <TR-Name>중부해역 초계선</TR-Name>
+  </Map>
+    <Map>
+    <JP-Name>MS諸島沖</JP-Name>
+    <TR-Name>MS 제도 앞바다</TR-Name>
+  </Map>
+    <Map>
+    <JP-Name>グアノ環礁沖海域</JP-Name>
+    <TR-Name>구아노 환초 앞바다 해역</TR-Name>
+  </Map>
+    <Map>
+    <JP-Name>中部北海域ピーコック島沖</JP-Name>
+    <TR-Name>중부 북부 해역 피콕 섬 앞바다</TR-Name>
+  </Map>
+    <Map>
+    <JP-Name>KW環礁沖海域</JP-Name>
+    <TR-Name>KW 환초 앞바다</TR-Name>
   </Map>
   <Map>
     <JP-Name>南西海域サメワニ沖</JP-Name>
