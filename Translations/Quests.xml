@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.4.0">
+<Quests Version="1.4.1">
   <Quest>
     <ID>SF</ID>
     <JP-Name>初夏の整理整頓</JP-Name>
@@ -550,14 +550,14 @@
     <ID>703</ID>
     <JP-Name>「近代化改修」を進め、戦備を整えよ！</JP-Name>
     <TR-Name>근대화개수를 진행하여 군비를 갖춰라 - 주간</TR-Name>
-    <JP-Detail>一週間の間に、近代化改修を15回成功させよ！</JP-Detail>
+    <JP-Detail>一週間の間に、近代化改修を１5回成功させよ！</JP-Detail>
     <TR-Detail>월요일 05시부터 다음주 월요일 04:59까지 근대화 개수 15회 성공</TR-Detail>
   </Quest>
   <Quest>
     <ID>702</ID>
     <JP-Name>艦の「近代化改修」を実施せよ！</JP-Name>
     <TR-Name>군함의 근대화 개수 실시 - 일일반복</TR-Name>
-    <JP-Detail>近代化改修を実施して、2回以上これを成功させよ！</JP-Detail>
+    <JP-Detail>近代化改修を実施して、２回以上これを成功させよ！</JP-Detail>
     <TR-Detail>당일 05:00 부터 다음날 04:59 까지 근대화 개수 2회 성공</TR-Detail>
   </Quest>
   <Quest>
