@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.4.1">
+<Quests Version="1.4.2">
   <Quest>
     <ID>SF</ID>
     <JP-Name>初夏の整理整頓</JP-Name>
@@ -835,7 +835,7 @@
   </Quest>
   <Quest>
     <ID>411</ID>
-    <JP-Name>南方への鼠輸送を継続実施せよ!</JP-Name>
+    <JP-Name>南方への鼠輸送を継続実施せよ！</JP-Name>
     <TR-Name>남방쥐수송을 계속 실시하라!</TR-Name>
     <JP-Detail>今週中に「東京急行」系遠征を継続的に実施、同種作戦を7回成功させよう!</JP-Detail>
     <TR-Detail>금주 안에 "도쿄급행"계(#37, #38) 원정을 지속적으로 실시, 동종 작전을 7회 성공시켜라!</TR-Detail>
@@ -1406,7 +1406,7 @@
   </Quest>
   <Quest>
     <ID>211</ID>
-    <JP-Name>敵空母を3隻撃沈せよ！</JP-Name>
+    <JP-Name>敵空母を３隻撃沈せよ！</JP-Name>
     <TR-Name>적 공모 3척 격침 - 일일반복</TR-Name>
     <JP-Detail>艦隊の脅威となる敵空母群。これを捕捉撃滅し、3隻轟沈せよ！</JP-Detail>
     <TR-Detail>함대에 위협이 되는 적 항모 무리를 포착 격멸, 3척을 굉침시켜라! ※경항모 격침도 가능 ※장갑항모(일부 보스)는 공모에 해당되지 않음.</TR-Detail>
