@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.4.44">
+<Quests Version="1.4.45">
   <Quest>
     <ID>SF</ID>
     <JP-Name>初夏の整理整頓</JP-Name>
@@ -2780,7 +2780,7 @@
     <ID>430</ID>
     <JP-Name>「海防艦」、進発せよ！</JP-Name>
     <TR-Name>해방함, 진발하라!</TR-Name>
-    <JP-Detail>海上護衛任務：遠征任務「兵站強化任務」「海峡警備行動」「海上護衛任務」「タンカー護衛任務」を海防艦、駆逐艦などを主軸とした護衛艦艇で実施せよ！</JP-Detail>
+    <JP-Detail>海上護衛任務：遠征任務「兵站強化任務」「海峡警備行動」「海上護衛任務」「タンカー護衛任務」&lt;br&gt;を海防艦、駆逐艦などを主軸とした護衛艦艇で実施せよ！</JP-Detail>
     <TR-Detail>해방함 또는 구축함 포함 편성, A1, A2, 5, 9 원정 성공</TR-Detail>
   </Quest>
   <Quest>
