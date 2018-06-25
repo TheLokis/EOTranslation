@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.4.45">
+<Quests Version="1.4.46">
   <Quest>
     <ID>SF</ID>
     <JP-Name>初夏の整理整頓</JP-Name>
@@ -870,7 +870,9 @@
   </Quest>
   <Quest>
     <ID>404</ID>
+    <JP-Name>大規模遠征作戦、発令！</JP-Name>
     <TR-Name>대규모 원정작전 발령 - 주간</TR-Name>
+    <JP-Detail>今週中に「遠征」30回成功させよう！</JP-Detail>
     <TR-Detail>월요일 05시부터 다음주 월요일 04:59까지 원정 30회 성공</TR-Detail>
   </Quest>
   <Quest>
