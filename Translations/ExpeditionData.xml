@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ExpeditionData Version="1.0.0">
+<ExpeditionData Version="1.0.1">
   <Expedition>
     <ID>1</ID>
     <Fuel>0</Fuel>
@@ -10,11 +10,11 @@
     <KanmusuExp1>10</KanmusuExp1>
     <KanmusuExp2>20</KanmusuExp2>
     <FlagShipLevel>1</FlagShipLevel>
-    <FleetLevel></FleetLevel>
-    <ItemA></ItemA>
-    <ItemB></ItemB>
-    <ItemAAmount></ItemAAmount>
-    <ItemBAmount></ItemBAmount>
+    <FleetLevel>0</FleetLevel>
+    <ItemA>0</ItemA>
+    <ItemB>0</ItemB>
+    <ItemAAmount>0</ItemAAmount>
+    <ItemBAmount>0</ItemBAmount>
     <Desc>최저 2척, 함종 자유</Desc>
   </Expedition>
 </ExpeditionData>
