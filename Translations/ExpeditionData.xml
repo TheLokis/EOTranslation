@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ExpeditionData Version="1.0.0">
+  <Expedition>
+    <ID>1</ID>
+    <Fuel>0</Fuel>
+    <Ammo>30</Ammo>
+    <Steel>0</Steel>
+    <Baux>0</Baux>
+    <AdmiralExp>10</AdmiralExp>
+    <KanmusuExp1>10</KanmusuExp1>
+    <KanmusuExp2>20</KanmusuExp2>
+    <FlagShipLevel>1</FlagShipLevel>
+    <FleetLevel></FleetLevel>
+    <ItemA></ItemA>
+    <ItemB></ItemB>
+    <ItemAAmount></ItemAAmount>
+    <ItemBAmount></ItemBAmount>
+    <Desc>최저 2척, 함종 자유</Desc>
+  </Expedition>
+</ExpeditionData>
