@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ExpeditionData Version="1.0.4">
+<ExpeditionData Version="1.0.5">
   <Expedition>
     <ID>1</ID>
     <Fuel>0</Fuel>
@@ -188,7 +188,7 @@
     <ItemBAmount>1</ItemBAmount>
     <DrunNeed></DrunNeed>
     <DrunKanmusu></DrunKanmusu>
-    <Desc>4척, 구축함 또는 해방함 3척 이상 , 함대 총 대공 70, 대잠 180, 색적 73이상 필요(단 수상정찰기, 수상폭격기, 비행정의 대잠값은 무효)</Desc>
+    <Desc>4척, 구축함 또는 해방함 4척 이상 , 함대 총 대공 70, 대잠 180, 색적 73이상 필요(단 수상정찰기, 수상폭격기, 비행정의 대잠값은 무효)</Desc>
   </Expedition>
   <Expedition>
     <ID>102</ID>
