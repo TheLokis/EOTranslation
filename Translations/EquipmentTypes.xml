@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<EquipmentTypes Version="1.4">
+<EquipmentTypes Version="1.4.1">
   <Type>
     <JP-Name>小口径主砲</JP-Name>
     <TR-Name>소구경 주포</TR-Name>
@@ -187,5 +187,13 @@
     <Type>
     <JP-Name>噴式戦闘爆撃機</JP-Name>
     <TR-Name>분식전폭기</TR-Name>
+  </Type>
+      <Type>
+    <JP-Name>輸送機材</JP-Name>
+    <TR-Name>운송장비</TR-Name>
+  </Type>
+        <Type>
+    <JP-Name>潜水艦装備</JP-Name>
+    <TR-Name>잠수함전탐</TR-Name>
   </Type>
 </EquipmentTypes>
