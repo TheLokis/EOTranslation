@@ -1,8 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.4.1">
+<Equipment Version="1.4.2">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm 단장포</TR-Name>
+  </Item>
+    <Item>
+    <JP-Name>12cm単装砲改二</JP-Name>
+    <TR-Name>12cm 단장포 개2</TR-Name>
+  </Item>
+      <Item>
+    <JP-Name>12.7cm連装砲A型改二</JP-Name>
+    <TR-Name>12.7cm 연장포 A형 개2</TR-Name>
+  </Item>
+        <Item>
+    <JP-Name>12.7cm連装砲B型改四(戦時改修)+高射装置</JP-Name>
+    <TR-Name>12.7cm연장포B형개4(전시개수+고사장치)</TR-Name>
   </Item>
   <Item>
     <JP-Name>12.7cm連装砲</JP-Name>
