@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.4.48">
+<Quests Version="1.4.49">
   <Quest>
     <ID>SF</ID>
     <JP-Name>初夏の整理整頓</JP-Name>
@@ -613,7 +613,7 @@
     <ID>626</ID>
     <JP-Name>精鋭「艦戦」隊の新編成</JP-Name>
     <TR-Name>정예 [함전] 대의 신편성</TR-Name>
-    <JP-Detail>要熟練搭乗員：練度max「零戦21型」搭載「鳳翔」秘書艦で「零戦21型」×2「九六艦戦」×1廃棄！</JP-Detail>
+    <JP-Detail>要熟練搭乗員：練度max「零戦21型」搭載「鳳翔」秘書艦で「零戦21型」x2「九六艦戦」x1廃棄！</JP-Detail>
     <TR-Detail>※숙련승무원[熟練搭乗員]이 없으면 달성불가. 임무 달성시 숙련승무원을 1개 소모)숙련도 MAX 영식 함상 전투기 21형을 탑제한 호쇼를 비서함으로 하고 영식 함상 전투기 21형 2개와 96식 함상 전투기 1개 폐기</TR-Detail>
   </Quest>
   <Quest>
