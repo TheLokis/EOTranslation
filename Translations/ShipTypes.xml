@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ShipTypes Version="1.1.3">
+<ShipTypes Version="1.1.4">
   <Type>
     <ID>1</ID>
     <JP-Name>海防艦</JP-Name>
@@ -18,7 +18,7 @@
   <Type>
     <ID>4</ID>
     <JP-Name>重雷装巡洋艦</JP-Name>
-    <TR-Name>중뢰장 순양함</TR-Name>
+    <TR-Name>중뢰장순양함</TR-Name>
   </Type>
   <Type>
     <ID>5</ID>
@@ -43,7 +43,7 @@
   <Type>
     <ID>8</ID>
     <JP-Name>巡洋戦艦</JP-Name>
-    <TR-Name>고속함</TR-Name>
+    <TR-Name>고속전함</TR-Name>
   </Type>
   <Type>
     <ID>10</ID>
