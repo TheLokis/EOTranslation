@@ -1112,18 +1112,6 @@
     <JP-Name>Samuel B.Roberts</JP-Name>
     <TR-Name>사무엘 B. 로버츠</TR-Name>
   </Ship>
-    <Ship>
-    <JP-Name>Saratoga改</JP-Name>
-    <TR-Name>새러토가 개</TR-Name>
-  </Ship>
-      <Ship>
-    <JP-Name>Saratoga Mk.ll</JP-Name>
-    <TR-Name>새러토가 Mk.ll</TR-Name>
-  </Ship>
-        <Ship>
-    <JP-Name>Saratoga Mk.ll Mod.2</JP-Name>
-    <TR-Name>새러토가 Mk.ll Mod.2</TR-Name>
-  </Ship>
   <Ship>
     <JP-Name>駆逐イ級</JP-Name>
     <TR-Name>구축 이급</TR-Name>
@@ -1357,12 +1345,12 @@
     <TR-Name> Due</TR-Name>
   </Ship>
   <Ship mode="suffix">
-    <JP-Name>Mk.ll</JP-Name>
-    <TR-Name>Mk.ll</TR-Name>
+    <JP-Name>Mk.II</JP-Name>
+    <TR-Name>Mk.II</TR-Name>
   </Ship>
   <Ship mode="suffix">
-    <JP-Name>Mk.ll Mod.2</JP-Name>
-    <TR-Name>Mk.ll Mod.2</TR-Name>
+    <JP-Name>Mk.II Mod.2</JP-Name>
+    <TR-Name>Mk.II Mod.2</TR-Name>
   </Ship>
   <Ship mode="suffix">
     <JP-Name>母</JP-Name>
