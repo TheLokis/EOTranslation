@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.4.8">
+<Quests Version="1.4.9">
   <Quest>
     <ID>SF</ID>
     <JP-Name>初夏の整理整頓</JP-Name>
@@ -1179,7 +1179,7 @@
     <ID>264</ID>
     <JP-Name>「空母機動部隊」西へ！</JP-Name>
     <TR-Name>「공모기동부대」서쪽으로!</TR-Name>
-    <JP-Detail>航空母艦2隻(随伴駆逐艦2隻)を基幹とする空母機動部隊で、カレー洋の敵艦隊を撃滅せよ！</JP-Detail>
+    <JP-Detail>航空母艦2隻(随伴駆逐艦2隻)を基幹とする空母機動艦隊で、カレー洋の敵艦隊を撃滅せよ！</JP-Detail>
     <TR-Detail>항공모함 2척과 구축함 2척을 중심으로하는 공모기동부대로 4-2보스전 S승리</TR-Detail>
   </Quest>
   <Quest>
@@ -1214,7 +1214,7 @@
     <ID>259</ID>
     <JP-Name>「水上打撃部隊」南方へ！</JP-Name>
     <TR-Name>수상타격부대 남방으로!</TR-Name>
-    <JP-Detail>	戦艦3隻軽巡1隻他を基幹とした水上打撃部隊で南方海域へ進出、敵艦隊を撃滅せよ！</JP-Detail>
+    <JP-Detail>戦艦3隻軽巡1隻他を基幹とした水上打撃部隊で南方海域へ進出、敵艦隊を撃滅せよ！</JP-Detail>
     <TR-Detail>전함3척 경순1척을 기반으로 한 수상타격대를 남방해역에 진출, 적전력을 격멸하라!(5-1 보스를 S승리로 1번 클리어, 워스파이트를 제외한 저속/항공전함으로 편성)"</TR-Detail>
   </Quest>
   <Quest>
