@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ExpeditionData Version="1.0.5">
+<ExpeditionData Version="1.0.6">
   <Expedition>
     <ID>1</ID>
     <Fuel>0</Fuel>
@@ -367,9 +367,9 @@
     <Ammo>0</Ammo>
     <Steel>10</Steel>
     <Baux>30</Baux>
-    <AdmiralExp>35</AdmiralExp>
-    <KanmusuExp1>35</KanmusuExp1>
-    <KanmusuExp2>70</KanmusuExp2>
+    <AdmiralExp>70</AdmiralExp>
+    <KanmusuExp1>80</KanmusuExp1>
+    <KanmusuExp2>160</KanmusuExp2>
     <FlagShipLevel>40</FlagShipLevel>
     <FleetLevel>150</FleetLevel>
     <ItemA>10</ItemA>
