@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.5.0">
+<Quests Version="1.5.1">
   <Quest>
     <ID>SF</ID>
     <JP-Name>初夏の整理整頓</JP-Name>
@@ -2302,6 +2302,7 @@
     <JP-Detail>工廠任務：新型艤装の開発を継続実施する。「大口径主砲」系装備x10を廃棄、鉄鋼18,000を準備せよ！&lt;br&gt;※任務達成後、準備した資源は消費します。「勲章」と「新型砲熕兵装資材」の獲得選択が可能です。</JP-Detail>
     <TR-Detail>강재 18,000을 소지, 대구경 주포계 장비 10개 폐기 ※임무 달성 후 준비한 자원은 소비합니다. 훈장 또는 신형포공병기자재 선택가능</TR-Detail>
   </Quest>
+  <Quest>
   <ID>662</ID>
     <JP-Name>新型艤装の開発研究</JP-Name>
     <TR-Name>신형 의장의 개발 연구</TR-Name>
