@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.4.3">
+<Equipment Version="1.4.4">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm 단장포</TR-Name>
@@ -1539,5 +1539,21 @@
   <Item>
     <JP-Name>彗星二二型(六三四空/熟練)</JP-Name>
     <TR-Name>스이세이 22형(634 해군항공대/숙련)</TR-Name>
+  </Item>
+    <Item>
+    <JP-Name>16inch Mk.I三連装砲</JP-Name>
+    <TR-Name>16inch Mk.I 3연장포</TR-Name>
+  </Item>
+      <Item>
+    <JP-Name>16inch Mk.I三連装砲+AFCT改</JP-Name>
+    <TR-Name>16inch Mk.I 3연장포+AFCT개</TR-Name>
+  </Item>
+        <Item>
+    <JP-Name>16inch Mk.I三連装砲改+FCR type284</JP-Name>
+    <TR-Name>16inch Mk.I 3연장포개+FCR type284</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>20連装7inch UP Rocket Launchers</JP-Name>
+    <TR-Name>20연장 7inch UP 로켓 발사기</TR-Name>
   </Item>
 </Equipment>
