@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Operations Version="1.3.1">
+<Operations Version="1.3.2">
   <Map>
     <JP-Name>鎮守府正面海域</JP-Name>
     <TR-Name>진수부정면해역</TR-Name>
@@ -450,7 +450,7 @@
   </Sortie>
   <Map>
     <JP-Name>北方AL海域</JP-Name>
-    <TR-Name>3-5 : 북방AL해역</TR-Name>
+    <TR-Name>북방AL해역</TR-Name>
   </Map>
   <Sortie>
     <JP-Name>北方増援部隊主力</JP-Name>
@@ -486,7 +486,7 @@
   </Sortie>
   <Sortie>
     <JP-Name>潜水艦作戦</JP-Name>
-    <TR-Name>6-1 : 잠수함전대</TR-Name>
+    <TR-Name>잠수함전대</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>中部海域 敵遊撃部隊</JP-Name>
@@ -546,11 +546,11 @@
   </Sortie>
   <Sortie>
     <JP-Name>サーモン海域北方</JP-Name>
-    <TR-Name>5-5 : 서몬해역 북방</TR-Name>
+    <TR-Name>서몬해역 북방</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>沖ノ島沖</JP-Name>
-    <TR-Name>2-5 : 오키노시마 앞바다</TR-Name>
+    <TR-Name>오키노시마 앞바다</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵水雷戦隊</JP-Name>
@@ -582,7 +582,7 @@
   </Sortie>
   <Sortie>
     <JP-Name>鎮守府近海航路</JP-Name>
-    <TR-Name>1-6 : 진수부 근해 항로</TR-Name>
+    <TR-Name>진수부 근해 항로</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>任務部隊C群 前衛部隊</JP-Name>
