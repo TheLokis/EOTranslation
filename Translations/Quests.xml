@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.5.12">
+<Quests Version="1.5.13">
   <Quest>
     <ID>SF</ID>
     <JP-Name>初夏の整理整頓</JP-Name>
@@ -2244,7 +2244,7 @@
     <JP-Name>輸送船団護衛を強化せよ！</JP-Name>
     <TR-Name>수송선단 호위를 강화하라!</TR-Name>
     <JP-Detail>遠征任務：「海上護衛任務」を反復実施し、輸送船団の護衛に務めよ！</JP-Detail>
-    <TR-Detail>원정 [5] 해상 호위 임무 5회 성공</TR-Detail>
+    <TR-Detail>5번 원정 (해상 호위 임무) 4회 성공</TR-Detail>
   </Quest>
   <Quest>
     <ID>844</ID>
