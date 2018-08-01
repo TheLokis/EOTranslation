@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.5.10">
+<Quests Version="1.5.11">
   <Quest>
     <ID>SF</ID>
     <JP-Name>初夏の整理整頓</JP-Name>
@@ -2887,7 +2887,7 @@
       <ID>327</ID>
     <JP-Name>朝潮型集合！特訓始め！</JP-Name>
     <TR-Name>아사시오형 집합! 특훈 시작!</TR-Name>
-    <JP-Detail>朝潮型演習任務：朝潮型駆逐艦4隻による駆逐隊を含む艦隊を編成。同艦隊で本日中に演習にて4回以上勝利せよ！朝潮型駆逐艦、前へ！</JP-Detail>
+    <JP-Detail>朝潮型演習任務：朝潮型駆逐艦4隻による駆逐隊を含む艦隊を編成。&lt;br&gt;同艦隊で本日中に演習にて4回以上勝利せよ！朝潮型駆逐艦、前へ！</JP-Detail>
     <TR-Detail>아사시오형 연습 임무 : 아사시오형 구축함 4척의 구축대를 포함한 함대를 편성. 이 함대로 오늘 중에 훈련에서 4번 이상 승리하라! 아사시오형 구축함, 앞으로!</TR-Detail>
   </Quest>
               <Quest>
