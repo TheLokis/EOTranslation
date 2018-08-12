@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.5.15">
+<Quests Version="1.5.16">
   <Quest>
     <ID>SF</ID>
     <JP-Name>初夏の整理整頓</JP-Name>
@@ -795,7 +795,7 @@
     <ID>417</ID>
     <JP-Name>囮機動部隊支援作戦を実施せよ！</JP-Name>
     <TR-Name>미끼기동부대지원작전을 수행하라!</TR-Name>
-    <JP-Detail>「囮機動部隊支援作戦」を実施し、これを成功させよ!</JP-Detail>
+    <JP-Detail>「囮機動部隊支援作戦」を実施し、これを成功させよ！</JP-Detail>
     <TR-Detail>「미끼 기동부대 지원작전」(15번)원정을 1회 성공</TR-Detail>
   </Quest>
   <Quest>
@@ -1669,8 +1669,8 @@
     <ID>139</ID>
     <JP-Name>潜水艦隊「第六艦隊」を編成せよ！</JP-Name>
     <TR-Name>잠수함대「제6함대」를 편성하라！</TR-Name>
-    <JP-Detail>「潜水母艦」(※旗艦)と複数の潜水艦(4隻以上)からなる潜水艦隊「第六艦隊」を編成せよ！</JP-Detail>
-    <TR-Detail>「다이게이」와 여러 잠수함(4대이상)으로 구성된 제6함대를 편성</TR-Detail>
+    <JP-Detail>「潜水母艦」と複数の潜水艦(4隻以上)からなる潜水艦隊「第六艦隊」を編成せよ！</JP-Detail>
+    <TR-Detail>「타이게이」와 여러 잠수함(4대이상)으로 구성된 제6함대를 편성</TR-Detail>
   </Quest>
   <Quest>
     <ID>138</ID>
@@ -1697,7 +1697,7 @@
     <ID>130</ID>
     <JP-Name>「第一水雷戦隊」を編成せよ！</JP-Name>
     <TR-Name>"제1수뢰전대"를 편성하라!</TR-Name>
-    <JP-Detail>「阿武隈」「曙」「潮」「霞(かすみ)」「不知火」を中核とした第一水雷戦隊を編成せよ！</JP-Detail>
+    <JP-Detail>「阿武隈」「曙」「潮」「霞」「不知火」を中核とした第一水雷戦隊を編成せよ！</JP-Detail>
     <TR-Detail>"아부쿠마", "아케보노", "우시오", "카스미", "시라누이"를 중핵으로 한 "제1수뢰전대"를 편성하라!</TR-Detail>
   </Quest>
   <Quest>
@@ -1830,7 +1830,7 @@
     <ID>635</ID>
     <JP-Name>新装備の準備</JP-Name>
     <TR-Name>신규 장비의 준비</TR-Name>
-    <JP-Detail>「工廠」で装備を5つ「廃棄」して、新装備配備の準備をします。</JP-Detail>
+    <JP-Detail>「工廠」で装備アイテムを5つ「廃棄」して、新装備配備の準備をします。</JP-Detail>
     <TR-Detail>"공창"에서 장비 아이템을 5개 \"폐기\"하여 신규 장비 배치의 준비를 합니다.</TR-Detail>
   </Quest>
   <Quest>
