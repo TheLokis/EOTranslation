@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.5.17">
+<Quests Version="1.5.18">
   <Quest>
     <ID>SF</ID>
     <JP-Name>初夏の整理整頓</JP-Name>
@@ -2917,5 +2917,12 @@
     <TR-Name>신형전투식량의 시험작</TR-Name>
     <JP-Detail>料理任務：手軽に食事をとることができて、なおかつ美味しく腹にがっつりたまる新型の戦闘糧食を&lt;br&gt;開発する。「戦闘糧食」x2と燃料800及びボーキサイト150を用意せよ！油入れ送気開始！調理始め！</JP-Detail>
     <TR-Detail>"전투식량" 2개와 연료 800 및 보크사이트 150을 준비</TR-Detail>
+  </Quest>
+<Quest>
+    <ID>820</ID>
+    <JP-Name>新編「第八駆逐隊」出撃せよ！</JP-Name>
+    <TR-Name>신편 "제8구축대", 출격하라!</TR-Name>
+    <JP-Detail>新編「第八駆逐隊」を含む艦隊を鎮守府近海航路に出撃させ、同航路の安全確保に努めよ！</JP-Detail>
+    <TR-Detail>아사시오 개2 혹은 개2정을 기함으로, 오오시오, 미치시오, 아라시오를 포함한 최대 6척 편성으로 1-6 최종방 2회 도달</TR-Detail>
   </Quest>
 </Quests>
