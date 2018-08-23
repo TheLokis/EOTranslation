@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Operations Version="1.3.2">
+<Operations Version="1.3.3">
   <Map>
     <JP-Name>鎮守府正面海域</JP-Name>
     <TR-Name>진수부정면해역</TR-Name>
@@ -103,6 +103,10 @@
     <Map>
     <JP-Name>KW環礁沖海域</JP-Name>
     <TR-Name>KW 환초 앞바다</TR-Name>
+  </Map>
+      <Map>
+    <JP-Name>ブルネイ泊地沖/JP-Name>
+    <TR-Name>브루네이 정박지 앞바다</TR-Name>
   </Map>
   <Map>
     <JP-Name>南西海域サメワニ沖</JP-Name>
@@ -687,5 +691,17 @@
   <Sortie>
     <JP-Name>深海東洋艦隊 機動部隊旗艦</JP-Name>
     <TR-Name>심해동양함대 기동부대기함</TR-Name>
+  </Sortie>
+    <Sortie>
+    <JP-Name>深海潜水艦隊 II群</JP-Name>
+    <TR-Name>심해잠수함대 II군</TR-Name>
+  </Sortie>
+      <Sortie>
+    <JP-Name>敵哨戒部隊</JP-Name>
+    <TR-Name>적정찰부대</TR-Name>
+  </Sortie>
+        <Sortie>
+    <JP-Name>深海潜水艦隊 I群</JP-Name>
+    <TR-Name>심해잠수함대 I군</TR-Name>
   </Sortie>
 </Operations>
