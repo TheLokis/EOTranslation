@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.4.5">
+<Equipment Version="1.4.6">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm 단장포</TR-Name>
@@ -1217,8 +1217,8 @@
     <TR-Name>1식 전투기 하야부사 3형甲(54전대)</TR-Name>
   </Item>
   <Item>
-    <JP-Name>爆装一式戦 隼III型改(55戦隊)</JP-Name>
-    <TR-Name>폭장 1식 전투기 하야부사 3형改(55전대)</TR-Name>
+    <JP-Name>爆装一式戦 隼III型改(65戦隊)</JP-Name>
+    <TR-Name>폭장 1식 전투기 하야부사 3형改(65전대)</TR-Name>
   </Item>
   <Item>
     <JP-Name>一式戦 隼II型(64戦隊)</JP-Name>
@@ -1559,5 +1559,9 @@
   <Item>
     <JP-Name>20連装7inch UP Rocket Launchers</JP-Name>
     <TR-Name>20연장 7inch UP 로켓 발사기</TR-Name>
+  </Item>
+    <Item>
+    <JP-Name>12cm単装高角砲</JP-Name>
+    <TR-Name>12cm단장고각포</TR-Name>
   </Item>
 </Equipment>
