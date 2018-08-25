@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.5.20">
+<Quests Version="1.5.21">
   <Quest>
     <ID>640</ID>
     <JP-Name>初夏の整理整頓</JP-Name>
@@ -43,13 +43,6 @@
     <TR-Detail>제1함대 기함에 숙련도가 높은(Lv.90-99)칸무스를 배치하고 마음을 정리하라!</TR-Detail>
   </Quest>
   <Quest>
-    <ID>158</ID>
-    <JP-Name>「赤城」に艦攻「村田隊」を配属せよ！</JP-Name>
-    <TR-Name>아카기에 함공 무라타대를 배치하라!</TR-Name>
-    <JP-Detail>秘書艦を航空母艦「赤城」とし、同艦に艦攻「村田隊」を配属せよ！</JP-Detail>
-    <TR-Detail>아카기에 97식 함상 공격기를 장비</TR-Detail>
-  </Quest>
-  <Quest>
     <ID>704</ID>
     <JP-Name>「大型艦建造」の準備！(その壱)</JP-Name>
     <TR-Name>「대형함건조」 준비(제1차)</TR-Name>
@@ -64,7 +57,7 @@
     <TR-Detail>종류에 관계 없이 군함 1척을 근대화 개수 한다.</TR-Detail>
   </Quest>
   <Quest>
-    <ID>607</ID>
+    <ID>603</ID>
     <JP-Name>はじめての「解体」！</JP-Name>
     <TR-Name>첫 해체</TR-Name>
     <JP-Detail>「工廠」で不要な艦を「解体」してみよう！</JP-Detail>
@@ -232,7 +225,7 @@
     <TR-Detail>쵸카이, 아오바, 카코, 후루타카, 텐류와 고속함 1척으로 함대 편성 후 승패와 관계 없이 전투 1회 수행</TR-Detail>
   </Quest>
   <Quest>
-    <ID>215</ID>
+    <ID>217</ID>
     <JP-Name>敵空母を撃沈せよ！</JP-Name>
     <TR-Name>적 공모 격침!(정규공모 아카기 획득 임무)</TR-Name>
     <JP-Detail>敵機動部隊を捕捉し、これを邀撃、敵空母を轟沈せよ！</JP-Detail>
@@ -281,25 +274,11 @@
     <TR-Detail>1-2 해역에서 승패와 관계 없이 전투 1회 수행</TR-Detail>
   </Quest>
   <Quest>
-    <ID>203</ID>
-    <JP-Name>第2艦隊、出撃せよ！</JP-Name>
-    <TR-Name>제2함대 출격</TR-Name>
-    <JP-Detail>新たに編成した「第2艦隊」を出撃せよ！</JP-Detail>
-    <TR-Detail>승패와 관계 없이 2함대로 전투 1회 수행</TR-Detail>
-  </Quest>
-  <Quest>
     <ID>202</ID>
     <JP-Name>はじめての「出撃」！</JP-Name>
     <TR-Name>첫 출격!</TR-Name>
     <JP-Detail>艦隊を出撃させ、敵艦隊と交戦せよ！</JP-Detail>
     <TR-Detail>승패와 관계 없이 전투 1회 수행</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>174</ID>
-    <JP-Name>新編「水雷戦隊」を含む艦隊を再編成せよ！</JP-Name>
-    <TR-Name>신편 수뢰전대를 포함한 함대를 재편성하라!</TR-Name>
-    <JP-Detail></JP-Detail>
-    <TR-Detail>경순양함을 기함으로한 수뢰전대(구축함 4척)를 편성</TR-Detail>
   </Quest>
   <Quest>
     <ID>133</ID>
@@ -428,13 +407,6 @@
     <TR-Detail>정규공모나 경공모 중 하나를 기함으로 하고 구축함 3척을 함대에 넣어 편성</TR-Detail>
   </Quest>
   <Quest>
-    <ID>117</ID>
-    <JP-Name>第2艦隊で空母機動部隊を編成せよ！</JP-Name>
-    <TR-Name>제2함대 공모기동부대 편성</TR-Name>
-    <JP-Detail>第2艦隊に空母を配備して、空母機動部隊を編成せよ！</JP-Detail>
-    <TR-Detail>정규공모나 경공모 중 하나를 기함으로 하고 구축함 3척을 제2함대에 넣어 편성</TR-Detail>
-  </Quest>
-  <Quest>
     <ID>120</ID>
     <JP-Name>「第六駆逐隊」を編成せよ！</JP-Name>
     <TR-Name>제6구축함대 편성</TR-Name>
@@ -454,20 +426,6 @@
     <TR-Name>중순양함 편성</TR-Name>
     <JP-Detail>重巡洋艦２隻を擁する重巡艦隊を編成せよ！</JP-Detail>
     <TR-Detail>중순양함 2척을 넣은 함대 편성</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>115</ID>
-    <JP-Name>第2艦隊を編成せよ！</JP-Name>
-    <TR-Name>제2함대 배치</TR-Name>
-    <JP-Detail>二つ目の艦隊、第2艦隊の旗艦を指定して、第2艦隊を編成せよ！</JP-Detail>
-    <TR-Detail>종류에 관계 없이 2함대 편성</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>105</ID>
-    <JP-Name>軽巡2隻を擁する隊を編成せよ！</JP-Name>
-    <TR-Name>경순양함 배치</TR-Name>
-    <JP-Detail>軽巡洋艦2隻を擁する高速艦隊を編成せよ！</JP-Detail>
-    <TR-Detail>경순양함 2척 함대 배치</TR-Detail>
   </Quest>
   <Quest>
     <ID>104</ID>
@@ -1537,7 +1495,7 @@
   <Quest>
     <ID>158</ID>
     <JP-Name>「赤城」に艦攻「村田隊」を配属せよ！</JP-Name>
-    <TR-Name>[158]「아카기」에 함상공격기「무라타대」를 배치하라！</TR-Name>
+    <TR-Name>「아카기」에 함상공격기「무라타대」를 배치하라！</TR-Name>
     <JP-Detail>秘書艦を航空母艦「赤城」とし、同艦に艦攻「村田隊」を配属せよ！</JP-Detail>
     <TR-Detail>비서함을 항공모함「아카기」로 하여「무라타대」장착</TR-Detail>
   </Quest>
