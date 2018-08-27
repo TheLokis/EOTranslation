@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.5.21">
+<Quests Version="1.5.22">
   <Quest>
     <ID>640</ID>
     <JP-Name>初夏の整理整頓</JP-Name>
@@ -1664,7 +1664,7 @@
     <ID>129</ID>
     <JP-Name>「第五艦隊」を編成せよ！</JP-Name>
     <TR-Name>제5함대 편성</TR-Name>
-    <JP-Detail>「那智」「足柄」「多摩」「木曾」を中核とした第五艦隊を編成せよ！</JP-Detail>
+    <JP-Detail>「那智」「足柄」「多摩」「木曾」を中核とした「第五艦隊」を編成せよ！</JP-Detail>
     <TR-Detail>나치, 아시가라, 타마, 키소를 함대에 배치</TR-Detail>
   </Quest>
   <Quest>
