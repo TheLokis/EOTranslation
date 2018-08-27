@@ -1,22 +1,22 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.4.6">
+<?xml version="1.0" encoding="utf-8"?>
+<Equipment Version="1.4.7">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm 단장포</TR-Name>
   </Item>
-    <Item>
+  <Item>
     <JP-Name>12cm単装砲改二</JP-Name>
     <TR-Name>12cm 단장포 개2</TR-Name>
   </Item>
-      <Item>
+  <Item>
     <JP-Name>12.7cm連装砲A型改二</JP-Name>
     <TR-Name>12.7cm 연장포 A형 개2</TR-Name>
   </Item>
-<Item>
+  <Item>
     <JP-Name>12.7cm連装砲B型改四(戦時改修)+高射装置</JP-Name>
     <TR-Name>12.7cm연장포B형개4(전시개수+고사장치)</TR-Name>
   </Item>
-<Item>
+  <Item>
     <JP-Name>12.7cm連装砲A型改三(戦時改修)+高射装置</JP-Name>
     <TR-Name>12.7cm연장포A형개3(전시개수+고사장치)</TR-Name>
   </Item>
@@ -24,7 +24,7 @@
     <JP-Name>12.7cm連装砲</JP-Name>
     <TR-Name>12.7cm 연장포</TR-Name>
   </Item>
-    <Item>
+  <Item>
     <JP-Name>12.7cm連装砲A型</JP-Name>
     <TR-Name>12.7cm 연장포 A형</TR-Name>
   </Item>
@@ -234,11 +234,11 @@
   </Item>
   <Item>
     <JP-Name>流星改</JP-Name>
-    <TR-Name>류세이 改</TR-Name>
+    <TR-Name>류세이 개</TR-Name>
   </Item>
   <Item>
     <JP-Name>烈風改</JP-Name>
-    <TR-Name>렛푸 改</TR-Name>
+    <TR-Name>렛푸 개</TR-Name>
   </Item>
   <Item>
     <JP-Name>彩雲</JP-Name>
@@ -246,11 +246,11 @@
   </Item>
   <Item>
     <JP-Name>紫電改二</JP-Name>
-    <TR-Name>시덴 改2</TR-Name>
+    <TR-Name>시덴 개2</TR-Name>
   </Item>
   <Item>
     <JP-Name>震電改</JP-Name>
-    <TR-Name>신덴 改</TR-Name>
+    <TR-Name>신덴 개</TR-Name>
   </Item>
   <Item>
     <JP-Name>彗星一二型甲</JP-Name>
@@ -278,11 +278,11 @@
   </Item>
   <Item>
     <JP-Name>12.7cm連装砲B型改二</JP-Name>
-    <TR-Name>12.7cm 연장포B형 改2</TR-Name>
+    <TR-Name>12.7cm 연장포B형 개2</TR-Name>
   </Item>
   <Item>
     <JP-Name>Ju87C改</JP-Name>
-    <TR-Name>Ju87C 改</TR-Name>
+    <TR-Name>Ju87C 개</TR-Name>
   </Item>
   <Item>
     <JP-Name>15.2cm連装砲</JP-Name>
@@ -406,11 +406,11 @@
   </Item>
   <Item>
     <JP-Name>22号対水上電探改四</JP-Name>
-    <TR-Name>22호 대수상전탐改4</TR-Name>
+    <TR-Name>22호 대수상전탐 개4</TR-Name>
   </Item>
   <Item>
     <JP-Name>21号対空電探改</JP-Name>
-    <TR-Name>21호 대공전탐改</TR-Name>
+    <TR-Name>21호 대공전탐 개</TR-Name>
   </Item>
   <Item>
     <JP-Name>20.3cm(2号)連装砲</JP-Name>
@@ -446,7 +446,7 @@
   </Item>
   <Item>
     <JP-Name>13号対空電探改</JP-Name>
-    <TR-Name>13호 대공전탐改</TR-Name>
+    <TR-Name>13호 대공전탐 개</TR-Name>
   </Item>
   <Item>
     <JP-Name>熟練艦載機整備員</JP-Name>
@@ -482,11 +482,11 @@
   </Item>
   <Item>
     <JP-Name>Ar196改</JP-Name>
-    <TR-Name>Ar196 改</TR-Name>
+    <TR-Name>Ar196 개</TR-Name>
   </Item>
   <Item>
     <JP-Name>38cm連装砲改</JP-Name>
-    <TR-Name>38cm 연장포 改</TR-Name>
+    <TR-Name>38cm 연장포 개</TR-Name>
   </Item>
   <Item>
     <JP-Name>一式徹甲弾</JP-Name>
@@ -542,7 +542,7 @@
   </Item>
   <Item>
     <JP-Name>試製FaT仕様九五式酸素魚雷改</JP-Name>
-    <TR-Name>시제 FaT사양 95식 산소어뢰 改</TR-Name>
+    <TR-Name>시제 FaT사양 95식 산소어뢰 개</TR-Name>
   </Item>
   <Item>
     <JP-Name>熟練見張員</JP-Name>
@@ -778,7 +778,7 @@
   </Item>
   <Item>
     <JP-Name>381mm/50 三連装砲改</JP-Name>
-    <TR-Name>381mm/50 3연장포 改</TR-Name>
+    <TR-Name>381mm/50 3연장포 개</TR-Name>
   </Item>
   <Item>
     <JP-Name>90mm単装高角砲</JP-Name>
@@ -794,11 +794,11 @@
   </Item>
   <Item>
     <JP-Name>15.2cm連装砲改</JP-Name>
-    <TR-Name>15.2cm 연장포 改</TR-Name>
+    <TR-Name>15.2cm 연장포 개</TR-Name>
   </Item>
   <Item>
     <JP-Name>32号対水上電探改</JP-Name>
-    <TR-Name>32호 대수상 레이더 改</TR-Name>
+    <TR-Name>32호 대수상 레이더 개</TR-Name>
   </Item>
   <Item>
     <JP-Name>15inch要塞砲</JP-Name>
@@ -806,7 +806,7 @@
   </Item>
   <Item>
     <JP-Name>15m二重測距儀+21号電探改二</JP-Name>
-    <TR-Name>15m 이중 측거의+21호 전탐 改2</TR-Name>
+    <TR-Name>15m 이중 측거의+21호 전탐 개2</TR-Name>
   </Item>
   <Item>
     <JP-Name>九七式艦攻(村田隊)</JP-Name>
@@ -842,15 +842,15 @@
   </Item>
   <Item>
     <JP-Name>深海猫艦戦改</JP-Name>
-    <TR-Name>심해 고양이 함상전투기改</TR-Name>
+    <TR-Name>심해 고양이 함상전투기 개</TR-Name>
   </Item>
   <Item>
     <JP-Name>深海地獄艦爆改</JP-Name>
-    <TR-Name>심해 지옥 함상전투기改</TR-Name>
+    <TR-Name>심해 지옥 함상전투기 개</TR-Name>
   </Item>
   <Item>
     <JP-Name>深海復讐艦攻改</JP-Name>
-    <TR-Name>심해 복수 함상공격기改</TR-Name>
+    <TR-Name>심해 복수 함상공격기 개</TR-Name>
   </Item>
   <Item>
     <JP-Name>深海FCS+CIC</JP-Name>
@@ -882,11 +882,11 @@
   </Item>
   <Item>
     <JP-Name>Bf109T改</JP-Name>
-    <TR-Name>Bf109T 改</TR-Name>
+    <TR-Name>Bf109T 개</TR-Name>
   </Item>
   <Item>
     <JP-Name>Fw190T改</JP-Name>
-    <TR-Name>Fw190T 改</TR-Name>
+    <TR-Name>Fw190T 개</TR-Name>
   </Item>
   <Item>
     <JP-Name>10.5cm連装砲</JP-Name>
@@ -910,7 +910,7 @@
   </Item>
   <Item>
     <JP-Name>二式水戦改</JP-Name>
-    <TR-Name>2식 수상전투기改</TR-Name>
+    <TR-Name>2식 수상전투기 개</TR-Name>
   </Item>
   <Item>
     <JP-Name>特二式内火艇</JP-Name>
@@ -1038,7 +1038,7 @@
   </Item>
   <Item>
     <JP-Name>Re.2001 OR改</JP-Name>
-    <TR-Name>Re.2001 OR改</TR-Name>
+    <TR-Name>Re.2001 OR 개</TR-Name>
   </Item>
   <Item>
     <JP-Name>高速深海魚雷 mod.2</JP-Name>
@@ -1046,11 +1046,11 @@
   </Item>
   <Item>
     <JP-Name>Re.2001 G改</JP-Name>
-    <TR-Name>Re.2001 G改</TR-Name>
+    <TR-Name>Re.2001 G 개</TR-Name>
   </Item>
   <Item>
     <JP-Name>Re.2005 改</JP-Name>
-    <TR-Name>Re.2005 改</TR-Name>
+    <TR-Name>Re.2005 개</TR-Name>
   </Item>
   <Item>
     <JP-Name>38.1cm Mk.I連装砲</JP-Name>
@@ -1062,7 +1062,7 @@
   </Item>
   <Item>
     <JP-Name>Re.2001 OR改</JP-Name>
-    <TR-Name>Re.2001 OR개</TR-Name>
+    <TR-Name>Re.2001 OR 개</TR-Name>
   </Item>
   <Item>
     <JP-Name>高速深海魚雷 mod.2</JP-Name>
@@ -1082,7 +1082,7 @@
   </Item>
   <Item>
     <JP-Name>38.1cm Mk.I/N連装砲改</JP-Name>
-    <TR-Name>38.1cm Mk.I/N 연장포改</TR-Name>
+    <TR-Name>38.1cm Mk.I/N 연장포 개</TR-Name>
   </Item>
   <Item>
     <JP-Name>特大発動艇</JP-Name>
@@ -1134,11 +1134,11 @@
   </Item>
   <Item>
     <JP-Name>噴式景雲改</JP-Name>
-    <TR-Name>분식케이운改</TR-Name>
+    <TR-Name>분식케이운 개</TR-Name>
   </Item>
   <Item>
     <JP-Name>橘花改</JP-Name>
-    <TR-Name>킷카改</TR-Name>
+    <TR-Name>킷카 개</TR-Name>
   </Item>
   <Item>
     <JP-Name>F6F-3</JP-Name>
@@ -1190,11 +1190,11 @@
   </Item>
   <Item>
     <JP-Name>二式水戦改(熟練)</JP-Name>
-    <TR-Name>2식 수상전투기改(숙련)</TR-Name>
+    <TR-Name>2식 수상전투기 개(숙련)</TR-Name>
   </Item>
   <Item>
     <JP-Name>強風改</JP-Name>
-    <TR-Name>쿄후改</TR-Name>
+    <TR-Name>쿄후 개</TR-Name>
   </Item>
   <Item>
     <JP-Name>零式艦戦63型(爆戦)</JP-Name>
@@ -1202,7 +1202,7 @@
   </Item>
   <Item>
     <JP-Name>8cm高角砲改+増設機銃</JP-Name>
-    <TR-Name>8cm 고각포改+증설기관총</TR-Name>
+    <TR-Name>8cm 고각포 개+증설기관총</TR-Name>
   </Item>
   <Item>
     <JP-Name>一式戦 隼II型</JP-Name>
@@ -1218,7 +1218,7 @@
   </Item>
   <Item>
     <JP-Name>爆装一式戦 隼III型改(65戦隊)</JP-Name>
-    <TR-Name>폭장 1식 전투기 하야부사 3형改(65전대)</TR-Name>
+    <TR-Name>폭장 1식 전투기 하야부사 3형 개(65전대)</TR-Name>
   </Item>
   <Item>
     <JP-Name>一式戦 隼II型(64戦隊)</JP-Name>
@@ -1234,7 +1234,7 @@
   </Item>
   <Item>
     <JP-Name>九六式艦戦改</JP-Name>
-    <TR-Name>96식 함상전투기改</TR-Name>
+    <TR-Name>96식 함상전투기 개</TR-Name>
   </Item>
   <Item>
     <JP-Name>7cm単装高角砲(後期型)</JP-Name>
@@ -1250,7 +1250,7 @@
   </Item>
   <Item>
     <JP-Name>30.5cm三連装砲改</JP-Name>
-    <TR-Name>30.5cm 삼연장포改</TR-Name>
+    <TR-Name>30.5cm 삼연장포 개</TR-Name>
   </Item>
   <Item>
     <JP-Name>深海攻撃哨戒鷹</JP-Name>
@@ -1266,15 +1266,15 @@
   </Item>
   <Item>
     <JP-Name>41cm三連装砲改</JP-Name>
-    <TR-Name>41cm 3연장포改</TR-Name>
+    <TR-Name>41cm 3연장포 개</TR-Name>
   </Item>
   <Item>
     <JP-Name>15.5cm三連装副砲改</JP-Name>
-    <TR-Name>15.5cm 3연장부포改</TR-Name>
+    <TR-Name>15.5cm 3연장부포 개</TR-Name>
   </Item>
   <Item>
     <JP-Name>15.5cm三連装砲改</JP-Name>
-    <TR-Name>15.5cm 3연장포改</TR-Name>
+    <TR-Name>15.5cm 3연장포 개</TR-Name>
   </Item>
   <Item>
     <JP-Name>瑞雲(六三四空/熟練)</JP-Name>
@@ -1310,7 +1310,7 @@
   </Item>
   <Item>
     <JP-Name>38cm四連装砲改</JP-Name>
-    <TR-Name>38cm 4연장포改</TR-Name>
+    <TR-Name>38cm 4연장포 개</TR-Name>
   </Item>
   <Item>
     <JP-Name>15.2cm三連装砲</JP-Name>
@@ -1386,7 +1386,7 @@
   </Item>
   <Item>
     <JP-Name>12.7cm連装砲C型改二</JP-Name>
-    <TR-Name>12.7cm 연장포C형 改2</TR-Name>
+    <TR-Name>12.7cm 연장포C형 개2</TR-Name>
   </Item>
   <Item>
     <JP-Name>紫電一一型</JP-Name>
@@ -1394,11 +1394,11 @@
   </Item>
   <Item>
     <JP-Name>紫電二一型 紫電改</JP-Name>
-    <TR-Name>시덴 21형 시덴改</TR-Name>
+    <TR-Name>시덴 21형 시덴 개</TR-Name>
   </Item>
   <Item>
     <JP-Name>22号対水上電探改四(後期調整型)</JP-Name>
-    <TR-Name>22호 대수상전탐改4(후기조정용)</TR-Name>
+    <TR-Name>22호 대수상전탐 개4(후기조정형)</TR-Name>
   </Item>
   <Item>
     <JP-Name>四式戦 疾風</JP-Name>
@@ -1406,7 +1406,7 @@
   </Item>
   <Item>
     <JP-Name>零式水上偵察機11型乙(熟練)</JP-Name>
-    <TR-Name>영식 수상정찰기 11형乙(숙련)</TR-Name>
+    <TR-Name>영식 수상정찰기 11형 을(숙련)</TR-Name>
   </Item>
   <Item>
     <JP-Name>試製東海</JP-Name>
@@ -1418,7 +1418,7 @@
   </Item>
   <Item>
     <JP-Name>紫電改四</JP-Name>
-    <TR-Name>시덴改4</TR-Name>
+    <TR-Name>시덴 개4</TR-Name>
   </Item>
   <Item>
     <JP-Name>遊撃部隊 艦隊司令部</JP-Name>
@@ -1426,7 +1426,7 @@
   </Item>
   <Item>
     <JP-Name>12.7cm連装砲D型改二</JP-Name>
-    <TR-Name>12.7cm 연장포D형 改2</TR-Name>
+    <TR-Name>12.7cm 연장포D형 개2</TR-Name>
   </Item>
   <Item>
     <JP-Name>北方迷彩(+北方装備)</JP-Name>
@@ -1450,7 +1450,7 @@
   </Item>
   <Item>
     <JP-Name>46cm三連装砲改</JP-Name>
-    <TR-Name>46cm 삼연장포改</TR-Name>
+    <TR-Name>46cm 삼연장포 개</TR-Name>
   </Item>
   <Item>
     <JP-Name>FM-2</JP-Name>
@@ -1458,11 +1458,11 @@
   </Item>
   <Item>
     <JP-Name>紫電改(三四三空) 戦闘301</JP-Name>
-    <TR-Name>시덴改(343항공대) 301전투기대</TR-Name>
+    <TR-Name>시덴 개(343항공대) 301전투기대</TR-Name>
   </Item>
   <Item>
     <JP-Name>10cm連装高角砲改+増設機銃</JP-Name>
-    <TR-Name>10cm 연장고각포改+증설기총</TR-Name>
+    <TR-Name>10cm 연장고각포 개+증설기총</TR-Name>
   </Item>
   <Item>
     <JP-Name>SK レーダー</JP-Name>
@@ -1474,7 +1474,7 @@
   </Item>
   <Item>
     <JP-Name>QF 4.7inch砲 Mk.XII改</JP-Name>
-    <TR-Name>QF 4.7inch포 Mk.XII改</TR-Name>
+    <TR-Name>QF 4.7inch포 Mk.XII 개</TR-Name>
   </Item>
   <Item>
     <JP-Name>51cm連装砲</JP-Name>
@@ -1506,11 +1506,11 @@
   </Item>
   <Item>
     <JP-Name>深海14inch連装砲改</JP-Name>
-    <TR-Name>심해 14inch 연장포改</TR-Name>
+    <TR-Name>심해 14inch 연장포 개</TR-Name>
   </Item>
   <Item>
     <JP-Name>深海16inch三連装砲改</JP-Name>
-    <TR-Name>심해 16inch 삼연장포改</TR-Name>
+    <TR-Name>심해 16inch 삼연장포 개</TR-Name>
   </Item>
   <Item>
     <JP-Name>61cm三連装(酸素)魚雷後期型</JP-Name>
@@ -1534,7 +1534,7 @@
   </Item>
   <Item>
     <JP-Name>41cm三連装砲改二</JP-Name>
-    <TR-Name>41cm 삼연장포改2</TR-Name>
+    <TR-Name>41cm 삼연장포 개2</TR-Name>
   </Item>
   <Item>
     <JP-Name>彗星二二型(六三四空)</JP-Name>
@@ -1544,15 +1544,15 @@
     <JP-Name>彗星二二型(六三四空/熟練)</JP-Name>
     <TR-Name>스이세이 22형(634 해군항공대/숙련)</TR-Name>
   </Item>
-    <Item>
+  <Item>
     <JP-Name>16inch Mk.I三連装砲</JP-Name>
     <TR-Name>16inch Mk.I 3연장포</TR-Name>
   </Item>
-      <Item>
+  <Item>
     <JP-Name>16inch Mk.I三連装砲+AFCT改</JP-Name>
-    <TR-Name>16inch Mk.I 3연장포+AFCT개</TR-Name>
+    <TR-Name>16inch Mk.I 3연장포+AFCT 개</TR-Name>
   </Item>
-        <Item>
+  <Item>
     <JP-Name>16inch Mk.I三連装砲改+FCR type284</JP-Name>
     <TR-Name>16inch Mk.I 3연장포개+FCR type284</TR-Name>
   </Item>
@@ -1560,7 +1560,7 @@
     <JP-Name>20連装7inch UP Rocket Launchers</JP-Name>
     <TR-Name>20연장 7inch UP 로켓 발사기</TR-Name>
   </Item>
-    <Item>
+  <Item>
     <JP-Name>12cm単装高角砲</JP-Name>
     <TR-Name>12cm단장고각포</TR-Name>
   </Item>
