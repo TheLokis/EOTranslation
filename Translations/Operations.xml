@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Operations Version="1.3.6">
+<Operations Version="1.3.7">
   <Map>
     <JP-Name>鎮守府正面海域</JP-Name>
     <TR-Name>진수부정면해역</TR-Name>
@@ -107,6 +107,42 @@
       <Map>
     <JP-Name>ブルネイ泊地沖</JP-Name>
     <TR-Name>브루네이 정박지 앞바다</TR-Name>
+  </Map>
+        <Map>
+    <JP-Name>南西諸島近海</JP-Name>
+    <TR-Name>남서제도근해</TR-Name>
+  </Map>
+          <Map>
+    <JP-Name>バシー海峡</JP-Name>
+    <TR-Name>바시 해협</TR-Name>
+  </Map>
+            <Map>
+    <JP-Name>南西諸島沖</JP-Name>
+    <TR-Name>남서제도해</TR-Name>
+  </Map>
+              <Map>
+    <JP-Name>製油所地帯沿岸</JP-Name>
+    <TR-Name>제유소 지대 연안</TR-Name>
+  </Map>
+              <Map>
+    <JP-Name>南西諸島防衛線</JP-Name>
+    <TR-Name>남서제도 방위선</TR-Name>
+  </Map>
+                <Map>
+    <JP-Name>ジャム島沖</JP-Name>
+    <TR-Name>잼 섬 앞바다</TR-Name>
+  </Map>
+                  <Map>
+    <JP-Name>リランカ島</JP-Name>
+    <TR-Name>리랑카 섬</TR-Name>
+  </Map>
+                   <Map>
+    <JP-Name>カスガダマ島</JP-Name>
+    <TR-Name>카스가다마 섬</TR-Name>
+  </Map>
+                     <Map>
+    <JP-Name>カレー洋海域</JP-Name>
+    <TR-Name>카레 양 해역</TR-Name>
   </Map>
   <Map>
     <JP-Name>南西海域サメワニ沖</JP-Name>
@@ -630,7 +666,7 @@
   </Map>
   <Map>
     <JP-Name>カレー洋リランカ島沖</JP-Name>
-    <TR-Name>E-2/E-4 : 카레 양 리랑카 섬 앞바다</TR-Name>
+    <TR-Name>카레 양 리랑카 섬 앞바다</TR-Name>
   </Map>
   <Map>
     <JP-Name>ベーグル湾</JP-Name>
