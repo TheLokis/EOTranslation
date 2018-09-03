@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Operations Version="1.3.8">
+<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.3.9">
   <Map>
     <JP-Name>鎮守府正面海域</JP-Name>
     <TR-Name>진수부정면해역</TR-Name>
@@ -84,65 +84,77 @@
     <JP-Name>鎮守府近海</JP-Name>
     <TR-Name>진수부 근해</TR-Name>
   </Map>
-    <Map>
+  <Map>
     <JP-Name>中部海域哨戒線</JP-Name>
     <TR-Name>중부해역 초계선</TR-Name>
   </Map>
-    <Map>
+  <Map>
     <JP-Name>MS諸島沖</JP-Name>
     <TR-Name>MS 제도 앞바다</TR-Name>
   </Map>
-    <Map>
+  <Map>
     <JP-Name>グアノ環礁沖海域</JP-Name>
     <TR-Name>구아노 환초 앞바다 해역</TR-Name>
   </Map>
-    <Map>
+  <Map>
     <JP-Name>中部北海域ピーコック島沖</JP-Name>
     <TR-Name>중부 북부 해역 피콕 섬 앞바다</TR-Name>
   </Map>
-    <Map>
+  <Map>
     <JP-Name>KW環礁沖海域</JP-Name>
     <TR-Name>KW 환초 앞바다</TR-Name>
   </Map>
-      <Map>
+  <Map>
     <JP-Name>ブルネイ泊地沖</JP-Name>
     <TR-Name>브루네이 정박지 앞바다</TR-Name>
   </Map>
-        <Map>
+  <Map>
     <JP-Name>南西諸島近海</JP-Name>
     <TR-Name>남서제도근해</TR-Name>
   </Map>
-          <Map>
+  <Map>
     <JP-Name>バシー海峡</JP-Name>
     <TR-Name>바시 해협</TR-Name>
   </Map>
-            <Map>
+  <Map>
     <JP-Name>南西諸島沖</JP-Name>
     <TR-Name>남서제도해</TR-Name>
   </Map>
-              <Map>
+  <Map>
     <JP-Name>製油所地帯沿岸</JP-Name>
     <TR-Name>제유소 지대 연안</TR-Name>
   </Map>
-              <Map>
+  <Map>
     <JP-Name>南西諸島防衛線</JP-Name>
     <TR-Name>남서제도 방위선</TR-Name>
   </Map>
-                <Map>
+  <Map>
     <JP-Name>ジャム島沖</JP-Name>
     <TR-Name>잼 섬 앞바다</TR-Name>
   </Map>
-                  <Map>
+  <Map>
     <JP-Name>リランカ島</JP-Name>
     <TR-Name>리랑카 섬</TR-Name>
   </Map>
-                   <Map>
+  <Map>
     <JP-Name>カスガダマ島</JP-Name>
     <TR-Name>카스가다마 섬</TR-Name>
   </Map>
-                     <Map>
+  <Map>
     <JP-Name>カレー洋海域</JP-Name>
     <TR-Name>카레 양 해역</TR-Name>
+  </Map>
+  <Map>
+    <JP-Name>北方AL海域</JP-Name>
+    <TR-Name>북방AL해역</TR-Name>
+  </Map>
+  <Map>
+    <JP-Name>サーモン海域北方</JP-Name>
+    <TR-Name>서몬 해역 북방</TR-Name>
+  </Map>
+   <Map>
+    <JP-Name>鎮守府近海航路</JP-Name>
+    <TR-Name>진수부 근해 항로</TR-Name>
   </Map>
   <Map>
     <JP-Name>南西海域サメワニ沖</JP-Name>
@@ -488,10 +500,7 @@
     <JP-Name>敵潜水主力艦隊</JP-Name>
     <TR-Name>적 잠수주력함대 (보스)</TR-Name>
   </Sortie>
-  <Map>
-    <JP-Name>北方AL海域</JP-Name>
-    <TR-Name>북방AL해역</TR-Name>
-  </Map>
+
   <Sortie>
     <JP-Name>北方増援部隊主力</JP-Name>
     <TR-Name>북방증원함대주력 (보스)</TR-Name>
@@ -728,19 +737,19 @@
     <JP-Name>深海東洋艦隊 機動部隊旗艦</JP-Name>
     <TR-Name>심해동양함대 기동부대기함</TR-Name>
   </Sortie>
-    <Sortie>
+  <Sortie>
     <JP-Name>深海潜水艦隊 II群</JP-Name>
     <TR-Name>심해잠수함대 II군</TR-Name>
   </Sortie>
-      <Sortie>
+  <Sortie>
     <JP-Name>敵哨戒部隊</JP-Name>
     <TR-Name>적정찰부대</TR-Name>
   </Sortie>
-        <Sortie>
+  <Sortie>
     <JP-Name>深海潜水艦隊 I群</JP-Name>
     <TR-Name>심해잠수함대 I군</TR-Name>
   </Sortie>
-<Sortie>
+  <Sortie>
     <JP-Name>深海潜水艦隊集団 旗艦戦隊</JP-Name>
     <TR-Name>심해잠수함대집단 기함전대</TR-Name>
   </Sortie>
@@ -748,95 +757,95 @@
     <JP-Name>敵通商破壊主力潜水艦隊</JP-Name>
     <TR-Name>적통상파괴주력잠수함대</TR-Name>
   </Sortie>
-    <Sortie>
+  <Sortie>
     <JP-Name>敵前衛部隊</JP-Name>
     <TR-Name>적선봉부대</TR-Name>
   </Sortie>
-    <Sortie>
+  <Sortie>
     <JP-Name>敵機動部隊群</JP-Name>
     <TR-Name>적기동부대군</TR-Name>
   </Sortie>
-      <Sortie>
+  <Sortie>
     <JP-Name>敵上陸船団</JP-Name>
     <TR-Name>적상륙선단</TR-Name>
   </Sortie>
-       <Sortie>
+  <Sortie>
     <JP-Name>敵通商破壊機動部隊 主力艦隊</JP-Name>
     <TR-Name>적통상파괴기동부대 주력함대</TR-Name>
   </Sortie>
-         <Sortie>
+  <Sortie>
     <JP-Name>中部海域哨戒戦 H地点</JP-Name>
     <TR-Name>중부해역초계전 H지점</TR-Name>
   </Sortie>
-           <Sortie>
+  <Sortie>
     <JP-Name>中部海域哨戒戦 F地点</JP-Name>
     <TR-Name>중부해역초계전 F지점</TR-Name>
   </Sortie>
-             <Sortie>
+  <Sortie>
     <JP-Name>中部海域哨戒水雷戦隊 B群</JP-Name>
     <TR-Name>중부해역초계수뢰전대 B군</TR-Name>
   </Sortie>
-               <Sortie>
+  <Sortie>
     <JP-Name>離島防衛低速戦艦部隊</JP-Name>
     <TR-Name>이도방위저속전함부대</TR-Name>
   </Sortie>
-                 <Sortie>
+  <Sortie>
     <JP-Name>離島陸上航空隊</JP-Name>
     <TR-Name>이도육상항공대</TR-Name>
   </Sortie>
-                   <Sortie>
+  <Sortie>
     <JP-Name>離島守備隊</JP-Name>
     <TR-Name>이도수비대</TR-Name>
   </Sortie>
-                     <Sortie>
+  <Sortie>
     <JP-Name>深海巡洋艦戦隊</JP-Name>
     <TR-Name>심해순양함전대</TR-Name>
   </Sortie>
-                       <Sortie>
+  <Sortie>
     <JP-Name>深海護衛空母部隊 C群</JP-Name>
     <TR-Name>심해호위항모부대 C군</TR-Name>
   </Sortie>
-                      <Sortie>
+  <Sortie>
     <JP-Name>深海護衛空母部隊 A群</JP-Name>
     <TR-Name>심해호위항모부대 A군</TR-Name>
   </Sortie>
-                       <Sortie>
+  <Sortie>
     <JP-Name>任務部隊 主力群</JP-Name>
     <TR-Name>임무부대 주력군</TR-Name>
   </Sortie>
-                         <Sortie>
+  <Sortie>
     <JP-Name>深海潜水艦隊 前方展開部隊</JP-Name>
     <TR-Name>임무부대 주력군</TR-Name>
   </Sortie>
-                           <Sortie>
+  <Sortie>
     <JP-Name>敵前衛任務部隊 I群</JP-Name>
     <TR-Name>적선봉임무부대 I군</TR-Name>
   </Sortie>
-                             <Sortie>
+  <Sortie>
     <JP-Name>敵侵攻前衛艦隊 B群</JP-Name>
     <TR-Name>적침공전위함대 B군</TR-Name>
   </Sortie>
-                               <Sortie>
+  <Sortie>
     <JP-Name>敵侵攻重巡戦隊</JP-Name>
     <TR-Name>적침공중순전대</TR-Name>
   </Sortie>
-                                 <Sortie>
+  <Sortie>
     <JP-Name>敵侵攻水雷戦隊</JP-Name>
     <TR-Name>적침공수뢰전대</TR-Name>
   </Sortie>
-                                   <Sortie>
+  <Sortie>
     <JP-Name>敵侵攻水上打撃部隊</JP-Name>
     <TR-Name>적침공수상타격부대</TR-Name>
   </Sortie>
-                                     <Sortie>
+  <Sortie>
     <JP-Name>敵北方遊撃任務部隊</JP-Name>
     <TR-Name>적북방유격임무부대</TR-Name>
   </Sortie>
-                                       <Sortie>
+  <Sortie>
     <JP-Name>敵東方前衛艦隊</JP-Name>
     <TR-Name>적동방선봉함대</TR-Name>
   </Sortie>
-                                         <Sortie>
+  <Sortie>
     <JP-Name>敵東方艦隊 遊撃戦隊</JP-Name>
     <TR-Name>적동방함대 유격전대</TR-Name>
   </Sortie>
@@ -871,5 +880,21 @@
   <Sortie>
     <JP-Name>深海南方潜水艦隊 哨戒線</JP-Name>
     <TR-Name>심해남방잠수함대 초계선</TR-Name>
+  </Sortie>
+    <Sortie>
+    <JP-Name>敵機動部隊 A群</JP-Name>
+    <TR-Name>적기동부대 A군</TR-Name>
+  </Sortie>
+      <Sortie>
+    <JP-Name>深海南方任務部隊 本隊</JP-Name>
+    <TR-Name>심해남방임무부대 본대</TR-Name>
+  </Sortie>
+      <Sortie>
+    <JP-Name>深海南方任務部隊 水上打撃群</JP-Name>
+    <TR-Name>심해남방임무부대 수상타격군</TR-Name>
+  </Sortie>
+        <Sortie>
+    <JP-Name>深海南方任務部隊 水上打撃群</JP-Name>
+    <TR-Name>심해남방임무부대 수상타격군</TR-Name>
   </Sortie>
 </Operations>
