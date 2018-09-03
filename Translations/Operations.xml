@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Operations Version="1.3.7">
+<Operations Version="1.3.8">
   <Map>
     <JP-Name>鎮守府正面海域</JP-Name>
     <TR-Name>진수부정면해역</TR-Name>
@@ -807,5 +807,69 @@
                          <Sortie>
     <JP-Name>深海潜水艦隊 前方展開部隊</JP-Name>
     <TR-Name>임무부대 주력군</TR-Name>
+  </Sortie>
+                           <Sortie>
+    <JP-Name>敵前衛任務部隊 I群</JP-Name>
+    <TR-Name>적선봉임무부대 I군</TR-Name>
+  </Sortie>
+                             <Sortie>
+    <JP-Name>敵侵攻前衛艦隊 B群</JP-Name>
+    <TR-Name>적침공전위함대 B군</TR-Name>
+  </Sortie>
+                               <Sortie>
+    <JP-Name>敵侵攻重巡戦隊</JP-Name>
+    <TR-Name>적침공중순전대</TR-Name>
+  </Sortie>
+                                 <Sortie>
+    <JP-Name>敵侵攻水雷戦隊</JP-Name>
+    <TR-Name>적침공수뢰전대</TR-Name>
+  </Sortie>
+                                   <Sortie>
+    <JP-Name>敵侵攻水上打撃部隊</JP-Name>
+    <TR-Name>적침공수상타격부대</TR-Name>
+  </Sortie>
+                                     <Sortie>
+    <JP-Name>敵北方遊撃任務部隊</JP-Name>
+    <TR-Name>적북방유격임무부대</TR-Name>
+  </Sortie>
+                                       <Sortie>
+    <JP-Name>敵東方前衛艦隊</JP-Name>
+    <TR-Name>적동방선봉함대</TR-Name>
+  </Sortie>
+                                         <Sortie>
+    <JP-Name>敵東方艦隊 遊撃戦隊</JP-Name>
+    <TR-Name>적동방함대 유격전대</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>敵東方艦隊 遊撃戦隊分遣隊</JP-Name>
+    <TR-Name>적동방함대 유격전대분견대</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>敵東方艦隊 上陸輸送船団</JP-Name>
+    <TR-Name>적동방함대 상륙호송선단</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>敵東方艦隊 強襲上陸主力艦隊</JP-Name>
+    <TR-Name>적동방함대 강습상륙주력부대</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>敵東方潜水艦隊 哨戒分遣集団</JP-Name>
+    <TR-Name>적동방잠수함대 천안분견집단</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>敵東方哨戒艦隊 A群</JP-Name>
+    <TR-Name>적동방초계함대 A군</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>東洋方面潜水艦隊 哨戒線Bライン</JP-Name>
+    <TR-Name>동양방면잠수함대 초계선 B라인</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>東洋方面艦隊 新編水上打撃部隊</JP-Name>
+    <TR-Name>동양방면함대 신편수상타격부대</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>深海南方潜水艦隊 哨戒線</JP-Name>
+    <TR-Name>심해남방잠수함대 초계선</TR-Name>
   </Sortie>
 </Operations>
