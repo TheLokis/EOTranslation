@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.4.7">
+<Equipment Version="1.4.8">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm 단장포</TR-Name>
@@ -1563,5 +1563,13 @@
   <Item>
     <JP-Name>12cm単装高角砲</JP-Name>
     <TR-Name>12cm단장고각포</TR-Name>
+  </Item>
+    <Item>
+    <JP-Name>Bofors 15.2cm連装砲 Model 1930</JP-Name>
+    <TR-Name>Bofors 15.2cm연장포 Model 1930</TR-Name>
+  </Item>
+     <Item>
+    <JP-Name>Ju87C改二(KMX搭載機)</JP-Name>
+    <TR-Name>Ju87C 개2(KMX탑재기)</TR-Name>
   </Item>
 </Equipment>
