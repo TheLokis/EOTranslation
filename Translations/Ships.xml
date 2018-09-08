@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Ships Version="1.8.7">
+<Ships Version="1.8.9">
   <Ship>
     <JP-Name>長門</JP-Name>
     <TR-Name>나가토</TR-Name>
@@ -1112,6 +1112,10 @@
     <JP-Name>Samuel B.Roberts</JP-Name>
     <TR-Name>사무엘 B. 로버츠</TR-Name>
   </Ship>
+    <Ship>
+    <JP-Name>神鷹</JP-Name>
+    <TR-Name>신요</TR-Name>
+  </Ship>
   <Ship>
     <JP-Name>駆逐イ級</JP-Name>
     <TR-Name>구축 이급</TR-Name>
@@ -1428,6 +1432,10 @@
     <JP-Name>深海鶴棲姫</JP-Name>
     <TR-Name>심해학서희</TR-Name>
   </Ship>
+                    <Ship>
+    <JP-Name>護衛独還姫</JP-Name>
+    <TR-Name>호위독환희</TR-Name>
+  </Ship>
   <Ship mode="suffix">
     <JP-Name>改</JP-Name>
     <TR-Name> 개</TR-Name>
@@ -1495,6 +1503,10 @@
   <Ship mode="suffix">
     <JP-Name>母</JP-Name>
     <TR-Name> 모</TR-Name>
+  </Ship>
+    <Ship mode="suffix">
+    <JP-Name>バカンスmode</JP-Name>
+    <TR-Name> 바캉스모드</TR-Name>
   </Ship>
   <Ship mode="suffix">
     <JP-Name>丁</JP-Name>
