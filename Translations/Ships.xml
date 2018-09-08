@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Ships Version="1.8.9">
+<Ships Version="1.8.10">
   <Ship>
     <JP-Name>長門</JP-Name>
     <TR-Name>나가토</TR-Name>
@@ -1435,6 +1435,18 @@
                     <Ship>
     <JP-Name>護衛独還姫</JP-Name>
     <TR-Name>호위독환희</TR-Name>
+  </Ship>
+                      <Ship>
+    <JP-Name>潜水新棲姫 バカンスmode</JP-Name>
+    <TR-Name>잠수신서희 바캉스모드</TR-Name>
+  </Ship>
+                        <Ship>
+    <JP-Name>集積地棲姫 バカンスmode</JP-Name>
+    <TR-Name>집적지서희 바캉스모드</TR-Name>
+  </Ship>
+                          <Ship>
+    <JP-Name>泊地水鬼 バカンスmode</JP-Name>
+    <TR-Name>박지수귀 바캉스모드</TR-Name>
   </Ship>
   <Ship mode="suffix">
     <JP-Name>改</JP-Name>
