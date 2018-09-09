@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Operations Version="1.3.10">
+<Operations Version="1.3.11">
   <Map>
     <JP-Name>鎮守府正面海域</JP-Name>
     <TR-Name>진수부정면해역</TR-Name>
@@ -171,6 +171,18 @@
   <Map>
     <JP-Name>北太平洋海域</JP-Name>
     <TR-Name>E-5 : 북태평양 해역</TR-Name>
+  </Map>
+    <Map>
+    <JP-Name>南西作戦海域方面　バリ島沖</JP-Name>
+    <TR-Name>남서작전해역방면 발리섬 바다</TR-Name>
+  </Map>
+      <Map>
+    <JP-Name>西方作戦海域方面　マラッカ海峡北方</JP-Name>
+    <TR-Name>서방작전해역방면 말라카해협 북방</TR-Name>
+  </Map>
+        <Map>
+    <JP-Name>西方作戦海域方面　セイロン島南西沖</JP-Name>
+    <TR-Name>서방작전해역방면 실론섬 남서 바다</TR-Name>
   </Map>
   <Sortie>
     <JP-Name>渦潮</JP-Name>
