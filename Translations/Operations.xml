@@ -905,4 +905,16 @@
     <JP-Name>深海南方任務部隊 水上打撃群</JP-Name>
     <TR-Name>심해남방임무부대 수상타격군</TR-Name>
   </Sortie>
+         <Sortie>
+    <JP-Name>深海駆逐隊</JP-Name>
+    <TR-Name>심해구축함대</TR-Name>
+  </Sortie>
+        <Sortie>
+    <JP-Name>深海通商破壊部隊 支援補給群</JP-Name>
+    <TR-Name>심해통상파괴부대 지원보급대</TR-Name>
+  </Sortie>
+         <Sortie>
+    <JP-Name>深海通商破壊部隊 指揮潜水艦</JP-Name>
+    <TR-Name>심해통상파괴부대 </TR-Name>
+  </Sortie>
 </Operations>
