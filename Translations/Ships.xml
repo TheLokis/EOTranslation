@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Ships Version="1.8.10">
+<Ships Version="1.8.11">
   <Ship>
     <JP-Name>長門</JP-Name>
     <TR-Name>나가토</TR-Name>
@@ -1116,6 +1116,18 @@
     <JP-Name>神鷹</JP-Name>
     <TR-Name>신요</TR-Name>
   </Ship>
+      <Ship>
+    <JP-Name>Nelson</JP-Name>
+    <TR-Name>넬슨</TR-Name>
+  </Ship>
+        <Ship>
+    <JP-Name>Gotland</JP-Name>
+    <TR-Name>고틀랜드</TR-Name>
+  </Ship>
+         <Ship>
+    <JP-Name>Maestrale</JP-Name>
+    <TR-Name>마에스트랄레</TR-Name>
+  </Ship>
   <Ship>
     <JP-Name>駆逐イ級</JP-Name>
     <TR-Name>구축 이급</TR-Name>
@@ -1447,6 +1459,26 @@
                           <Ship>
     <JP-Name>泊地水鬼 バカンスmode</JP-Name>
     <TR-Name>박지수귀 바캉스모드</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>船渠棲姫</JP-Name>
+    <TR-Name>선거서희</TR-Name>
+  </Ship>
+    <Ship>
+    <JP-Name>戦艦仏棲姫 バカンスmode</JP-Name>
+    <TR-Name>전함불서희 바캉스모드</TR-Name>
+  </Ship>
+      <Ship>
+    <JP-Name>戦艦仏棲姫 バカンスmode</JP-Name>
+    <TR-Name>전함불서희 바캉스모드</TR-Name>
+  </Ship>
+        <Ship>
+    <JP-Name>戦艦仏棲姫-壊 バカンスmode</JP-Name>
+    <TR-Name>전함불서희-괴 바캉스모드</TR-Name>
+  </Ship>
+          <Ship>
+    <JP-Name>欧州水姫</JP-Name>
+    <TR-Name>구주수희</TR-Name>
   </Ship>
   <Ship mode="suffix">
     <JP-Name>改</JP-Name>
