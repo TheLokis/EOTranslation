@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Operations Version="1.3.13">
+<Operations Version="1.4.13">
   <Map>
     <JP-Name>鎮守府正面海域</JP-Name>
     <TR-Name>진수부정면해역</TR-Name>
@@ -183,6 +183,14 @@
   <Map>
     <JP-Name>西方作戦海域方面 セイロン島南西沖</JP-Name>
     <TR-Name>서방작전해역방면 실론섬 남서 바다</TR-Name>
+  </Map>
+    <Map>
+    <JP-Name>欧州作戦海域方面 地中海マルタ島沖</JP-Name>
+    <TR-Name>유럽작전해역방면 지중해 몰타섬 바다</TR-Name>
+  </Map>
+      <Map>
+    <JP-Name>欧州作戦海域方面 北海／北大西洋海域</JP-Name>
+    <TR-Name>유럽작전해역방면 북해/북대서양 해역</TR-Name>
   </Map>
   <Sortie>
     <JP-Name>渦潮</JP-Name>
@@ -916,5 +924,61 @@
          <Sortie>
     <JP-Name>深海通商破壊部隊 指揮潜水艦</JP-Name>
     <TR-Name>심해통상파괴부대 지휘잠수함</TR-Name>
+  </Sortie>
+          <Sortie>
+    <JP-Name>海峡警備 深海水雷戦隊</JP-Name>
+    <TR-Name>해협경비 심해수뢰전대</TR-Name>
+  </Sortie>
+   <Sortie>
+    <JP-Name>深海集積地プーケット航空隊</JP-Name>
+    <TR-Name>심해집적지 푸켓 항공대</TR-Name>
+  </Sortie>
+     <Sortie>
+    <JP-Name>海峡警備 深海重巡戦隊</JP-Name>
+    <TR-Name>해협경비 심해중순양함전대</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>海峡封鎖 深海遊撃部隊</JP-Name>
+    <TR-Name>해협봉쇄 심해유격부대</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>海峡前線集積地 防衛艦隊</JP-Name>
+    <TR-Name>해협전선집적지 방위함대</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>深海前線集積地 本部</JP-Name>
+    <TR-Name>해협전선집적지 본부</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>深海前線泊地艦隊 前衛水雷戦隊</JP-Name>
+    <TR-Name>심해전선정박지함대 전위수뢰전대</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>深海東方増派潜水艦隊 I群</JP-Name>
+    <TR-Name>심해동방증파잠수함대 I군</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>海峡封鎖 深海戦艦部隊</JP-Name>
+    <TR-Name>해협봉쇄 심해전함부대</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>深海東方増派潜水艦隊 II群</JP-Name>
+    <TR-Name>심해동방증파잠수함대 II군</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>セイロン島南部 深海占拠港湾</JP-Name>
+    <TR-Name>실론섬남부 심해점거항만</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>深海前線葉艦棲泊地 警備艦隊</JP-Name>
+    <TR-Name>심해전선엽함서정박지 경비함대</TR-Name>
+  </Sortie>
+    <Sortie>
+    <JP-Name>深海前線葉艦棲泊地</JP-Name>
+    <TR-Name>심해전선엽함서정박지/TR-Name>
+  </Sortie>
+         <Sortie>
+    <JP-Name>深海地中海艦隊 前衛警戒部隊</JP-Name>
+    <TR-Name>심해지중해함대 전위경계부대/TR-Name>
   </Sortie>
 </Operations>
