@@ -975,10 +975,14 @@
   </Sortie>
     <Sortie>
     <JP-Name>深海前線葉艦棲泊地</JP-Name>
-    <TR-Name>심해전선엽함서정박지/TR-Name>
+    <TR-Name>심해전선엽함서정박지</TR-Name>
   </Sortie>
          <Sortie>
     <JP-Name>深海地中海艦隊 前衛警戒部隊</JP-Name>
-    <TR-Name>심해지중해함대 전위경계부대/TR-Name>
+    <TR-Name>심해지중해함대 전위경계부대</TR-Name>
+  </Sortie>
+                   <Sortie>
+    <JP-Name>深海地中海艦隊 地域警備隊</JP-Name>
+    <TR-Name>심해지중해함대 지역경비대</TR-Name>
   </Sortie>
 </Operations>
