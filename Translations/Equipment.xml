@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.5.9">
+<Equipment Version="1.5.10">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm 단장포</TR-Name>
@@ -150,7 +150,7 @@
   </Item>
   <Item>
     <JP-Name>42号対空電探</JP-Name>
-    <TR-Name>424호 대공전탐</TR-Name>
+    <TR-Name>42호 대공전탐</TR-Name>
   </Item>
   <Item>
     <JP-Name>改良型艦本式タービン</JP-Name>
