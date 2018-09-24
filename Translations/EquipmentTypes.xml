@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<EquipmentTypes Version="1.4.1">
+<EquipmentTypes Version="1.4.2">
   <Type>
     <JP-Name>小口径主砲</JP-Name>
     <TR-Name>소구경 주포</TR-Name>
@@ -195,5 +195,17 @@
         <Type>
     <JP-Name>潜水艦装備</JP-Name>
     <TR-Name>잠수함전탐</TR-Name>
+  </Type>
+          <Type>
+    <JP-Name>VT信管</JP-Name>
+    <TR-Name>VT신관</TR-Name>
+  </Type>
+            <Type>
+    <JP-Name>大型電探(II)</JP-Name>
+    <TR-Name>대형전탐(II)</TR-Name>
+  </Type>
+              <Type>
+    <JP-Name>追加装甲</JP-Name>
+    <TR-Name>추가장갑</TR-Name>
   </Type>
 </EquipmentTypes>
