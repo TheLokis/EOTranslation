@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.5.10">
+<Equipment Version="1.5.11">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm 단장포</TR-Name>
@@ -1587,5 +1587,9 @@
   <Item>
     <JP-Name>Ju87C改二(KMX搭載機/熟練)</JP-Name>
     <TR-Name>Ju87C 개2(KMX탑재기/숙련)</TR-Name>
+  </Item>
+    <Item>
+    <JP-Name>5inch単装砲 Mk.30改+GFCS Mk.37</JP-Name>
+    <TR-Name>5inch단장포 Mk.30改+GFCS Mk.37</TR-Name>
   </Item>
 </Equipment>
