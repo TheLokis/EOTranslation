@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.5.11">
+<Equipment Version="1.5.12">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm 단장포</TR-Name>
@@ -838,7 +838,7 @@
   </Item>
   <Item>
     <JP-Name>深海水上攻撃機改</JP-Name>
-    <TR-Name>심해 해상공격기改</TR-Name>
+    <TR-Name>심해 해상공격기 개</TR-Name>
   </Item>
   <Item>
     <JP-Name>深海猫艦戦改</JP-Name>
@@ -1074,7 +1074,7 @@
   </Item>
   <Item>
     <JP-Name>三式戦 飛燕一型丁</JP-Name>
-    <TR-Name>3식 전투기 히엔 1형丁</TR-Name>
+    <TR-Name>3식 전투기 히엔 1형 정</TR-Name>
   </Item>
   <Item>
     <JP-Name>銀河</JP-Name>
@@ -1210,11 +1210,11 @@
   </Item>
   <Item>
     <JP-Name>一式戦 隼III型甲</JP-Name>
-    <TR-Name>1식 전투기 하야부사 3형甲</TR-Name>
+    <TR-Name>1식 전투기 하야부사 3형 갑</TR-Name>
   </Item>
   <Item>
     <JP-Name>一式戦 隼III型甲(54戦隊)</JP-Name>
-    <TR-Name>1식 전투기 하야부사 3형甲(54전대)</TR-Name>
+    <TR-Name>1식 전투기 하야부사 3형 갑(54전대)</TR-Name>
   </Item>
   <Item>
     <JP-Name>爆装一式戦 隼III型改(65戦隊)</JP-Name>
@@ -1286,7 +1286,7 @@
   </Item>
   <Item>
     <JP-Name>零式水上偵察機11型乙</JP-Name>
-    <TR-Name>영식 수상정찰기 11형乙</TR-Name>
+    <TR-Name>영식 수상정찰기 11형 을</TR-Name>
   </Item>
   <Item>
     <JP-Name>戦闘糧食(特別なおにぎり)</JP-Name>
@@ -1298,11 +1298,11 @@
   </Item>
   <Item>
     <JP-Name>Swordfish Mk.II(熟練)</JP-Name>
-    <TR-Name>Swordfish Mk.II(숙련)</TR-Name>
+    <TR-Name>소드피쉬 Mk.II(숙련)</TR-Name>
   </Item>
   <Item>
     <JP-Name>Swordfish Mk.III(熟練)</JP-Name>
-    <TR-Name>Swordfish Mk.III(숙련)</TR-Name>
+    <TR-Name>소드피쉬 Mk.III(숙련)</TR-Name>
   </Item>
   <Item>
     <JP-Name>38cm四連装砲</JP-Name>
@@ -1318,23 +1318,23 @@
   </Item>
   <Item>
     <JP-Name>Skua</JP-Name>
-    <TR-Name>Skua</TR-Name>
+    <TR-Name>스쿠아</TR-Name>
   </Item>
   <Item>
     <JP-Name>Fulmar</JP-Name>
-    <TR-Name>Fulmar</TR-Name>
+    <TR-Name>풀머</TR-Name>
   </Item>
   <Item>
     <JP-Name>Spitfire Mk.I</JP-Name>
-    <TR-Name>Spitfire Mk.I</TR-Name>
+    <TR-Name>스핏파이어 Mk.I</TR-Name>
   </Item>
   <Item>
     <JP-Name>Spitfire Mk.V</JP-Name>
-    <TR-Name>Spitfire Mk.V</TR-Name>
+    <TR-Name>스핏파이어 Mk.V</TR-Name>
   </Item>
   <Item>
     <JP-Name>Seafire LF.Mk.III</JP-Name>
-    <TR-Name>Seafire LF.Mk.III</TR-Name>
+    <TR-Name>시파이어 LF.Mk.III</TR-Name>
   </Item>
   <Item>
     <JP-Name>Spitfire Mk.IX(熟練)</JP-Name>
@@ -1446,7 +1446,7 @@
   </Item>
   <Item>
     <JP-Name>12cm30連装噴進砲改二</JP-Name>
-    <TR-Name>12cm 30연장 분진포改2</TR-Name>
+    <TR-Name>12cm 30연장 분진포 개2</TR-Name>
   </Item>
   <Item>
     <JP-Name>46cm三連装砲改</JP-Name>
@@ -1530,7 +1530,7 @@
   </Item>
   <Item>
     <JP-Name>35.6cm三連装砲改(ダズル迷彩仕様)</JP-Name>
-    <TR-Name>35.6cm 삼연장포改(다즐미채 사양)</TR-Name>
+    <TR-Name>35.6cm 삼연장포 개(다즐미채 사양)</TR-Name>
   </Item>
   <Item>
     <JP-Name>41cm三連装砲改二</JP-Name>
@@ -1590,6 +1590,18 @@
   </Item>
     <Item>
     <JP-Name>5inch単装砲 Mk.30改+GFCS Mk.37</JP-Name>
-    <TR-Name>5inch단장포 Mk.30改+GFCS Mk.37</TR-Name>
+    <TR-Name>5inch단장포 Mk.30개+GFCS Mk.37</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>Seafire Mk.III改</JP-Name>
+    <TR-Name>시파이어 Mk.III개</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>Swordfish</JP-Name>
+    <TR-Name>소드피쉬</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>S9 Osprey</JP-Name>
+    <TR-Name>S9 오스프리</TR-Name>
   </Item>
 </Equipment>
