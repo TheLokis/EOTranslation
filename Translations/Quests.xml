@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.5.24">
+<Quests Version="1.5.25">
   <Quest>
     <ID>640</ID>
     <JP-Name>初夏の整理整頓</JP-Name>
@@ -1252,7 +1252,7 @@
     <JP-Name>敵東方中枢艦隊を撃破せよ！</JP-Name>
     <TR-Name>적 동방중추함대를 격멸하라!</TR-Name>
     <JP-Detail>西方海域カスガダマ島沖に出撃し、敵東方中枢艦隊を捕捉、これを撃破せよ！</JP-Detail>
-    <TR-Detail>서방해역 카스가다마 섬 앞바다에 출격하여 적 동방중추함대를 포착, 격파하라!(4-4 해역 보스전 1회 승리 - 구축2척, 항순1척이 함대에 포함시 보방 앞까지 루트고정)</TR-Detail>
+    <TR-Detail>서방해역 카스가다마 섬 앞바다에 출격하여 적 동방중추함대를 포착, 격파하라!(4-4 보스전 1회 승리 - 구축2, 정규/장갑항모2, 경/중/항순1로 보방 루트고정)</TR-Detail>
   </Quest>
   <Quest>
     <ID>241</ID>
