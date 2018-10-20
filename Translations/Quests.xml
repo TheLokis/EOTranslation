@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.5.25">
+<Quests Version="1.5.26">
   <Quest>
     <ID>640</ID>
     <JP-Name>初夏の整理整頓</JP-Name>
@@ -124,7 +124,7 @@
     <JP-Name>南方海域珊瑚諸島沖の制空権を握れ！</JP-Name>
     <TR-Name>남방해역 산호제도 앞바다의 제공권을 쥐어라!</TR-Name>
     <JP-Detail>南方海域珊瑚諸島沖に出撃し、敵機動部隊本体を捕捉撃滅、これに完全勝利せよ！</JP-Detail>
-    <TR-Detail>5-2 해역 보스전 2회 S승리 - 정규항모(or 장갑항모)2척, 경항모1척 + 정규,장갑,경항모 이외 3척을 편성시 보스방 루트고정</TR-Detail>
+    <TR-Detail>5-2 해역 보스전 2회 S승리 - 1전2항1중2구로 편성시 보스방 루트고정</TR-Detail>
   </Quest>
   <Quest>
     <ID>818</ID>
