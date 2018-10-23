@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.5.12">
+<Equipment Version="1.5.13">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm 단장포</TR-Name>
@@ -14,11 +14,11 @@
   </Item>
   <Item>
     <JP-Name>12.7cm連装砲B型改四(戦時改修)+高射装置</JP-Name>
-    <TR-Name>12.7cm연장포B형개4(전시개수+고사장치)</TR-Name>
+    <TR-Name>12.7cm 연장포 B형 개4(전시개수+고사장치)</TR-Name>
   </Item>
   <Item>
     <JP-Name>12.7cm連装砲A型改三(戦時改修)+高射装置</JP-Name>
-    <TR-Name>12.7cm연장포A형개3(전시개수+고사장치)</TR-Name>
+    <TR-Name>12.7cm 연장포 A형 개3(전시개수+고사장치)</TR-Name>
   </Item>
   <Item>
     <JP-Name>12.7cm連装砲</JP-Name>
@@ -170,19 +170,19 @@
   </Item>
   <Item>
     <JP-Name>7.7mm機銃</JP-Name>
-    <TR-Name>7.7mm 기관총</TR-Name>
+    <TR-Name>7.7mm 기총</TR-Name>
   </Item>
   <Item>
     <JP-Name>12.7mm単装機銃</JP-Name>
-    <TR-Name>12.7mm 단장기관총</TR-Name>
+    <TR-Name>12.7mm 단장기총</TR-Name>
   </Item>
   <Item>
     <JP-Name>25mm連装機銃</JP-Name>
-    <TR-Name>25mm 연장기관총</TR-Name>
+    <TR-Name>25mm 연장기총</TR-Name>
   </Item>
   <Item>
     <JP-Name>25mm三連装機銃</JP-Name>
-    <TR-Name>25mm 3연장기관총</TR-Name>
+    <TR-Name>25mm 3연장기총</TR-Name>
   </Item>
   <Item>
     <JP-Name>甲標的 甲型</JP-Name>
@@ -222,7 +222,7 @@
   </Item>
   <Item>
     <JP-Name>25mm単装機銃</JP-Name>
-    <TR-Name>25mm 단장기관총</TR-Name>
+    <TR-Name>25mm 단장기총</TR-Name>
   </Item>
   <Item>
     <JP-Name>20.3cm(3号)連装砲</JP-Name>
@@ -278,7 +278,7 @@
   </Item>
   <Item>
     <JP-Name>12.7cm連装砲B型改二</JP-Name>
-    <TR-Name>12.7cm 연장포B형 개2</TR-Name>
+    <TR-Name>12.7cm 연장포 B형 개2</TR-Name>
   </Item>
   <Item>
     <JP-Name>Ju87C改</JP-Name>
@@ -378,7 +378,7 @@
   </Item>
   <Item>
     <JP-Name>毘式40mm連装機銃</JP-Name>
-    <TR-Name>비식 40mm 연장기관총</TR-Name>
+    <TR-Name>비식 40mm 연장기총</TR-Name>
   </Item>
   <Item>
     <JP-Name>九七式艦攻(友永隊)</JP-Name>
@@ -394,7 +394,7 @@
   </Item>
   <Item>
     <JP-Name>零式艦戦21型(熟練)</JP-Name>
-    <TR-Name>영식 함상전투기21형(숙련)</TR-Name>
+    <TR-Name>영식 함상전투기 21형(숙련)</TR-Name>
   </Item>
   <Item>
     <JP-Name>九九式艦爆(熟練)</JP-Name>
@@ -554,7 +554,7 @@
   </Item>
   <Item>
     <JP-Name>25mm三連装機銃 集中配備</JP-Name>
-    <TR-Name>25mm 3연장기관총 집중배치</TR-Name>
+    <TR-Name>25mm 3연장기총 집중배치</TR-Name>
   </Item>
   <Item>
     <JP-Name>瑞雲12型(六三四空)</JP-Name>
@@ -706,11 +706,11 @@
   </Item>
   <Item>
     <JP-Name>12.7mm機銃</JP-Name>
-    <TR-Name>12.7mm 기관총</TR-Name>
+    <TR-Name>12.7mm 기총</TR-Name>
   </Item>
   <Item>
     <JP-Name>20mm機銃</JP-Name>
-    <TR-Name>20mm 기관총</TR-Name>
+    <TR-Name>20mm 기총</TR-Name>
   </Item>
   <Item>
     <JP-Name>40mm二連装機関砲</JP-Name>
@@ -1202,7 +1202,7 @@
   </Item>
   <Item>
     <JP-Name>8cm高角砲改+増設機銃</JP-Name>
-    <TR-Name>8cm 고각포 개+증설기관총</TR-Name>
+    <TR-Name>8cm 고각포 개+증설기총</TR-Name>
   </Item>
   <Item>
     <JP-Name>一式戦 隼II型</JP-Name>
@@ -1386,7 +1386,7 @@
   </Item>
   <Item>
     <JP-Name>12.7cm連装砲C型改二</JP-Name>
-    <TR-Name>12.7cm 연장포C형 개2</TR-Name>
+    <TR-Name>12.7cm 연장포 C형 개2</TR-Name>
   </Item>
   <Item>
     <JP-Name>紫電一一型</JP-Name>
@@ -1588,7 +1588,7 @@
     <JP-Name>Ju87C改二(KMX搭載機/熟練)</JP-Name>
     <TR-Name>Ju87C 개2(KMX탑재기/숙련)</TR-Name>
   </Item>
-    <Item>
+  <Item>
     <JP-Name>5inch単装砲 Mk.30改+GFCS Mk.37</JP-Name>
     <TR-Name>5inch단장포 Mk.30개+GFCS Mk.37</TR-Name>
   </Item>
