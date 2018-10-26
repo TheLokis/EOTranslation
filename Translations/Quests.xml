@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.5.27">
+<Quests Version="1.5.28">
   <Quest>
     <ID>640</ID>
     <JP-Name>初夏の整理整頓</JP-Name>
@@ -913,7 +913,7 @@
     <JP-Name>「第七駆逐隊」、南西諸島を駆ける！</JP-Name>
     <TR-Name>제7구축대, 남서제도를 달려라!</TR-Name>
     <JP-Detail>提督お手伝いすみません…「お飾り材料」を16個集めて頂けないでしょうか？</JP-Detail>
-    <TR-Detail>제7구축대 2척이상 편성, 2-1 2-2 2-3 2-4 클리어</TR-Detail>
+    <TR-Detail>제7구축대(오보로,아케보노,사자나미,우시오) 2척이상 편성, 2-1 2-2 2-3 2-4 클리어</TR-Detail>
   </Quest>
     <Quest>
     <ID>195</ID>
