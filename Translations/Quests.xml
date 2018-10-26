@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.5.26">
+<Quests Version="1.5.27">
   <Quest>
     <ID>640</ID>
     <JP-Name>初夏の整理整頓</JP-Name>
@@ -910,10 +910,17 @@
   </Quest>
   <Quest>
     <ID>298</ID>
-    <JP-Name>師走の「間宮」のお手伝い</JP-Name>
-    <TR-Name>연말의 "마미야" 돕기</TR-Name>
+    <JP-Name>「第七駆逐隊」、南西諸島を駆ける！</JP-Name>
+    <TR-Name>제7구축대, 남서제도를 달려라!</TR-Name>
     <JP-Detail>提督お手伝いすみません…「お飾り材料」を16個集めて頂けないでしょうか？</JP-Detail>
-    <TR-Detail>제독님, 도움을 요청해 죄송합니다... "장식 재료"를 16개 모아주실 수 없을까요? (장식 재료 16개 소지로 달성)</TR-Detail>
+    <TR-Detail>제7구축대 2척이상 편성, 2-1 2-2 2-3 2-4 클리어</TR-Detail>
+  </Quest>
+    <Quest>
+    <ID>195</ID>
+    <JP-Name>精強「第十七駆逐隊」を編成せよ！</JP-Name>
+    <TR-Name>정예 제17구축대를 편성하라!</TR-Name>
+    <JP-Detail>提督お手伝いすみません…「お飾り材料」を16個集めて頂けないでしょうか？</JP-Detail>
+    <TR-Detail>이소카제 을개, 하마카제 을개, 우라카제 정개, 타니카제 정개 편성</TR-Detail>
   </Quest>
   <Quest>
     <ID>297</ID>
