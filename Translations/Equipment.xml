@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.5.13">
+<Equipment Version="1.5.14">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm 단장포</TR-Name>
@@ -582,7 +582,7 @@
   </Item>
   <Item>
     <JP-Name>8inch三連装砲</JP-Name>
-    <TR-Name>8inch 삼연장포</TR-Name>
+    <TR-Name>8inch 3연장포</TR-Name>
   </Item>
   <Item>
     <JP-Name>6inch連装速射砲</JP-Name>
@@ -598,7 +598,7 @@
   </Item>
   <Item>
     <JP-Name>16inch三連装砲</JP-Name>
-    <TR-Name>16inch 삼연장포</TR-Name>
+    <TR-Name>16inch 3연장포</TR-Name>
   </Item>
   <Item>
     <JP-Name>6inch単装砲</JP-Name>
@@ -902,7 +902,7 @@
   </Item>
   <Item>
     <JP-Name>16inch三連装砲 Mk.7</JP-Name>
-    <TR-Name>16inch 삼연장포 Mk.7</TR-Name>
+    <TR-Name>16inch 3연장포 Mk.7</TR-Name>
   </Item>
   <Item>
     <JP-Name>Ro.44水上戦闘機</JP-Name>
@@ -1002,7 +1002,7 @@
   </Item>
   <Item>
     <JP-Name>16inch三連装砲 Mk.7＋GFCS</JP-Name>
-    <TR-Name>16inch 삼연장포 Mk.7＋GFCS</TR-Name>
+    <TR-Name>16inch 3연장포 Mk.7＋GFCS</TR-Name>
   </Item>
   <Item>
     <JP-Name>？？？</JP-Name>
@@ -1022,7 +1022,7 @@
   </Item>
   <Item>
     <JP-Name>16inch三連装砲 Mk.7+GFCS</JP-Name>
-    <TR-Name>16inch 삼연장포 Mk.7+GFCS</TR-Name>
+    <TR-Name>16inch 3연장포 Mk.7+GFCS</TR-Name>
   </Item>
   <Item>
     <JP-Name>深海探照灯</JP-Name>
@@ -1246,11 +1246,11 @@
   </Item>
   <Item>
     <JP-Name>30.5cm三連装砲</JP-Name>
-    <TR-Name>30.5cm 삼연장포</TR-Name>
+    <TR-Name>30.5cm 3연장포</TR-Name>
   </Item>
   <Item>
     <JP-Name>30.5cm三連装砲改</JP-Name>
-    <TR-Name>30.5cm 삼연장포 개</TR-Name>
+    <TR-Name>30.5cm 3연장포 개</TR-Name>
   </Item>
   <Item>
     <JP-Name>深海攻撃哨戒鷹</JP-Name>
@@ -1262,7 +1262,7 @@
   </Item>
   <Item>
     <JP-Name>深海12inch三連装砲</JP-Name>
-    <TR-Name>심해 12inch 삼연장포</TR-Name>
+    <TR-Name>심해 12inch 3연장포</TR-Name>
   </Item>
   <Item>
     <JP-Name>41cm三連装砲改</JP-Name>
@@ -1450,7 +1450,7 @@
   </Item>
   <Item>
     <JP-Name>46cm三連装砲改</JP-Name>
-    <TR-Name>46cm 삼연장포 개</TR-Name>
+    <TR-Name>46cm 3연장포 개</TR-Name>
   </Item>
   <Item>
     <JP-Name>FM-2</JP-Name>
@@ -1486,7 +1486,7 @@
   </Item>
   <Item>
     <JP-Name>533mm 三連装魚雷</JP-Name>
-    <TR-Name>533mm 삼연장어뢰</TR-Name>
+    <TR-Name>533mm 3연장어뢰</TR-Name>
   </Item>
   <Item>
     <JP-Name>夜猫深海艦戦</JP-Name>
@@ -1510,15 +1510,15 @@
   </Item>
   <Item>
     <JP-Name>深海16inch三連装砲改</JP-Name>
-    <TR-Name>심해 16inch 삼연장포 개</TR-Name>
+    <TR-Name>심해 16inch 3연장포 개</TR-Name>
   </Item>
   <Item>
     <JP-Name>61cm三連装(酸素)魚雷後期型</JP-Name>
-    <TR-Name>61cm 삼연장(산소)어뢰 후기형</TR-Name>
+    <TR-Name>61cm 3연장(산소)어뢰 후기형</TR-Name>
   </Item>
   <Item>
     <JP-Name>61cm四連装(酸素)魚雷後期型</JP-Name>
-    <TR-Name>61cm 사연장(산소)어뢰 후기형</TR-Name>
+    <TR-Name>61cm 4연장(산소)어뢰 후기형</TR-Name>
   </Item>
   <Item>
     <JP-Name>試製15cm9連装対潜噴進砲</JP-Name>
@@ -1530,11 +1530,11 @@
   </Item>
   <Item>
     <JP-Name>35.6cm三連装砲改(ダズル迷彩仕様)</JP-Name>
-    <TR-Name>35.6cm 삼연장포 개(다즐미채 사양)</TR-Name>
+    <TR-Name>35.6cm 3연장포 개(다즐미채 사양)</TR-Name>
   </Item>
   <Item>
     <JP-Name>41cm三連装砲改二</JP-Name>
-    <TR-Name>41cm 삼연장포 개2</TR-Name>
+    <TR-Name>41cm 3연장포 개2</TR-Name>
   </Item>
   <Item>
     <JP-Name>彗星二二型(六三四空)</JP-Name>
