@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.5.14">
+<Equipment Version="1.5.15">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm 단장포</TR-Name>
@@ -1603,5 +1603,9 @@
   <Item>
     <JP-Name>S9 Osprey</JP-Name>
     <TR-Name>S9 오스프리</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>甲標的 丙型</JP-Name>
+    <TR-Name>갑표적 병형</TR-Name>
   </Item>
 </Equipment>
