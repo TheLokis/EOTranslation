@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.5.15">
+<Equipment Version="1.5.16">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm 단장포</TR-Name>
@@ -1294,7 +1294,7 @@
   </Item>
   <Item>
     <JP-Name>Swordfish</JP-Name>
-    <TR-Name>Swordfish</TR-Name>
+    <TR-Name>소드피쉬</TR-Name>
   </Item>
   <Item>
     <JP-Name>Swordfish Mk.II(熟練)</JP-Name>
@@ -1338,7 +1338,7 @@
   </Item>
   <Item>
     <JP-Name>Spitfire Mk.IX(熟練)</JP-Name>
-    <TR-Name>Spitfire Mk.IX(숙련)</TR-Name>
+    <TR-Name>스핏파이어 Mk.IX(숙련)</TR-Name>
   </Item>
   <Item>
     <JP-Name>深海15inch四連装砲</JP-Name>
