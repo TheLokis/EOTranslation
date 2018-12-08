@@ -208,4 +208,8 @@
     <JP-Name>追加装甲</JP-Name>
     <TR-Name>추가장갑</TR-Name>
   </Type>
+                <Type>
+    <JP-Name>陸上偵察機</JP-Name>
+    <TR-Name>추가장갑</TR-Name>
+  </Type>
 </EquipmentTypes>
