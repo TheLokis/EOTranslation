@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.5.18">
+<Equipment Version="1.5.19">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm 단장포</TR-Name>
@@ -1631,5 +1631,21 @@
             <Item>
     <JP-Name>SG レーダー(初期型)</JP-Name>
     <TR-Name>SG 레이더 (초기형)</TR-Name>
+  </Item>
+              <Item>
+    <JP-Name>深海5.5inch連装砲改</JP-Name>
+    <TR-Name>심해 5.5inch 연장포 개</TR-Name>
+  </Item>
+                <Item>
+    <JP-Name>深海5inch連装砲C型</JP-Name>
+    <TR-Name>심해5inch 연장포 C형</TR-Name>
+  </Item>
+                <Item>
+    <JP-Name>深海標的</JP-Name>
+    <TR-Name>심해표적</TR-Name>
+  </Item>
+                  <Item>
+    <JP-Name>深海5inch単装砲 Mk.30</JP-Name>
+    <TR-Name>심해5inch단장포 Mk.30</TR-Name>
   </Item>
 </Equipment>
