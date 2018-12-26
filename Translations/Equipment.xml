@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.5.17">
+<Equipment Version="1.5.18">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm 단장포</TR-Name>
@@ -1613,7 +1613,23 @@
     <TR-Name>14cm 연장포 개</TR-Name>
   </Item>
      <Item>
+    <JP-Name>二式陸上偵察機(熟練)</JP-Name>
+    <TR-Name>2식육상정찰기(숙련)</TR-Name>
+  </Item>
+      <Item>
     <JP-Name>二式陸上偵察機</JP-Name>
     <TR-Name>2식육상정찰기</TR-Name>
+  </Item>
+        <Item>
+    <JP-Name>5inch単装砲 Mk.30改</JP-Name>
+    <TR-Name>5inch단장포 Mk.30 개</TR-Name>
+  </Item>
+          <Item>
+    <JP-Name>533mm五連装魚雷(初期型)</JP-Name>
+    <TR-Name>533mm5연장어뢰(초기형)</TR-Name>
+  </Item>
+            <Item>
+    <JP-Name>SG レーダー(初期型)</JP-Name>
+    <TR-Name>SG 레이더 (초기형)</TR-Name>
   </Item>
 </Equipment>
