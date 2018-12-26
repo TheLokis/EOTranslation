@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Ships Version="1.8.11">
+<Ships Version="1.8.12">
   <Ship>
     <JP-Name>長門</JP-Name>
     <TR-Name>나가토</TR-Name>
@@ -1128,6 +1128,18 @@
     <JP-Name>Maestrale</JP-Name>
     <TR-Name>마에스트랄레</TR-Name>
   </Ship>
+           <Ship>
+    <JP-Name>日進</JP-Name>
+    <TR-Name>닛신</TR-Name>
+  </Ship>
+          <Ship>
+    <JP-Name>Johnston</JP-Name>
+    <TR-Name>존스턴</TR-Name>
+  </Ship>
+           <Ship>
+    <JP-Name>Johnston</JP-Name>
+    <TR-Name>존스턴</TR-Name>
+  </Ship>
   <Ship>
     <JP-Name>駆逐イ級</JP-Name>
     <TR-Name>구축 이급</TR-Name>
@@ -1479,6 +1491,14 @@
           <Ship>
     <JP-Name>欧州水姫</JP-Name>
     <TR-Name>구주수희</TR-Name>
+  </Ship>
+             <Ship>
+    <JP-Name>深海雨雲姫</JP-Name>
+    <TR-Name>심해우운희</TR-Name>
+  </Ship>
+               <Ship>
+    <JP-Name>深海日棲姫</JP-Name>
+    <TR-Name>심해일서희</TR-Name>
   </Ship>
   <Ship mode="suffix">
     <JP-Name>改</JP-Name>
