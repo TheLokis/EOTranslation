@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.6.5">
+<Quests Version="1.6.6">
   <Quest>
     <ID>640</ID>
     <JP-Name>初夏の整理整頓</JP-Name>
@@ -2323,7 +2323,7 @@
     <JP-Name>前線の航空偵察を実施せよ！</JP-Name>
     <TR-Name>전선의 항공 정찰을 실시하라!</TR-Name>
     <JP-Detail>偵察任務：水上機母艦1隻と軽巡2隻を中核とした偵察艦隊を、中部海域グアノ環礁沖海域に展開、&lt;br&gt;航空偵察作戦「K作戦」を反復実施せよ！さらに同方面の敵艦隊を捕捉、敵戦力の撃破に努めよ！</JP-Detail>
-    <TR-Detail>정찰 임무: 수상기모함 1척, 경순 2척을 포함한 함대로 6-3 보스전 A승 이상 2회다</TR-Detail>
+    <TR-Detail>정찰 임무: 수상기모함 1척, 경순 2척을 포함한 함대로 6-3 보스전 A승 이상 2회</TR-Detail>
   </Quest>
   <Quest>
     <ID>861</ID>
