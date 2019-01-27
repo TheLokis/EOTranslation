@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ExpeditionData Version="1.0.9">
+<ExpeditionData Version="1.1.0">
   <Expedition>
     <ID>1</ID>
     <Fuel>0</Fuel>
@@ -955,7 +955,7 @@
                 <FlagShipTypeName>경순양함</FlagShipTypeName>
     <FleetMembers>6</FleetMembers>
     <FleetTypes>3,1|16,2|2,2</FleetTypes>
-    <DrunNeed>4</DrunNeed>
+    <DrunNeed>0</DrunNeed>
     <DrumBonus>4</DrumBonus>
     <DrunKanmusu>1</DrunKanmusu>
     <Desc>최소 6척, 경순 1척(기함고정), 수모 2척(항모/경항모/잠모 불가), 구축 2척, 기타 1척 선택적: 드럼통 총합 4개 이상</Desc>
