@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ExpeditionData Version="1.0.7">
+<ExpeditionData Version="1.0.8">
   <Expedition>
     <ID>1</ID>
     <Fuel>0</Fuel>
@@ -373,7 +373,7 @@
     <ItemAAmount>1</ItemAAmount>
     <ItemBAmount>1</ItemBAmount>
     <FleetMembers>6</FleetMembers>
-    <FleetTypes>2,2|6:7:11,2</FleetTypes>
+    <FleetTypes>2,2|16:7:11,2</FleetTypes>
     <DrunNeed></DrunNeed>
     <DrunKanmusu></DrunKanmusu>
     <Desc>6척, 항모 2척(경항모, 수상모 가능, 잠수항모 불가), 구축 2척 이상</Desc>
@@ -415,7 +415,7 @@
     <ItemAAmount>1</ItemAAmount>
     <ItemBAmount>1</ItemBAmount>
     <FleetMembers>6</FleetMembers>
-    <FleetTypes>3,1|2,2|6,1</FleetTypes>
+    <FleetTypes>3,1|2,2|16,1</FleetTypes>
     <FleetAA>200</FleetAA>
     <FleetASW>200</FleetASW>
     <FleetLOS>140</FleetLOS>
@@ -482,7 +482,7 @@
     <ItemAAmount>1</ItemAAmount>
     <ItemBAmount>0</ItemBAmount>
     <FleetMembers>6</FleetMembers>
-    <FleetTypes>6:7:11,3|2,2</FleetTypes>
+    <FleetTypes>16:7:11,3|2,2</FleetTypes>
     <DrunNeed></DrunNeed>
     <DrunKanmusu></DrunKanmusu>
     <Desc>6척, 항모 3척(경항모, 수상모 가능, 잠수항모 불가), 구축 2척 이상</Desc>
@@ -653,7 +653,7 @@
     <ItemAAmount>3</ItemAAmount>
     <ItemBAmount>0</ItemBAmount>
     <FleetMembers>4</FleetMembers>
-    <FleetTypes>6:7:11,1|3,1|2,2</FleetTypes>
+    <FleetTypes>16:7:11,1|3,1|2,2</FleetTypes>
     <DrunNeed></DrunNeed>
     <DrunKanmusu></DrunKanmusu>
     <Desc>최소 4척, 항모 1척(경모, 수상모 가능, 잠수항모 불가), 경순 1척, 구축 2척 이상</Desc>
@@ -843,7 +843,7 @@
     <ItemAAmount>2</ItemAAmount>
     <ItemBAmount>1</ItemBAmount>
     <FleetMembers>6</FleetMembers>
-    <FleetTypes>6:7:11,2|5,1|2,1</FleetTypes>
+    <FleetTypes>16:7:11,2|5,1|2,1</FleetTypes>
     <DrunNeed></DrunNeed>
     <DrunKanmusu></DrunKanmusu>
     <Desc>6척, 항모 2척(경항모, 수상모 가능, 잠수항모 불가), 중순 1척, 구축 1척 이상</Desc>
@@ -864,7 +864,7 @@
     <ItemAAmount>2</ItemAAmount>
     <ItemBAmount>1</ItemBAmount>
     <FleetMembers>6</FleetMembers>
-    <FleetTypes>6,2|3,1|2,1</FleetTypes>
+    <FleetTypes>16,2|3,1|2,1</FleetTypes>
     <DrunNeed></DrunNeed>
     <DrunKanmusu></DrunKanmusu>
     <Desc>6척, 수상기모함 2척(경항모, 정규항모, 잠수항모 불가), 경순 1척, 구축 1척 이상</Desc>
@@ -951,7 +951,7 @@
     <ItemBAmount>1</ItemBAmount>
     <FlagShipType>3</FlagShipType>
     <FleetMembers>6</FleetMembers>
-    <FleetTypes>3,1|6,2|2,2</FleetTypes>
+    <FleetTypes>3,1|16,2|2,2</FleetTypes>
     <DrunNeed>4</DrunNeed>
     <DrumBonus>4</DrumBonus>
     <DrunKanmusu>1</DrunKanmusu>
