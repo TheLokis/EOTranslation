@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.6.8">
+<Quests Version="1.6.9">
   <Quest>
     <ID>640</ID>
     <JP-Name>初夏の整理整頓</JP-Name>
@@ -1182,7 +1182,7 @@
     <JP-Name>「水上打撃部隊」南方へ！</JP-Name>
     <TR-Name>수상타격부대 남방으로!</TR-Name>
     <JP-Detail>戦艦3隻軽巡1隻他を基幹とした水上打撃部隊で南方海域へ進出、敵艦隊を撃滅せよ！</JP-Detail>
-    <TR-Detail>전함3척 경순1척을 기반으로 한 수상타격대를 남방해역에 진출, 적전력을 격멸하라!(5-1 보스를 S승리로 1번 클리어, 워스파이트를 제외한 저속/항공전함으로 편성)"</TR-Detail>
+    <TR-Detail>전함3척 경순1척을 기반으로 한 수상타격대를 남방해역에 진출, 적전력을 격멸하라!(5-1 보스를 S승리로 1번 클리어, 전함은 일본제 저속전함 한정)"</TR-Detail>
   </Quest>
   <Quest>
     <ID>258</ID>
