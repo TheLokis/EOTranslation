@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.5.19">
+<Equipment Version="1.6.1">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm 단장포</TR-Name>
@@ -1647,5 +1647,17 @@
                   <Item>
     <JP-Name>深海5inch単装砲 Mk.30</JP-Name>
     <TR-Name>심해5inch단장포 Mk.30</TR-Name>
+  </Item>
+                    <Item>
+    <JP-Name>深海5inch単装砲 Mk.30</JP-Name>
+    <TR-Name>심해5inch단장포 Mk.30</TR-Name>
+  </Item>
+                    <Item>
+    <JP-Name>三式弾改</JP-Name>
+    <TR-Name>삼식탄 개</TR-Name>
+  </Item>
+                      <Item>
+    <JP-Name>41cm連装砲改二</JP-Name>
+    <TR-Name>41cm 연장포 개2</TR-Name>
   </Item>
 </Equipment>
