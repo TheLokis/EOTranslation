@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.6.10">
+<Quests Version="1.7.0">
   <Quest>
     <ID>640</ID>
     <JP-Name>初夏の整理整頓</JP-Name>
@@ -1024,21 +1024,6 @@
     <TR-Detail>이벤트해역 E-5 클리어</TR-Detail>
   </Quest>
   <Quest>
-    <ID>282</ID>
-    <TR-Name>솔로몬 바다 쪽의 제공권을 빼앗아라!</TR-Name>
-    <TR-Detail>이벤트해역 E-4 게이지 파괴 달성</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>281</ID>
-    <TR-Name>주력 기동 부대 전로 초계를 실시하라!</TR-Name>
-    <TR-Detail>적 잠수함 6척 격침(추천:1-5)</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>280</ID>
-    <TR-Name>제2차 SN작전, 초동작전 완료!</TR-Name>
-    <TR-Detail>솔로몬 해역 전방에 전개한 적의 전력을 파쇄하여 초동작전(E1,E2)를 완수하라!</TR-Detail>
-  </Quest>
-  <Quest>
     <ID>279</ID>
     <JP-Name>「第一水雷戦隊」北方ケ号作戦、再突入！</JP-Name>
     <TR-Name>"제1수뢰전대", 북방 케호작전 재돌입!</TR-Name>
@@ -1498,13 +1483,6 @@
     <TR-Name>「쇼카쿠」에 함상공격기「무라타대」를 배치하라!</TR-Name>
     <JP-Detail>秘書艦を航空母艦「翔鶴」として、同艦に艦攻「村田隊」を配属転換せよ！</JP-Detail>
     <TR-Detail>비서함을「쇼카쿠」로 하여 함상공격기「무라타대」장착하고, 수반함 한 척을 배치하라.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>158</ID>
-    <JP-Name>「赤城」に艦攻「村田隊」を配属せよ！</JP-Name>
-    <TR-Name>「아카기」에 함상공격기「무라타대」를 배치하라！</TR-Name>
-    <JP-Detail>秘書艦を航空母艦「赤城」とし、同艦に艦攻「村田隊」を配属せよ！</JP-Detail>
-    <TR-Detail>비서함을 항공모함「아카기」로 하여「무라타대」장착</TR-Detail>
   </Quest>
   <Quest>
     <ID>157</ID>
@@ -3038,5 +3016,40 @@
     <TR-Name>"히에이"의 출격</TR-Name>
     <JP-Detail>「比叡」南方海域出撃任務：高速戦艦「比叡」を旗艦とする有力な艦隊で、南方海域サブ島沖海域及びサーモン海域に出撃。同作戦海域の敵艦隊と交戦、これを撃滅せよ！</JP-Detail>
     <TR-Detail>히에이 기함, 5-3, 5-4 S승리</TR-Detail>
+  </Quest>
+             <Quest>
+    <ID>158</ID>
+    <JP-Name>精鋭無比「第一戦隊」抜錨準備！</JP-Name>
+    <TR-Name>정예무비 "제1전대" 발묘준비!</TR-Name>
+    <JP-Detail>主力戦艦編成任務：第一艦隊旗艦に「長門改二」、同二番艦に「陸奥改二」から構成される第一戦隊を配備、精鋭無比の水上打撃艦隊を編成せよ！</JP-Detail>
+    <TR-Detail>기함 나가토 개2, 2번함 무츠 개2 편성</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>280</ID>
+    <JP-Name>兵站線確保！海上警備を強化実施せよ！</JP-Name>
+    <TR-Name>병참선 확보! 해상 경비를 강화실시하라!</TR-Name>
+    <JP-Detail>海上警備任務：軽空母または軽巡級1隻、駆逐艦または海防艦を計3隻以上配備した海上護衛艦隊で、南西諸島沖警備、海上護衛作戦、南1号作戦、南西諸島哨戒を実施、各作戦海域の敵を撃滅せよ！</JP-Detail>
+    <TR-Detail>경항모 또는 경순급 1척, 구축함 또는 해방함 3척 이상 편성, 1-2, 1-3, 1-4, 2-1 S승리</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>281</ID>
+    <JP-Name>精鋭無比「第一戦隊」まかり通る！</JP-Name>
+    <TR-Name>정예무비 "제1전대" 지나간다!</TR-Name>
+    <JP-Detail>第一艦隊第一戦隊、改装主力戦艦「長門改二」及び「陸奥改二」を中核とした水上打撃艦隊を編成、バシー海峡、北方AL海域戦闘哨戒、カレー洋リランカ島沖及び南方海域前面の敵を捕捉撃滅せよ！</JP-Detail>
+    <TR-Detail>나가토 개2, 무츠 개2 편성, 2-2, 3-5, 4-5, 5-1 S승리</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>282</ID>
+    <JP-Name>精鋭無比「第一戦隊」まかり通る！【拡張作戦】</JP-Name>
+    <TR-Name>정예무비 "제1전대" 지나간다! [확장작전]</TR-Name>
+    <JP-Detail>第一艦隊第一戦隊、改装主力戦艦「長門改二」及び「陸奥改二」を中核とした精鋭水上打撃艦隊を展開、南西諸島海域沖ノ島沖、南方海域サーモン海域北方、中部海域ピーコック島沖の敵戦力を撃滅せよ！</JP-Detail>
+    <TR-Detail>나가토 개2", "무츠 개2 편성, 2-5, 5-5, 6-4 S승리</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>691</ID>
+    <JP-Name>提督室のリフォーム</JP-Name>
+    <TR-Name>제독실의 리폼</TR-Name>
+    <JP-Detail>提督室のリフォームを実施する！まずは装備の整理から！「中口径主砲」系装備x4、「副砲」系装備x4、「機銃」系装備x4を廃棄、ボーキサイト1,600を準備せよ！　※任務達成後、準備した資源は消費します。</JP-Detail>
+    <TR-Detail>중구경 주포 x4, 부포 x4, 기총 x4 폐기, 보크사이트 1600 준비</TR-Detail>
   </Quest>
 </Quests>
