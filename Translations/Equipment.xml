@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.6.1">
+<Equipment Version="1.6.2">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm 단장포</TR-Name>
@@ -109,8 +109,8 @@
     <TR-Name>영식 함상전투기 52형</TR-Name>
   </Item>
   <Item>
-    <JP-Name>烈風</JP-Name>
-    <TR-Name>렛푸</TR-Name>
+    <JP-Name>試製烈風 後期型</JP-Name>
+    <TR-Name>시제렛푸 후기형</TR-Name>
   </Item>
   <Item>
     <JP-Name>九九式艦爆</JP-Name>
@@ -237,8 +237,8 @@
     <TR-Name>류세이 개</TR-Name>
   </Item>
   <Item>
-    <JP-Name>烈風改</JP-Name>
-    <TR-Name>렛푸 개</TR-Name>
+    <JP-Name>烈風 一一型</JP-Name>
+    <TR-Name>렛푸 11형</TR-Name>
   </Item>
   <Item>
     <JP-Name>彩雲</JP-Name>
