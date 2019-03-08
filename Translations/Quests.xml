@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.7.0">
+<Quests Version="1.7.1">
   <Quest>
     <ID>640</ID>
     <JP-Name>初夏の整理整頓</JP-Name>
@@ -3051,5 +3051,19 @@
     <TR-Name>제독실의 리폼</TR-Name>
     <JP-Detail>提督室のリフォームを実施する！まずは装備の整理から！「中口径主砲」系装備x4、「副砲」系装備x4、「機銃」系装備x4を廃棄、ボーキサイト1,600を準備せよ！　※任務達成後、準備した資源は消費します。</JP-Detail>
     <TR-Detail>중구경 주포 x4, 부포 x4, 기총 x4 폐기, 보크사이트 1600 준비</TR-Detail>
+  </Quest>
+    <Quest>
+    <ID>330</ID>
+    <JP-Name>空母機動部隊、演習始め！</JP-Name>
+    <TR-Name>항모 기동 부대, 연습 시작!</TR-Name>
+    <JP-Detail>空母機動部隊演習任務：航空母艦旗艦他1隻計2隻以上及び駆逐艦2隻を含む空母機動部隊を編成。機動部隊各艦の練度向上を図る！同艦隊で、本日中に演習で4回以上勝利せよ！</JP-Detail>
+    <TR-Detail>항모 2척(기함 포함), 구축함 2척 편성, 연습전 4회 이상 승리</TR-Detail>
+  </Quest>
+      <Quest>
+    <ID>692</ID>
+    <JP-Name>水上艦艇装備工廠の整備</JP-Name>
+    <TR-Name>수상 함정 장비 공창의 정비</TR-Name>
+    <JP-Detail>水上艦艇装備工廠の整備を実施する！「小口径主砲」系装備x5、「大口径主砲」系装備x5、「水偵」系装備x5を廃棄、鋼材3,000を準備せよ！　※任務達成後、準備した資源は消費します。</JP-Detail>
+    <TR-Detail>소구경 주포 x5, 대구경 주포 x5, 수상정찰기x5 폐기, 강재 3000 준비</TR-Detail>
   </Quest>
 </Quests>
