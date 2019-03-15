@@ -1,0 +1,738 @@
+{
+"Version":"1.0.0",
+	"78": {
+		"weightClass": {
+			"weight1": [7, 76, 103, 104, 114, 190, 192, 231, 232, 289],
+			"weight2": [245, 246],
+			"weight3": [133, 137],
+			"weight4": [8, 105, 236, 290],
+			"weight5": [161],
+			"weight6": [183],
+			"weight7": [298],
+			"weight8": [299],
+			"weight9": [300],
+			"weight10": [117],
+			"weight11": [9, 276],
+			"unknown": [318]
+		},
+		"accuracy": {
+			"weight1": {
+				"day": 7,
+				"night": 7
+			},
+			"weight2": {
+				"day": 0,
+				"night": 0
+			},
+			"weight3": {
+				"day": -2,
+				"night": 0,
+				"married": 0.6
+			},
+			"weight4": {
+				"day": -5,
+				"night": -5,
+				"married": 0.6
+			},
+			"weight5": {
+				"day": -5,
+				"night": -5,
+				"married": 0.6
+			},
+			"weight6": {
+				"day": -6,
+				"night": -6,
+				"married": 0.6
+			},
+			"weight7": {
+				"day": -5,
+				"night": -5,
+				"married": 0.6
+			},
+			"weight8": {
+				"day": -6,
+				"night": -6,
+				"married": 0.6
+			},
+			"weight9": {
+				"day": -3,
+				"night": -3,
+				"married": 0.6
+			},
+			"weight10": {
+				"day": -7,
+				"night": -7,
+				"married": 0.6
+			},
+			"weight11": {
+				"day": -10,
+				"night": -10,
+				"married": 0.6
+			}
+		}
+	},
+	"209": 78,
+	"149": 78,
+
+	"79": 78,
+	"211": 78,
+	"151": 78,
+
+	"86": 78,
+	"210": 78,
+	"150": 78,
+
+	"85": 78,
+	"212": 78,
+	"152": 78,
+
+	"171": {
+		"weightClass": {
+			"weight1": [7, 76, 103, 104, 114, 190, 192, 231, 232, 289],
+			"weight2": [245, 246],
+			"weight3": [133, 137],
+			"weight4": [8, 105, 236],
+			"weight5": [161],
+			"weight6": [183],
+			"weight7": [298],
+			"weight8": [117],
+			"weight9": [9],
+			"unknown": [276, 290, 299, 300, 318]
+		},
+		"accuracy": {
+			"weight1": {
+				"day": 4,
+				"night": 4
+			},
+			"weight2": {
+				"day": 0,
+				"night": 0
+			},
+			"weight3": {
+				"day": 1,
+				"night": 1
+			},
+			"weight4": {
+				"day": -5,
+				"night": -5,
+				"married": 0.6
+			},
+			"weight5": {
+				"day": -5,
+				"night": -5,
+				"married": 0.6
+			},
+			"weight6": {
+				"day": -4,
+				"night": -4,
+				"married": 0.6
+			},
+			"weight7": {
+				"day": -4,
+				"night": -4,
+				"married": 0.6
+			},
+			"weight8": {
+				"day": -7,
+				"night": -7,
+				"married": 0.6
+			},
+			"weight9": {
+				"day": -10,
+				"night": -10,
+				"married": 0.6
+			}
+		}
+	},
+	"172": 171,
+	"173": 171,
+	"178": 171,
+
+	"441": 171,
+	"446": 171,
+
+	"442": 171,
+	"447": 171,
+
+	"511": {
+		"weightClass": {
+			"weight1": [231, 232],
+			"weight2": [7, 76, 103, 104, 114, 190, 192, 289],
+			"weight3": [245, 246],
+			"weight4": [133, 137],
+			"weight5": [8, 105, 236],
+			"weight6": [161],
+			"weight7": [298],
+			"weight8": [117],
+			"weight9": [9],
+			"unknown": [276, 290, 299, 300, 318]
+		},
+		"accuracy": {
+			"weight1": {
+				"day": 10,
+				"night": 10
+			},
+			"weight2": {
+				"day": 7,
+				"night": 7
+			},
+			"weight3": {
+				"day": 0,
+				"night": 0
+			},
+			"weight4": {
+				"day": 1,
+				"night": 1
+			},
+			"weight5": {
+				"day": -7,
+				"night": -7,
+				"married": 0.6
+			},
+			"weight6": {
+				"day": -3,
+				"night": -3,
+				"married": 0.6
+			},
+			"weight7": {
+				"day": -9,
+				"night": -9,
+				"married": 0.6
+			},
+			"weight8": {
+				"day": -7,
+				"night": -7,
+				"married": 0.6
+			},
+			"weight9": {
+				"day": -16,
+				"night": -16,
+				"married": 0.6
+			}
+		}
+	},
+	"512": 511,
+	"513": 511,
+	
+	
+	"440": {
+		"weightClass": {
+			"weight1": [7, 76, 103, 104, 114, 190, 192, 231, 232, 289],
+			"weight2": [245, 246],
+			"weight3": [133, 137],
+			"weight4": [8, 105, 236],
+			"weight5": [161],
+			"weight6": [183],
+			"weight7": [117],
+			"weight8": [9],
+			"unknown": [276, 290, 298, 299, 300, 318]
+		},
+		"accuracy": {
+			"weight1": {
+				"day": 4,
+				"night": 4
+			},
+			"weight2": {
+				"day": 0,
+				"night": 0
+			},
+			"weight3": {
+				"day": -2,
+				"night": -2,
+				"married": 0.6
+			},
+			"weight4": {
+				"day": -5,
+				"night": -5,
+				"married": 0.6
+			},
+			"weight5": {
+				"day": -5,
+				"night": -5,
+				"married": 0.4
+			},
+			"weight6": {
+				"day": -2,
+				"night": -2,
+				"married": -2.5
+			},
+			"weight7": {
+				"day": -7,
+				"night": -7,
+				"married": 0.6
+			},
+			"weight8": {
+				"day": -10,
+				"night": -10,
+				"married": 0.6
+			}
+		}
+	},
+	"360": 440,
+	
+	"439": {
+		"weightClass": {
+			"weight1": [7, 76, 103, 104, 114, 231, 232, 289],
+			"weight2": [190, 192],
+			"weight3": [133, 137],
+			"weight4": [8, 105, 236],
+			"weight5": [183],
+			"weight6": [298],
+			"weight7": [300],
+			"weight8": [117],
+			"weight9": [9],
+			"unknown": [245, 246, 161, 276, 290, 299, 318]
+		},
+		"accuracy": {
+			"weight1": {
+				"day": 6,
+				"night": 6
+			},
+			"weight2": {
+				"day": 8,
+				"night": 8
+			},
+			"weight3": {
+				"day": 2,
+				"night": 2
+			},
+			"weight4": {
+				"day": 2,
+				"night": 2
+			},
+			"weight5": {
+				"day": -2,
+				"night": -2,
+				"married": 0.6
+			},
+			"weight6": {
+				"day": 5,
+				"night": 5
+			},
+			"weight7": {
+				"day": 3,
+				"night": 3
+			},
+			"weight8": {
+				"day": -8,
+				"night": -8,
+				"married": 0.6
+			},
+			"weight9": {
+				"day": -10,
+				"night": -10,
+				"married": 0.6
+			}
+		}
+	},
+	"364": 439,
+	
+	"77": {
+		"weightClass": {
+			"weight1": [7, 76, 103, 104, 114, 190, 192, 231, 232, 289],
+			"weight2": [245, 246],
+			"weight3": [133, 137],
+			"weight4": [8, 105, 236],
+			"weight5": [161],
+			"weight6": [183],
+			"weight7": [298],
+			"weight8": [117],
+			"weight9": [9],
+			"unknown": [276, 290, 299, 300, 318]
+		},
+		"accuracy": {
+			"weight1": {
+				"day": 2,
+				"night": 2
+			},
+			"weight2": {
+				"day": 0,
+				"night": 0
+			},
+			"weight3": {
+				"day": 2,
+				"night": 2
+			},
+			"weight4": {
+				"day": 2,
+				"night": 2
+			},
+			"weight5": {
+				"day": 2,
+				"night": 2
+			},
+			"weight6": {
+				"day": 2,
+				"night": 2
+			},
+			"weight7": {
+				"day": 3,
+				"night": 3
+			},
+			"weight8": {
+				"day": -3,
+				"night": -3,
+				"married": 0.6
+			},
+			"weight9": {
+				"day": -7,
+				"night": -7,
+				"married": 0.6
+			}
+		}
+	},
+	"87": 77,
+	"26": 77,
+	"27": 77,
+
+	"82": {
+		"weightClass": {
+			"weight1": [7, 76, 103, 104, 114, 190, 192, 231, 232, 289],
+			"weight2": [245, 246],
+			"weight3": [133, 137],
+			"weight4": [8, 105, 236],
+			"weight5": [161],
+			"weight6": [298],
+			"weight7": [117],
+			"weight8": [9],
+			"weight9": [276],
+			"unknown": [183, 276, 290, 299, 300, 318]
+		},
+		"accuracy": {
+			"weight1": {
+				"day": 4,
+				"night": 4
+			},
+			"weight2": {
+				"day": 0,
+				"night": 0
+			},
+			"weight3": {
+				"day": 2,
+				"night": 2
+			},
+			"weight4": {
+				"day": 2,
+				"night": 2
+			},
+			"weight5": {
+				"day": 0,
+				"night": 0
+			},
+			"weight6": {
+				"day": 0,
+				"night": 0
+			},
+			"weight7": {
+				"day": -3,
+				"night": -3,
+				"married": 0.6
+			},
+			"weight8": {
+				"day": -7,
+				"night": -7,
+				"married": 0.6
+			},
+			"weight9": {
+				"day": -4,
+				"night": -4,
+				"married": 0.6
+			}
+		}
+	},
+
+	"88": 82,
+	"286": 82,
+	"287": 82,
+	"411": 82,
+	"412": 82,
+
+	"553": {
+		"weightClass": {
+			"weight1": [7, 76, 103, 104, 114, 190, 192, 231, 232, 289],
+			"weight2": [245, 246],
+			"weight3": [8, 105, 236],
+			"weight4": [290],
+			"weight5": [9],
+			"weight6": [318],
+			"unknown": [117, 133, 137, 161, 183, 276, 298, 299, 300]
+		},
+		"accuracy": {
+			"weight1": {
+				"day": 4,
+				"night": 4
+			},
+			"weight2": {
+				"day": 0,
+				"night": 0
+			},
+			"weight3": {
+				"day": 4,
+				"night": 4
+			},
+			"weight4": {
+				"day": 4,
+				"night": 4
+			},
+			"weight5": {
+				"day": -7,
+				"night": -7,
+				"married": 0.6
+			},
+			"weight6": {
+				"day": 6,
+				"night": 6
+			}
+		}
+	},
+	
+	"80":{
+		"weightClass": {
+			"weight1": [7, 76, 103, 104, 114, 190, 192, 231, 232, 289],
+			"weight2": [245, 246],
+			"weight3": [133, 137],
+			"weight4": [8, 105, 236],
+			"weight5": [161],
+			"weight6": [183],
+			"weight7": [298],
+			"weight8": [117],
+			"weight9": [9],
+			"weight10": [128, 281],
+			"unknown": [276, 290, 299, 300, 318]
+		},
+		"accuracy": {
+			"weight1": {
+				"day": 2,
+				"night": 2
+			},
+			"weight2": {
+				"day": 0,
+				"night": 0
+			},
+			"weight3": {
+				"day": 2,
+				"night": 2
+			},
+			"weight4": {
+				"day": 2,
+				"night": 2
+			},
+			"weight5": {
+				"day": 2,
+				"night": 2
+			},
+			"weight6": {
+				"day": 2,
+				"night": 2
+			},
+			"weight7": {
+				"day": 3,
+				"night": 3
+			},
+			"weight8": {
+				"day": -3,
+				"night": -3,
+				"married": 0.6
+			},
+			"weight9": {
+				"day": -7,
+				"night": -7,
+				"married": 0.6
+			},
+			"weight10": {
+				"day": 0,
+				"night": 0
+			}
+		}
+	},
+	"275": 80,
+	"81": 80,
+	"276": 80,
+
+	"541": {
+		"weightClass": {
+			"weight1": [7, 76, 103, 104, 114, 190, 192, 231, 232, 289],
+			"weight2": [245, 246],
+			"weight3": [133, 137],
+			"weight4": [8, 105, 236, 290, 318],
+			"weight5": [161],
+			"weight6": [299],
+			"weight7": [117],
+			"weight8": [9],
+			"weight9": [276],
+			"weight10": [128, 281],
+			"unknown": [183, 298, 300]
+		},
+		"accuracy": {
+			"weight1": {
+				"day": 2,
+				"night": 2
+			},
+			"weight2": {
+				"day": 0,
+				"night": 0
+			},
+			"weight3": {
+				"day": 2,
+				"night": 2
+			},
+			"weight4": {
+				"day": 5,
+				"night": 5
+			},
+			"weight5": {
+				"day": 0,
+				"night": 0
+			},
+			"weight6": {
+				"day": 4,
+				"night": 4
+			},
+			"weight7": {
+				"day": -2,
+				"night": -2,
+				"married": 0.6
+			},
+			"weight8": {
+				"day": -4,
+				"night": -4,
+				"married": 0.6
+			},
+			"weight9": {
+				"day": -6,
+				"night": -6,
+				"married": 0.6
+			},
+			"weight10": {
+				"day": 0,
+				"night": 0
+			}
+		}
+	},
+	"573": 541,
+
+	"492": {
+		"weightClass": {
+			"weight1": [7, 76, 103, 104, 114, 190, 192, 231, 232, 289],
+			"weight2": [245, 246],
+			"weight3": [133, 137],
+			"weight4": [8, 105, 236],
+			"weight5": [161],
+			"weight6": [298],
+			"weight7": [299],
+			"weight8": [300],
+			"weight9": [117],
+			"weight10": [9],
+			"unknown": [183, 276, 290, 318]
+		},
+		"accuracy": {
+			"weight1": {
+				"day": 4,
+				"night": 4
+			},
+			"weight2": {
+				"day": 4,
+				"night": 4
+			},
+			"weight3": {
+				"day": -2,
+				"night": 0,
+				"married": 0.6
+			},
+			"weight4": {
+				"day": -5,
+				"night": -5,
+				"married": 0.6
+			},
+			"weight5": {
+				"day": -5,
+				"night": -5,
+				"married": 0.6
+			},
+			"weight6": {
+				"day": -7,
+				"night": -7,
+				"married": 0.6
+			},
+			"weight7": {
+				"day": -14,
+				"night": -14,
+				"married": 0.6
+			},
+			"weight8": {
+				"day": -8,
+				"night": -8,
+				"married": 0.6
+			},
+			"weight9": {
+				"day": -7,
+				"night": -7,
+				"married": 0.6
+			},
+			"weight10": {
+				"day": -10,
+				"night": -10,
+				"married": 0.6
+			}
+		}
+	},
+	"392": 492,
+
+	"571": {
+		"weightClass": {
+			"weight1": [7, 76, 103, 104, 114, 133, 137, 183, 190, 192, 231, 232, 289, 300],
+			"weight2": [8, 105, 236],
+			"weight3": [9],
+			"unknown": [117, 128, 161, 245, 246, 276, 281, 290, 298, 299, 318]
+		},
+		"accuracy": {
+			"weight1": {
+				"day": 0,
+				"night": 0
+			},
+			"weight2": {
+				"day": 3,
+				"night": 3
+			},
+			"weight3": {
+				"day": -2,
+				"night": -2,
+				"married": 0.6
+			}
+		}
+	},
+	"576": 571,
+
+	"131": {
+		"weightClass": {
+			"weight0": [7, 8, 76, 103, 104, 105, 114, 128, 133, 137, 161, 183, 190, 192, 231, 232, 236, 245, 246, 281, 289, 290, 298, 299, 300, 318],
+			"weight1": [117],
+			"weight2": [9],
+			"weight3": [276],
+			"unknown": []
+		},
+		"accuracy": {
+			"weight0": {
+				"day": 0,
+				"night": 0
+			},
+			"weight1": {
+				"day": 3,
+				"night": 3
+			},
+			"weight2": {
+				"day": 3,
+				"night": 3
+			},
+			"weight3": {
+				"day": 7,
+				"night": 7
+			}
+		}
+	},
+	"136": 131,
+	"143": 131,
+	"148": 131,
+	"546": 131
+
+}
