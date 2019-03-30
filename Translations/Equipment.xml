@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.6.2">
+<Equipment Version="1.6.3">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm 단장포</TR-Name>
@@ -1659,5 +1659,41 @@
                       <Item>
     <JP-Name>41cm連装砲改二</JP-Name>
     <TR-Name>41cm 연장포 개2</TR-Name>
+  </Item>
+                        <Item>
+    <JP-Name>彗星一二型(六三四空/三号爆弾搭載機)</JP-Name>
+    <TR-Name>스이세이 12형(634공/3호폭탄탑재기)</TR-Name>
+  </Item>
+                       <Item>
+    <JP-Name>瑞雲改二(六三四空)</JP-Name>
+    <TR-Name>즈이운 개2(634해군항공대)</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>瑞雲改二(六三四空/熟練)</JP-Name>
+    <TR-Name>즈이운 개2(634해군항공대/숙련)</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>オ号観測機改</JP-Name>
+    <TR-Name>오호관측기 개</TR-Name>
+  </Item>
+    <Item>
+    <JP-Name>オ号観測機改二</JP-Name>
+    <TR-Name>오호관측기 개2</TR-Name>
+  </Item>
+      <Item>
+    <JP-Name>S-51J改</JP-Name>
+    <TR-Name>S-51J개</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>Re.2001 CB改</JP-Name>
+    <TR-Name>Re.2001 CB개</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>35.6cm連装砲改</JP-Name>
+    <TR-Name>35.6cm 연장포 개</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>35.6cm連装砲改二</JP-Name>
+    <TR-Name>35.6cm 연장포 개2</TR-Name>
   </Item>
 </Equipment>
