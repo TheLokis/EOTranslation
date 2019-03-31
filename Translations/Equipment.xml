@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.6.3">
+<Equipment Version="1.6.4">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm 단장포</TR-Name>
@@ -798,7 +798,7 @@
   </Item>
   <Item>
     <JP-Name>32号対水上電探改</JP-Name>
-    <TR-Name>32호 대수상 레이더 개</TR-Name>
+    <TR-Name>32호 대수상전탐 개</TR-Name>
   </Item>
   <Item>
     <JP-Name>15inch要塞砲</JP-Name>
@@ -1608,63 +1608,63 @@
     <JP-Name>甲標的 丙型</JP-Name>
     <TR-Name>갑표적 병형</TR-Name>
   </Item>
-    <Item>
+  <Item>
     <JP-Name>14cm連装砲改</JP-Name>
     <TR-Name>14cm 연장포 개</TR-Name>
   </Item>
-     <Item>
+  <Item>
     <JP-Name>二式陸上偵察機(熟練)</JP-Name>
     <TR-Name>2식육상정찰기(숙련)</TR-Name>
   </Item>
-      <Item>
+  <Item>
     <JP-Name>二式陸上偵察機</JP-Name>
     <TR-Name>2식육상정찰기</TR-Name>
   </Item>
-        <Item>
+  <Item>
     <JP-Name>5inch単装砲 Mk.30改</JP-Name>
     <TR-Name>5inch단장포 Mk.30 개</TR-Name>
   </Item>
-          <Item>
+  <Item>
     <JP-Name>533mm五連装魚雷(初期型)</JP-Name>
     <TR-Name>533mm5연장어뢰(초기형)</TR-Name>
   </Item>
-            <Item>
+  <Item>
     <JP-Name>SG レーダー(初期型)</JP-Name>
     <TR-Name>SG 레이더 (초기형)</TR-Name>
   </Item>
-              <Item>
+  <Item>
     <JP-Name>深海5.5inch連装砲改</JP-Name>
     <TR-Name>심해 5.5inch 연장포 개</TR-Name>
   </Item>
-                <Item>
+  <Item>
     <JP-Name>深海5inch連装砲C型</JP-Name>
     <TR-Name>심해5inch 연장포 C형</TR-Name>
   </Item>
-                <Item>
+  <Item>
     <JP-Name>深海標的</JP-Name>
     <TR-Name>심해표적</TR-Name>
   </Item>
-                  <Item>
+  <Item>
     <JP-Name>深海5inch単装砲 Mk.30</JP-Name>
     <TR-Name>심해5inch단장포 Mk.30</TR-Name>
   </Item>
-                    <Item>
+  <Item>
     <JP-Name>深海5inch単装砲 Mk.30</JP-Name>
     <TR-Name>심해5inch단장포 Mk.30</TR-Name>
   </Item>
-                    <Item>
+  <Item>
     <JP-Name>三式弾改</JP-Name>
     <TR-Name>삼식탄 개</TR-Name>
   </Item>
-                      <Item>
+  <Item>
     <JP-Name>41cm連装砲改二</JP-Name>
     <TR-Name>41cm 연장포 개2</TR-Name>
   </Item>
-                        <Item>
+  <Item>
     <JP-Name>彗星一二型(六三四空/三号爆弾搭載機)</JP-Name>
     <TR-Name>스이세이 12형(634공/3호폭탄탑재기)</TR-Name>
   </Item>
-                       <Item>
+  <Item>
     <JP-Name>瑞雲改二(六三四空)</JP-Name>
     <TR-Name>즈이운 개2(634해군항공대)</TR-Name>
   </Item>
@@ -1676,11 +1676,11 @@
     <JP-Name>オ号観測機改</JP-Name>
     <TR-Name>오호관측기 개</TR-Name>
   </Item>
-    <Item>
+  <Item>
     <JP-Name>オ号観測機改二</JP-Name>
     <TR-Name>오호관측기 개2</TR-Name>
   </Item>
-      <Item>
+  <Item>
     <JP-Name>S-51J改</JP-Name>
     <TR-Name>S-51J개</TR-Name>
   </Item>
