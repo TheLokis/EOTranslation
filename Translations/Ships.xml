@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Ships Version="1.8.12">
+<?xml version="1.0" encoding="utf-8"?>
+<Ships Version="1.8.13">
   <Ship>
     <JP-Name>長門</JP-Name>
     <TR-Name>나가토</TR-Name>
@@ -1112,31 +1112,31 @@
     <JP-Name>Samuel B.Roberts</JP-Name>
     <TR-Name>사무엘 B. 로버츠</TR-Name>
   </Ship>
-    <Ship>
+  <Ship>
     <JP-Name>神鷹</JP-Name>
     <TR-Name>신요</TR-Name>
   </Ship>
-      <Ship>
+  <Ship>
     <JP-Name>Nelson</JP-Name>
     <TR-Name>넬슨</TR-Name>
   </Ship>
-        <Ship>
+  <Ship>
     <JP-Name>Gotland</JP-Name>
     <TR-Name>고틀랜드</TR-Name>
   </Ship>
-         <Ship>
+  <Ship>
     <JP-Name>Maestrale</JP-Name>
     <TR-Name>마에스트랄레</TR-Name>
   </Ship>
-           <Ship>
+  <Ship>
     <JP-Name>日進</JP-Name>
     <TR-Name>닛신</TR-Name>
   </Ship>
-          <Ship>
+  <Ship>
     <JP-Name>Johnston</JP-Name>
     <TR-Name>존스턴</TR-Name>
   </Ship>
-           <Ship>
+  <Ship>
     <JP-Name>Johnston</JP-Name>
     <TR-Name>존스턴</TR-Name>
   </Ship>
@@ -1320,103 +1320,103 @@
     <JP-Name>防空棲姫</JP-Name>
     <TR-Name>방공서희</TR-Name>
   </Ship>
-    <Ship>
+  <Ship>
     <JP-Name>軽巡棲姫</JP-Name>
     <TR-Name>경순서희</TR-Name>
   </Ship>
-      <Ship>
+  <Ship>
     <JP-Name>潜水棲姫</JP-Name>
     <TR-Name>잠수서희</TR-Name>
   </Ship>
-        <Ship>
+  <Ship>
     <JP-Name>駆逐水鬼</JP-Name>
     <TR-Name>구축수귀</TR-Name>
   </Ship>
-          <Ship>
+  <Ship>
     <JP-Name>集積地棲姫</JP-Name>
     <TR-Name>집적지서희</TR-Name>
   </Ship>
-            <Ship>
+  <Ship>
     <JP-Name>重巡棲姫</JP-Name>
     <TR-Name>중순서희</TR-Name>
   </Ship>
-             <Ship>
+  <Ship>
     <JP-Name>砲台小鬼</JP-Name>
     <TR-Name>포대소귀</TR-Name>
   </Ship>
-             <Ship>
+  <Ship>
     <JP-Name>離島棲姫</JP-Name>
     <TR-Name>이도서희</TR-Name>
   </Ship>
-               <Ship>
+  <Ship>
     <JP-Name>駆逐古鬼</JP-Name>
     <TR-Name>구축고귀</TR-Name>
   </Ship>
-                 <Ship>
+  <Ship>
     <JP-Name>リコリス棲姫</JP-Name>
     <TR-Name>리코리스서희</TR-Name>
   </Ship>
-                   <Ship>
+  <Ship>
     <JP-Name>中枢棲姫</JP-Name>
     <TR-Name>중추서희</TR-Name>
   </Ship>
-                     <Ship>
+  <Ship>
     <JP-Name>駆逐古姫</JP-Name>
     <TR-Name>구축고희</TR-Name>
   </Ship>
-      <Ship>
+  <Ship>
     <JP-Name>PT小鬼群</JP-Name>
     <TR-Name>PT소귀군</TR-Name>
   </Ship>
-        <Ship>
+  <Ship>
     <JP-Name>潜水夏姫</JP-Name>
     <TR-Name>잠수하희</TR-Name>
   </Ship>
-          <Ship>
+  <Ship>
     <JP-Name>戦艦夏姫</JP-Name>
     <TR-Name>전함하희</TR-Name>
   </Ship>
-           <Ship>
+  <Ship>
     <JP-Name>港湾夏姫</JP-Name>
     <TR-Name>항만하희</TR-Name>
   </Ship>
-             <Ship>
+  <Ship>
     <JP-Name>重巡夏姫</JP-Name>
     <TR-Name>중순하희</TR-Name>
   </Ship>
-               <Ship>
+  <Ship>
     <JP-Name>水母水姫</JP-Name>
     <TR-Name>수모수희</TR-Name>
   </Ship>
-                 <Ship>
+  <Ship>
     <JP-Name>深海海月姫</JP-Name>
     <TR-Name>심해해월희</TR-Name>
   </Ship>
-                   <Ship>
+  <Ship>
     <JP-Name>深海双子棲姫</JP-Name>
     <TR-Name>심해쌍자서희</TR-Name>
   </Ship>
-                     <Ship>
+  <Ship>
     <JP-Name>護衛棲姫</JP-Name>
     <TR-Name>호위서희</TR-Name>
   </Ship>
-<Ship>
+  <Ship>
     <JP-Name>北端上陸姫</JP-Name>
     <TR-Name>북단상륙희</TR-Name>
   </Ship>
-<Ship>
+  <Ship>
     <JP-Name>北方水姫</JP-Name>
     <TR-Name>북방수희</TR-Name>
   </Ship>
-<Ship>
+  <Ship>
     <JP-Name>潜水新棲姫</JP-Name>
     <TR-Name>잠수신서희</TR-Name>
   </Ship>
-<Ship>
+  <Ship>
     <JP-Name>駆逐ナ級</JP-Name>
     <TR-Name>구축 나급</TR-Name>
   </Ship>
-<Ship>
+  <Ship>
     <JP-Name>戦艦仏棲姫</JP-Name>
     <TR-Name>전함불서희</TR-Name>
   </Ship>
@@ -1424,51 +1424,51 @@
     <JP-Name>空母夏鬼</JP-Name>
     <TR-Name>공모하귀</TR-Name>
   </Ship>
-    <Ship>
+  <Ship>
     <JP-Name>空母夏姫</JP-Name>
     <TR-Name>공모하희</TR-Name>
   </Ship>
-      <Ship>
+  <Ship>
     <JP-Name>集積地夏姫</JP-Name>
     <TR-Name>집적지하희</TR-Name>
   </Ship>
-        <Ship>
+  <Ship>
     <JP-Name>欧州棲姫</JP-Name>
     <TR-Name>구주서희</TR-Name>
   </Ship>
-          <Ship>
+  <Ship>
     <JP-Name>海峡夜棲姫</JP-Name>
     <TR-Name>해협야서희</TR-Name>
   </Ship>
-            <Ship>
+  <Ship>
     <JP-Name>防空埋護姫</JP-Name>
     <TR-Name>방공매호희</TR-Name>
   </Ship>
-              <Ship>
+  <Ship>
     <JP-Name>護衛棲水姫</JP-Name>
     <TR-Name>호위서수희</TR-Name>
   </Ship>
-                <Ship>
+  <Ship>
     <JP-Name>護衛棲水姫</JP-Name>
     <TR-Name>호위서수희</TR-Name>
   </Ship>
-                  <Ship>
+  <Ship>
     <JP-Name>深海鶴棲姫</JP-Name>
     <TR-Name>심해학서희</TR-Name>
   </Ship>
-                    <Ship>
+  <Ship>
     <JP-Name>護衛独還姫</JP-Name>
     <TR-Name>호위독환희</TR-Name>
   </Ship>
-                      <Ship>
+  <Ship>
     <JP-Name>潜水新棲姫 バカンスmode</JP-Name>
     <TR-Name>잠수신서희 바캉스모드</TR-Name>
   </Ship>
-                        <Ship>
+  <Ship>
     <JP-Name>集積地棲姫 バカンスmode</JP-Name>
     <TR-Name>집적지서희 바캉스모드</TR-Name>
   </Ship>
-                          <Ship>
+  <Ship>
     <JP-Name>泊地水鬼 バカンスmode</JP-Name>
     <TR-Name>박지수귀 바캉스모드</TR-Name>
   </Ship>
@@ -1476,27 +1476,27 @@
     <JP-Name>船渠棲姫</JP-Name>
     <TR-Name>선거서희</TR-Name>
   </Ship>
-    <Ship>
+  <Ship>
     <JP-Name>戦艦仏棲姫 バカンスmode</JP-Name>
     <TR-Name>전함불서희 바캉스모드</TR-Name>
   </Ship>
-      <Ship>
+  <Ship>
     <JP-Name>戦艦仏棲姫 バカンスmode</JP-Name>
     <TR-Name>전함불서희 바캉스모드</TR-Name>
   </Ship>
-        <Ship>
+  <Ship>
     <JP-Name>戦艦仏棲姫-壊 バカンスmode</JP-Name>
     <TR-Name>전함불서희-괴 바캉스모드</TR-Name>
   </Ship>
-          <Ship>
+  <Ship>
     <JP-Name>欧州水姫</JP-Name>
     <TR-Name>구주수희</TR-Name>
   </Ship>
-             <Ship>
+  <Ship>
     <JP-Name>深海雨雲姫</JP-Name>
     <TR-Name>심해우운희</TR-Name>
   </Ship>
-               <Ship>
+  <Ship>
     <JP-Name>深海日棲姫</JP-Name>
     <TR-Name>심해일서희</TR-Name>
   </Ship>
@@ -1560,7 +1560,7 @@
     <JP-Name> Mk.II Mod.2</JP-Name>
     <TR-Name> Mk.II Mod.2</TR-Name>
   </Ship>
-    <Ship mode="suffix">
+  <Ship mode="suffix">
     <JP-Name> Mod.2</JP-Name>
     <TR-Name> Mod.2</TR-Name>
   </Ship>
@@ -1568,7 +1568,7 @@
     <JP-Name>母</JP-Name>
     <TR-Name> 모</TR-Name>
   </Ship>
-    <Ship mode="suffix">
+  <Ship mode="suffix">
     <JP-Name>バカンスmode</JP-Name>
     <TR-Name> 바캉스모드</TR-Name>
   </Ship>
@@ -1579,6 +1579,10 @@
   <Ship mode="suffix">
     <JP-Name>乙</JP-Name>
     <TR-Name> 을</TR-Name>
+  </Ship>
+  <Ship mode="suffix">
+    <JP-Name>丙</JP-Name>
+    <TR-Name>병</TR-Name>
   </Ship>
   <Ship mode="suffix">
     <JP-Name>航</JP-Name>
@@ -1596,11 +1600,11 @@
     <JP-Name>後期型</JP-Name>
     <TR-Name> 후기형</TR-Name>
   </Ship>
-    <Ship mode="suffix">
+  <Ship mode="suffix">
     <JP-Name>改-壊</JP-Name>
     <TR-Name> 개-괴</TR-Name>
   </Ship>
-      <Ship mode="suffix">
+  <Ship mode="suffix">
     <JP-Name>-壊</JP-Name>
     <TR-Name>-괴</TR-Name>
   </Ship>
