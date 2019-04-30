@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.6.4">
+<Equipment Version="1.6.5">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm 단장포</TR-Name>
@@ -1695,5 +1695,21 @@
   <Item>
     <JP-Name>35.6cm連装砲改二</JP-Name>
     <TR-Name>35.6cm 연장포 개2</TR-Name>
+  </Item>
+    <Item>
+    <JP-Name>彗星一二型(三一号光電管爆弾搭載機)</JP-Name>
+    <TR-Name>스이세이12형(31호광전관폭탄탑재기)</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>16inch Mk.VIII連装砲改</JP-Name>
+    <TR-Name>16inch Mk.VIII 연장포 개</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>16inch Mk.V連装砲</JP-Name>
+    <TR-Name>16inch Mk.V 연장포</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>16inch Mk.I連装砲</JP-Name>
+    <TR-Name>16inch Mk.V 연장포</TR-Name>
   </Item>
 </Equipment>
