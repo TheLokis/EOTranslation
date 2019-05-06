@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Operations Version="1.4.17">
+<Operations Version="1.4.18">
+  <Map>
+    <JP-Name>鎮守府海域</JP-Name>
+    <TR-Name>진수부해역</TR-Name>
+  </Map>
+  <Map>
+    <JP-Name>南西諸島海域</JP-Name>
+    <TR-Name>남서제도해역</TR-Name>
+  </Map>
+    <Map>
+    <JP-Name>北方海域</JP-Name>
+    <TR-Name>북방해역</TR-Name>
+  </Map>
+  <Map>
+    <JP-Name>南西海域</JP-Name>
+    <TR-Name>남서해역</TR-Name>
+  </Map>
+  <Map>
+    <JP-Name>西方海域</JP-Name>
+    <TR-Name>서방해역</TR-Name>
+  </Map>
+  <Map>
+    <JP-Name>南方海域</JP-Name>
+    <TR-Name>남방해역</TR-Name>
+  </Map>
+  <Map>
+    <JP-Name>中部海域</JP-Name>
+    <TR-Name>중부해역</TR-Name>
+  </Map>
   <Map>
     <JP-Name>鎮守府正面海域</JP-Name>
     <TR-Name>진수부정면해역</TR-Name>
