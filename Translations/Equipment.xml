@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.6.5">
+<Equipment Version="1.6.6">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm 단장포</TR-Name>
@@ -111,6 +111,34 @@
   <Item>
     <JP-Name>試製烈風 後期型</JP-Name>
     <TR-Name>시제렛푸 후기형</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>烈風改</JP-Name>
+    <TR-Name>렛푸 개</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>烈風改(三五二空/熟練)</JP-Name>
+    <TR-Name>렛푸 개(352공/숙련)</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>烈風改(試製艦載型)</JP-Name>
+    <TR-Name>렛푸 개(시제함재형)</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>烈風改二</JP-Name>
+    <TR-Name>렛푸 개2</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>烈風改二(一航戦/熟練)</JP-Name>
+    <TR-Name>렛푸 개2(1항전/숙련)</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>烈風改二戊型</JP-Name>
+    <TR-Name>렛푸 개2무형</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>烈風改二戊型(一航戦/熟練)</JP-Name>
+    <TR-Name>렛푸 개2무형(1항전/숙련)</TR-Name>
   </Item>
   <Item>
     <JP-Name>九九式艦爆</JP-Name>
@@ -1696,7 +1724,7 @@
     <JP-Name>35.6cm連装砲改二</JP-Name>
     <TR-Name>35.6cm 연장포 개2</TR-Name>
   </Item>
-    <Item>
+  <Item>
     <JP-Name>彗星一二型(三一号光電管爆弾搭載機)</JP-Name>
     <TR-Name>스이세이12형(31호광전관폭탄탑재기)</TR-Name>
   </Item>
