@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.6.10">
+<Equipment Version="1.7.0">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm 단장포</TR-Name>
@@ -1763,5 +1763,13 @@
          <Item>
     <JP-Name>流星改(一航戦/熟練)</JP-Name>
     <TR-Name>류세이 개(1항전/숙련)</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>九七式艦攻改 試製三号戊型(空六号電探改装備機)</JP-Name>
+    <TR-Name>97식함공 개 신형3호무형(공6호전탐개장비기)</TR-Name>
+  </Item>
+   <Item>
+    <JP-Name>九七式艦攻改(熟練) 試製三号戊型(空六号電探改装備機)</JP-Name>
+    <TR-Name>97식함공 개(숙련) 신형3호무형(공6호전탐개장비기)</TR-Name>
   </Item>
 </Equipment>
