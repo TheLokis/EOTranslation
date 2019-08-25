@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.8.2">
+<Quests Version="1.8.3">
   <Quest>
     <ID>640</ID>
     <JP-Name>初夏の整理整頓</JP-Name>
@@ -2303,7 +2303,7 @@
     <JP-Name>旗艦「由良」、抜錨！</JP-Name>
     <TR-Name>기함 유라, 발묘!</TR-Name>
     <JP-Detail>出撃任務：旗艦に「由良改二」、随伴艦に二駆「村雨」「夕立」「春雨」「五月雨」及び「秋月」から&lt;br&gt;二隻以上を配備した第一艦隊を展開、東部オリョール海及び南方海域前面の敵戦力を撃滅せよ！</JP-Detail>
-    <TR-Detail>유라改2 기함, 시구레, 유다치, 하루사메, 사미다레, 아키즈키 중 2척을 포함한 함대로 2-3, 5-1 보스전 S승?</TR-Detail>
+    <TR-Detail>유라改2 기함, 무라사메, 유다치, 하루사메, 사미다레, 아키즈키 중 2척을 포함한 함대로 2-3, 5-1 보스전 S승?</TR-Detail>
   </Quest>
   <Quest>
     <ID>185</ID>
