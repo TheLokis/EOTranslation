@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.7.2">
+<Equipment Version="1.7.3">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm 단장포</TR-Name>
@@ -1789,7 +1789,15 @@
     <TR-Name>시제 슈스이</TR-Name>
   </Item>
   <Item>
-    <JP-Name>秋水</JP-Name>
-    <TR-Name>슈스이</TR-Name>
+    <JP-Name>深海空要塞</JP-Name>
+    <TR-Name>심해공요새</TR-Name>
+  </Item>
+   <Item>
+    <JP-Name>深海空要塞Ace</JP-Name>
+    <TR-Name>심해공요새Ace</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>深海6inch三連装新型速射砲</JP-Name>
+    <TR-Name>심해 6inch 3연장 신형 속사포</TR-Name>
   </Item>
 </Equipment>
