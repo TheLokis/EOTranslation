@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Ships Version="1.8.15">
+<Ships Version="1.9.0">
   <Ship>
     <JP-Name>長門</JP-Name>
     <TR-Name>나가토</TR-Name>
@@ -1155,6 +1155,18 @@
   <Ship>
     <JP-Name>Colorado</JP-Name>
     <TR-Name>콜로라도</TR-Name>
+  </Ship>
+    <Ship>
+    <JP-Name>御蔵</JP-Name>
+    <TR-Name>미쿠라</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>Grecale</JP-Name>
+    <TR-Name>그레칼레</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>L.d.S.D.d.Abruzzi</JP-Name>
+    <TR-Name>L.d.S.D.d.아브루치</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>駆逐イ級</JP-Name>
