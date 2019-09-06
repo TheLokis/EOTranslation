@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Ships Version="1.9.1">
+<Ships Version="1.9.2">
   <Ship>
     <JP-Name>長門</JP-Name>
     <TR-Name>나가토</TR-Name>
@@ -1539,6 +1539,14 @@
   <Ship>
     <JP-Name>太平洋深海棲姫</JP-Name>
     <TR-Name>태평양심해서희</TR-Name>
+  </Ship>
+    <Ship>
+    <JP-Name>深海地中海棲姫</JP-Name>
+    <TR-Name>심해지중해서희</TR-Name>
+  </Ship>
+     <Ship>
+    <JP-Name>アンツィオ沖棲姫</JP-Name>
+    <TR-Name>안치오서희</TR-Name>
   </Ship>
   <Ship mode="suffix">
     <JP-Name>改</JP-Name>
