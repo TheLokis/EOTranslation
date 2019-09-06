@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Ships Version="1.9.0">
+<Ships Version="1.9.1">
   <Ship>
     <JP-Name>長門</JP-Name>
     <TR-Name>나가토</TR-Name>
@@ -1167,6 +1167,10 @@
   <Ship>
     <JP-Name>L.d.S.D.d.Abruzzi</JP-Name>
     <TR-Name>L.d.S.D.d.아브루치</TR-Name>
+  </Ship>
+    <Ship>
+    <JP-Name>Janus</JP-Name>
+    <TR-Name>재너스</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>駆逐イ級</JP-Name>
