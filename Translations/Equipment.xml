@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.7.4">
+<Equipment Version="1.7.5">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm 단장포</TR-Name>
@@ -1741,6 +1741,10 @@
     <TR-Name>16inch Mk.I 연장포</TR-Name>
   </Item>
   <Item>
+    <JP-Name>8inch三連装砲 Mk.9</JP-Name>
+    <TR-Name>8inch 3연장포 Mk.9</TR-Name>
+  </Item>
+    <Item>
     <JP-Name>深海16inch Mk.VIII連装砲改</JP-Name>
     <TR-Name>심해16inch Mk.VIII 연장포 개</TR-Name>
   </Item>
