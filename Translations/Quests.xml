@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.8.3">
+<Quests Version="1.8.4">
   <Quest>
     <ID>640</ID>
     <JP-Name>初夏の整理整頓</JP-Name>
@@ -3179,5 +3179,33 @@
     <TR-Name>수송 선단 연습</TR-Name>
     <JP-Detail>輸送船団演習任務：補給艦または揚陸艦、海防艦を計2隻以上含む輸送船団を編成、同輸送船団及び護衛艦艇による演習で、本日中に【A判定】勝利4回以上達成せよ。</JP-Detail>
     <TR-Detail>보급함, 양륙함, 해방함을 총 2척 이상 편성, 연습 A승리 4회 이상</TR-Detail>
+  </Quest>
+        <Quest>
+    <ID>337</ID>
+    <JP-Name></JP-Name>
+    <TR-Name>18구축 연습!</TR-Name>
+    <JP-Detail></JP-Detail>
+    <TR-Detail>"카스미" "아라레" "카게로" "시라누이" 편성, 연습전 S승 3회 이상</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>338</ID>
+    <JP-Name></JP-Name>
+    <TR-Name>무츠키형 집합! 연습 시작!</TR-Name>
+    <JP-Detail></JP-Detail>
+    <TR-Detail>무츠키형 구축함 4척 편성, 연습전 4회 이상 승리</TR-Detail>
+  </Quest>
+    <Quest>
+    <ID>653</ID>
+    <JP-Name></JP-Name>
+    <TR-Name>공창가동! 차기작전 준비!</TR-Name>
+    <JP-Detail></JP-Detail>
+    <TR-Detail>14cm 단장포x6 폐기, 가구코인 6,000 "35.6cm 연장포" "96식 함전" 각 3개를 준비</TR-Detail>
+  </Quest>
+      <Quest>
+    <ID>845</ID>
+    <JP-Name></JP-Name>
+    <TR-Name>발령! "서방해역 작전"</TR-Name>
+    <JP-Detail></JP-Detail>
+    <TR-Detail>4-1 ~ 4-5 S승리</TR-Detail>
   </Quest>
 </Quests>
