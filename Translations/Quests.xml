@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.8.4">
+<Quests Version="1.8.5">
   <Quest>
     <ID>640</ID>
     <JP-Name>初夏の整理整頓</JP-Name>
@@ -1974,7 +1974,7 @@
     <JP-Name>「第十六戦隊(第三次)」出撃せよ！</JP-Name>
     <TR-Name>제16전대(제3차) 출격하라!</TR-Name>
     <JP-Detail>「第十六戦隊(第三次)」を沖ノ島海域前面に展開、敵主力艦隊を捕捉、これを撃破せよ！</JP-Detail>
-    <TR-Detail>키누, 아오바, 키타카미, 오오이를 포함하는 함대로 2-4 보스전 S승리</TR-Detail>
+    <TR-Detail>키누, 아오바, 키타카미, 오오이를 포함하는 함대로 2-4 보스전 A승리</TR-Detail>
   </Quest>
   <Quest>
     <ID>314</ID>
