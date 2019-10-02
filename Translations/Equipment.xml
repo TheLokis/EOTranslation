@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.7.5">
+<Equipment Version="1.7.6">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm 단장포</TR-Name>
@@ -1787,6 +1787,10 @@
          <Item>
     <JP-Name>艦載型 四式20cm対地噴進砲</JP-Name>
     <TR-Name>함재형 4식20cm 대지분진포</TR-Name>
+  </Item>
+           <Item>
+    <JP-Name>四式20cm対地噴進砲 集中配備</JP-Name>
+    <TR-Name>4식20cm 대지분진포 집중배치</TR-Name>
   </Item>
            <Item>
     <JP-Name>試製 秋水</JP-Name>
