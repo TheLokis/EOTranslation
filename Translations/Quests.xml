@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.8.5">
+<Quests Version="1.8.6">
   <Quest>
     <ID>640</ID>
     <JP-Name>初夏の整理整頓</JP-Name>
@@ -3207,5 +3207,40 @@
     <TR-Name>발령! "서방해역 작전"</TR-Name>
     <JP-Detail></JP-Detail>
     <TR-Detail>4-1 ~ 4-5 S승리</TR-Detail>
+  </Quest>
+        <Quest>
+    <ID>866</ID>
+    <JP-Name></JP-Name>
+    <TR-Name>꽁치잡이 : 올해는 흉어? 그래도...좋습니다!</TR-Name>
+    <JP-Detail></JP-Detail>
+    <TR-Detail>꽁치 3마리 입수</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>867</ID>
+    <JP-Name></JP-Name>
+    <TR-Name>꽁치잡이 : 올해는 기분이 고양됩니다!</TR-Name>
+    <JP-Detail></JP-Detail>
+    <TR-Detail>꽁치 8마리 입수</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>868</ID>
+    <JP-Name></JP-Name>
+    <TR-Name>꽁치 잡이 : 풍어기, 여기는... 양보할 수 없습니다!</TR-Name>
+    <JP-Detail></JP-Detail>
+    <TR-Detail>꽁치 18마리 입수</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>882</ID>
+    <JP-Name></JP-Name>
+    <TR-Name>[특별임무] 괜찮아, 정어리가 있잖아!</TR-Name>
+    <JP-Detail></JP-Detail>
+    <TR-Detail>정어리 25마리 입수</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>882</ID>
+    <JP-Name></JP-Name>
+    <TR-Name>[특별임무] 올해는 정어리가 풍어인거예요!</TR-Name>
+    <JP-Detail></JP-Detail>
+    <TR-Detail>정어리 50마리 입수</TR-Detail>
   </Quest>
 </Quests>
