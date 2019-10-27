@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Items Version="1.0.0">
+<Items Version="1.0.1">
   <Item>
     <ID>80</ID>
     <JP-Name>Xmas Select Gift Box</JP-Name>
@@ -254,5 +254,10 @@
     <ID>57</ID>
     <JP-Name>勲章</JP-Name>
     <TR-Name>훈장</TR-Name>
+  </Item>
+  <Item>
+    <ID>81</ID>
+    <JP-Name>鰯</JP-Name>
+    <TR-Name>정어리</TR-Name>
   </Item>
 </Items>
