@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.7.6">
+<Equipment Version="1.7.7">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm 단장포</TR-Name>
@@ -591,6 +591,14 @@
   <Item>
     <JP-Name>零式水中聴音機</JP-Name>
     <TR-Name>영식수중청음기</TR-Name>
+  </Item>
+    <Item>
+    <JP-Name>8inch三連装砲 Mk.9 mod.2</JP-Name>
+    <TR-Name>8inch 3연장포 Mk.9 mod.2</TR-Name>
+  </Item>
+    <Item>
+    <JP-Name>5inch 単装高角砲群</JP-Name>
+    <TR-Name>5inch 단장고각포대</TR-Name>
   </Item>
   <Item>
     <JP-Name>5inch単装砲</JP-Name>
