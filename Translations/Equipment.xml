@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.7.8">
+<Equipment Version="1.8.0">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm 단장포</TR-Name>
@@ -1667,6 +1667,14 @@
   <Item>
     <JP-Name>SG レーダー(初期型)</JP-Name>
     <TR-Name>SG 레이더 (초기형)</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>Bofors 15cm連装速射砲 Mk.9 Model 1938</JP-Name>
+    <TR-Name>Bofors 15cm연장속사포 Mk.9 Model 1938</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>Bofors 15cm連装速射砲 Mk.9改+単装速射砲 Mk.10改 Model 1938</JP-Name>
+    <TR-Name>Bofors 15cm연장속사포 Mk.9 개+단장속사포 Mk.10 개 Model 1938</TR-Name>
   </Item>
   <Item>
     <JP-Name>深海5.5inch連装砲改</JP-Name>
