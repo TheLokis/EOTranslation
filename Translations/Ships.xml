@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Ships Version="1.10.0">
+<Ships Version="1.10.1">
   <Ship>
     <JP-Name>長門</JP-Name>
     <TR-Name>나가토</TR-Name>
@@ -1179,6 +1179,14 @@
       <Ship>
     <JP-Name>De Ruyter</JP-Name>
     <TR-Name>드 로이테르</TR-Name>
+  </Ship>
+        <Ship>
+    <JP-Name>平戸</JP-Name>
+    <TR-Name>히라토</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>Atlanta</JP-Name>
+    <TR-Name>애틀란타</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>Perth</JP-Name>
