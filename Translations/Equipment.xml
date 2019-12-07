@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.8.0">
+<Equipment Version="1.8.1">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm 단장포</TR-Name>
@@ -1821,6 +1821,14 @@
     <TR-Name>Fw190 A-5개(숙련)</TR-Name>
   </Item>
   <Item>
+    <JP-Name>5inch連装両用砲(集中配備)</JP-Name>
+    <TR-Name>5inch 연장양용포(집중배치)</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>GFCS Mk.37+5inch連装両用砲(集中配備)</JP-Name>
+    <TR-Name>GFCS Mk.37+5inch 연장양용포(집중배치)</TR-Name>
+  </Item>
+  <Item>
     <JP-Name>深海空要塞</JP-Name>
     <TR-Name>심해공요새</TR-Name>
   </Item>
@@ -1855,5 +1863,21 @@
     <Item>
     <JP-Name>6inch 連装速射砲 Mk.XXI</JP-Name>
     <TR-Name>6인치 연장속사포 Mk.XXI</TR-Name>
+  </Item>
+   <Item>
+    <JP-Name>深海8inch連装速射砲</JP-Name>
+    <TR-Name>심해 8inch 연장 속사포</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>深海8inch三連装砲 Mk.9</JP-Name>
+    <TR-Name>심해 8inch 3연장포 Mk.9</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>深海5inch連装両用砲(集中配備)</JP-Name>
+    <TR-Name>심해 5inch 연장양용포(집중배치)</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>深海対空レーダーMark.III+FCS</JP-Name>
+    <TR-Name>심해대공레이더 Mk.III+FCS</TR-Name>
   </Item>
 </Equipment>
