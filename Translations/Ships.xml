@@ -1572,6 +1572,18 @@
     <JP-Name>アンツィオ沖棲姫</JP-Name>
     <TR-Name>안치오서희</TR-Name>
   </Ship>
+  <Ship>
+    <JP-Name>防空巡棲姫</JP-Name>
+    <TR-Name>방공경서희</TR-Name>
+  </Ship>
+   <Ship>
+    <JP-Name>バタビア沖棲姫</JP-Name>
+    <TR-Name>바타비아해서희</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>バタビア沖棲姫</JP-Name>
+    <TR-Name>바타비아해서희</TR-Name>
+  </Ship>
   <Ship mode="suffix">
     <JP-Name>改</JP-Name>
     <TR-Name> 개</TR-Name>
