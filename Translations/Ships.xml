@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Ships Version="1.10.1">
+<Ships Version="1.10.2">
   <Ship>
     <JP-Name>長門</JP-Name>
     <TR-Name>나가토</TR-Name>
@@ -1574,7 +1574,7 @@
   </Ship>
   <Ship>
     <JP-Name>防空巡棲姫</JP-Name>
-    <TR-Name>방공경서희</TR-Name>
+    <TR-Name>방공순서희</TR-Name>
   </Ship>
    <Ship>
     <JP-Name>バタビア沖棲姫</JP-Name>
