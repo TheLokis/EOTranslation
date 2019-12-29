@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.8.8">
+<Quests Version="1.8.9">
   <Quest>
     <ID>640</ID>
     <JP-Name>初夏の整理整頓</JP-Name>
@@ -2052,13 +2052,6 @@
     <TR-Name>사이운 수송 분해</TR-Name>
     <JP-Detail>彩雲分解任務：「零式水上偵察機」一つを廃棄、開発資材x20と「彩雲」一つを準備せよ！&lt;br&gt;※任務達成後、用意した開発資材及び必要装備(低改修値のもの優先)は消費します。</JP-Detail>
     <TR-Detail>사이운 1개와 개발자재 20개를 소지한 상태로 영식수상정찰기 하나 폐기 (개발자재와 장비는 달성 후 소멸, 개수치가 낮은 장비부터 소멸)</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>845</ID>
-    <JP-Name>敵大規模泊地の後方兵站線を分断せよ！</JP-Name>
-    <TR-Name>적 대규모 정박지의 후방 병참선을 분단하라!</TR-Name>
-    <JP-Detail>敵の大規模泊地の後方兵站線を分断する！敵泊地の北東にある敵離島拠点を攻撃し、同拠点を無力化、&lt;br&gt;補強兵站線を破壊することで、敵大規模泊地の防衛力低下を図れ！</JP-Detail>
-    <TR-Detail>E-3 이도서희 전투방 S승리? 2회</TR-Detail>
   </Quest>
   <Quest>
     <ID>846</ID>
