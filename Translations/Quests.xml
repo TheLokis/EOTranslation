@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.8.9">
+<Quests Version="1.8.10">
   <Quest>
     <ID>640</ID>
     <JP-Name>初夏の整理整頓</JP-Name>
@@ -479,30 +479,30 @@
   <Quest>
     <ID>801</ID>
     <JP-Name>謹賀新年！「水雷戦隊」出撃始め！</JP-Name>
-    <TR-Name>근하신년! 돼지해 수뢰 전대 출격 시작!</TR-Name>
+    <TR-Name>하정! 레이와 2년 수뢰전대 출격 시작!</TR-Name>
     <JP-Detail>新春特別任務：軽巡を旗艦とした水雷戦隊を南西諸島沖、製油所地帯沿岸及び南西諸島防衛線に展開！同三海域の敵艦隊を邀撃、新年の暁に勝利を刻むのです！</JP-Detail>
-    <TR-Detail>경순급 기함, 수뢰전대 편성, 1-2, 1-3, 1-4 승리</TR-Detail>
+    <TR-Detail>경순급 기함, 나머지 구축함 편성, 1-2, 1-3, 1-4, 2-1 승리</TR-Detail>
   </Quest>
   <Quest>
     <ID>802</ID>
     <JP-Name>謹賀瑞雲！「日向」と「伊勢」のお手伝い！</JP-Name>
-    <TR-Name>근하서운! 휴가와 이세를 도와주자!</TR-Name>
+    <TR-Name>근하신년! 수상기모함 출격하라!</TR-Name>
     <JP-Detail>新春特別任務：新春からお手伝い、すみません！水上機母艦、潜水母艦、または駆逐艦を旗艦とした艦隊で、東部オリョール海に反復出撃です！同海域の敵艦隊を撃滅、制海権確保をお願いします！</JP-Detail>
-    <TR-Detail>항공전함, 항공순양함, 수상기모함 기함, 2-2, 2-3, 2-4 2회 승리</TR-Detail>
+    <TR-Detail>수상기모함 또는 항공순양함 기함, 2-2, 2-3, 2-4 2회씩 승리</TR-Detail>
   </Quest>
   <Quest>
     <ID>803</ID>
     <JP-Name>時代が来たか！航空火力艦なお正月！</JP-Name>
-    <TR-Name>돼지해 호위 시작! 해상 호위대 역시 정월!</TR-Name>
+    <TR-Name>레이와 2년 호위시작! 해상호위대 발묘!</TR-Name>
     <JP-Detail>新春特別任務：航空戦艦を旗艦とする、航空戦艦2隻と航空巡洋艦2隻を基幹戦力とする艦隊をカレー洋へ展開！反復出撃し、同海域の敵艦隊を撃滅せよ！</JP-Detail>
-    <TR-Detail>해방함, 구축함, 경모(1척까지) 편성, 1-5, 1-6, 2-1 2회씩 승리</TR-Detail>
+    <TR-Detail>해방함 또는 구축함 편성(경항모1척 가능), 1-5, 1-6, 7-1 2회씩 승리</TR-Detail>
   </Quest>
   <Quest>
     <ID>804</ID>
     <JP-Name>迎春！「空母機動部隊」出撃開始！</JP-Name>
-    <TR-Name>영춘! 돼지해 항모기동부대 신춘의 서쪽으로!</TR-Name>
+    <TR-Name>영춘! 경순 유바리, 북쪽으로!</TR-Name>
     <JP-Detail>新春特別任務：航空母艦を旗艦とする護衛の駆逐艦2隻以上を擁する機動部隊で北方AL海域に展開！反復出撃によって、同艦域の敵戦力を撃滅せよ！空母機動部隊、出撃！</JP-Detail>
-    <TR-Detail>항모 기함, 구축 2이상 편성, 4-5 4회 승리</TR-Detail>
+    <TR-Detail>기함에 유바리 또는 구축함, 수반 구축함 2척 이상 편성, 3-5 S승리 3회</TR-Detail>
   </Quest>
   <Quest>
     <ID>703</ID>
