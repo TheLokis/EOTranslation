@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.8.10">
+<Quests Version="1.8.11">
   <Quest>
     <ID>640</ID>
     <JP-Name>初夏の整理整頓</JP-Name>
@@ -2021,23 +2021,23 @@
   <Quest>
     <ID>840</ID>
     <JP-Name>冬季特別任務：精鋭「駆逐隊」、出撃！</JP-Name>
-    <TR-Name>겨울 특별 임무: 정예 구축대 출격!</TR-Name>
+    <TR-Name>[절분임무] 레이와 2년 절분 작전</TR-Name>
     <JP-Detail>駆逐艦4隻による精鋭「駆逐隊」を編成し、鎮守府正面海域及び南西諸島沖に出撃、&lt;br&gt;両海域の敵艦隊を捕捉、これを撃滅せよ！</JP-Detail>
-    <TR-Detail>구축함 4척 고정으로 1-1, 1-2 보스전 S승리</TR-Detail>
+    <TR-Detail>경항모 또는 경순급 기함, 구축함 또는 해방함 3척이상 포함 편성, 1-4, 2-1, 2-2 승리</TR-Detail>
   </Quest>
   <Quest>
     <ID>841</ID>
     <JP-Name>冬季特別任務：水上機母艦、抜錨せよ！</JP-Name>
-    <TR-Name>겨울 특별 임무: 수상기모함, 발묘하라!</TR-Name>
+    <TR-Name>[절분임무] 레이와 2년 서방해역 절분작전</TR-Name>
     <JP-Detail>水上機母艦を旗艦とし、護衛駆逐艦3隻を含む艦隊を編成、&lt;br&gt;製油所地帯沿岸及び南西諸島防衛線に展開、同海域に出没する敵艦隊を撃滅せよ！</JP-Detail>
-    <TR-Detail>수상기모함 기함+구축함 3척으로 1-3, 1-4 보스전 S승리 (자유편성 여부는 불명)</TR-Detail>
+    <TR-Detail>수상기모함 또는 중순급 기함, 구축함 2척 이상 편성, 4-1, 4-2, 4-3 S승리</TR-Detail>
   </Quest>
   <Quest>
     <ID>843</ID>
     <JP-Name>節分特別出撃：制海権を確保せよ！</JP-Name>
-    <TR-Name>절분 특별 출격: 제해권을 확보하라!</TR-Name>
+    <TR-Name>[절분 확장 임무] 레이와 2년 절분 작전, 전력 출격!</TR-Name>
     <JP-Detail>節分実施の準備として第1艦隊に4隻(内駆逐艦2隻含む)からなる精鋭艦隊を配備、鎮守府正面海域、&lt;br&gt;南西諸島沖、及び東部オリョール海へ展開、同海域の敵艦隊を撃滅し、節分の制海権を確保せよ！</JP-Detail>
-    <TR-Detail>1함대에 구축함 2척을 포함하는 4척으로 1-1, 1-4, 2-3 보스전 S승</TR-Detail>
+    <TR-Detail>전함 또는 항공모함 기함, 구축함 2척 이상 편성, 5-4, 5-5, 6-4 S승리</TR-Detail>
   </Quest>
   <Quest>
     <ID>653</ID>
