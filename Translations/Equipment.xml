@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.8.2">
+<Equipment Version="1.8.3">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm 단장포</TR-Name>
+  </Item>
+    <Item>
+    <JP-Name>一式徹甲弾改</JP-Name>
+    <TR-Name>1식 철갑탄 개</TR-Name>
   </Item>
   <Item>
     <JP-Name>12cm単装砲改二</JP-Name>
