@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.8.11">
+<Quests Version="1.8.12">
+   <Quest>
+    <ID>339</ID>
+    <JP-Name>初夏の整理整頓</JP-Name>
+    <TR-Name>"19구축대" 연습!</TR-Name>
+    <JP-Detail>不要な装備を複数「廃棄」して、夏を迎える準備をしましょう！</JP-Detail>
+    <TR-Detail>"이소나미" "우라나미" "아야나미" "시키나미" 편성, 연습 S승 3회 이상</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>434</ID>
+    <JP-Name>初夏の整理整頓</JP-Name>
+    <TR-Name>특설 호위 선단 사령부, 활동 개시!</TR-Name>
+    <JP-Detail>不要な装備を複数「廃棄」して、夏を迎える準備をしましょう！</JP-Detail>
+    <TR-Detail>3, 5, A1, A2, 9번 원정 성공</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>904</ID>
+    <JP-Name>初夏の整理整頓</JP-Name>
+    <TR-Name>정예 "19구축대" 뻗어나간다!</TR-Name>
+    <JP-Detail>不要な装備を複数「廃棄」して、夏を迎える準備をしましょう！</JP-Detail>
+    <TR-Detail>"아야나미 改2", "시키나미 改2" 포함 편성, 2-5, 3-4, 4-5, 5-3 S승리</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>905</ID>
+    <JP-Name>初夏の整理整頓</JP-Name>
+    <TR-Name>"해방함" 바다를 지킨다!</TR-Name>
+    <JP-Detail>不要な装備を複数「廃棄」して、夏を迎える準備をしましょう！</JP-Detail>
+    <TR-Detail>해방함 3척 포함 5척 이하 편성, 1-1, 1-2, 1-3, 1-5, 1-6 승리</TR-Detail>
+  </Quest>
   <Quest>
     <ID>640</ID>
     <JP-Name>初夏の整理整頓</JP-Name>
