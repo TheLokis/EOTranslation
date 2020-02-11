@@ -10,7 +10,7 @@
 	<ExpeditionData version="1.1.1" />
 	<ShipTypes version="1.1.4" />
 	<AkashiDay version="1.0.0" />
-	<AkashiData version="1.0.9" />
+	<AkashiData version="1.1.0" />
 	<NodeData version="1.0.1" />
 	<FitData version="1.0.5" />
 </VersionManifest>
