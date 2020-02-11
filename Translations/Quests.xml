@@ -1,11 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.8.12">
+<Quests Version="1.8.13">
    <Quest>
     <ID>339</ID>
     <JP-Name>初夏の整理整頓</JP-Name>
     <TR-Name>"19구축대" 연습!</TR-Name>
     <JP-Detail>不要な装備を複数「廃棄」して、夏を迎える準備をしましょう！</JP-Detail>
     <TR-Detail>"이소나미" "우라나미" "아야나미" "시키나미" 편성, 연습 S승 3회 이상</TR-Detail>
+  </Quest>
+   <Quest>
+    <ID>901</ID>
+    <JP-Name>初夏の整理整頓</JP-Name>
+    <TR-Name>"유바리改2" 시험해봐도 될까?</TR-Name>
+    <JP-Detail>不要な装備を複数「廃棄」して、夏を迎える準備をしましょう！</JP-Detail>
+    <TR-Detail>유바리改2형 기함 편성, 2-5, 3-3, 5-3, 6-3 S승리</TR-Detail>
+  </Quest>
+   <Quest>
+    <ID>902</ID>
+    <JP-Name>初夏の整理整頓</JP-Name>
+    <TR-Name>신편 "6수전" 출격! 나중에 감상 들려줘!</TR-Name>
+    <JP-Detail>不要な装備を複数「廃棄」して、夏を迎える準備をしましょう！</JP-Detail>
+    <TR-Detail>"유바리改2"형 기함과 제6수뢰전대를 포함하여 4척 이상 편성, 1-5, 1-6, 2-2, 3-2, 7-1 S승리</TR-Detail>
+  </Quest>
+   <Quest>
+    <ID>903</ID>
+    <JP-Name>初夏の整理整頓</JP-Name>
+    <TR-Name>확장 "6수전", 최전선으로!</TR-Name>
+    <JP-Detail>不要な装備を複数「廃棄」して、夏を迎える準備をしましょう！</JP-Detail>
+    <TR-Detail>"유바리改2"형 기함, 제6수뢰전 구축함 2척 이상 또는 "유라改2" 편성, 5-1, 5-4, 6-4, 6-5 S승리</TR-Detail>
   </Quest>
   <Quest>
     <ID>434</ID>
