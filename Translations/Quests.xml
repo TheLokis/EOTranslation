@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.8.14">
+<Quests Version="1.8.15">
    <Quest>
     <ID>339</ID>
     <JP-Name>初夏の整理整頓</JP-Name>
     <TR-Name>"19구축대" 연습!</TR-Name>
     <JP-Detail>不要な装備を複数「廃棄」して、夏を迎える準備をしましょう！</JP-Detail>
     <TR-Detail>"이소나미" "우라나미" "아야나미" "시키나미" 편성, 연습 S승 3회 이상</TR-Detail>
+  </Quest>
+      <Quest>
+    <ID>910</ID>
+    <JP-Name>初夏の整理整頓</JP-Name>
+    <TR-Name>[삼짇날 작전] 「앞바다에 치는 파도」 출격!</TR-Name>
+    <JP-Detail>不要な装備を複数「廃棄」して、夏を迎える準備をしましょう！</JP-Detail>
+    <TR-Detail>「오키나미」 포함, 유구모형 3척 편성, E-1-1, E-1-2, E-1-3 A승리</TR-Detail>
+  </Quest>
+   <Quest>
+    <ID>911</ID>
+    <JP-Name>初夏の整理整頓</JP-Name>
+    <TR-Name>재편 「제31구축대」, 발묘하라!</TR-Name>
+    <JP-Detail>不要な装備を複数「廃棄」して、夏を迎える準備をしましょう！</JP-Detail>
+    <TR-Detail>「나가나미」「키시나미」「아사시모」「오키나미改2」 편성, 1-3, 1-4, 1-5, 2-2, 2-3 승리</TR-Detail>
   </Quest>
       <Quest>
     <ID>340</ID>
@@ -31,7 +45,7 @@
       <Quest>
     <ID>708</ID>
     <JP-Name>初夏の整理整頓</JP-Name>
-    <TR-Name>[삼짇날 임무] 구축함 삼짇날 개수</TR-Name>
+    <TR-Name>[삼짇날 임무] 해방함 삼짇날 개수</TR-Name>
     <JP-Detail>不要な装備を複数「廃棄」して、夏を迎える準備をしましょう！</JP-Detail>
     <TR-Detail>강재 3030, 보크사이트 3030 준비, 해방함에 구축함 5척 동시 사용하여 근대화개수 2회 성공</TR-Detail>
   </Quest>
