@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.8.3">
+<Equipment Version="1.8.4">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm 단장포</TR-Name>
@@ -1835,6 +1835,18 @@
   <Item>
     <JP-Name>GFCS Mk.37+5inch連装両用砲(集中配備)</JP-Name>
     <TR-Name>GFCS Mk.37+5inch 연장양용포(집중배치)</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>12.7cm連装砲D型改三</JP-Name>
+    <TR-Name>12.7cm 연장포 D형 개3</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>Swordfish(水上機型)</JP-Name>
+    <TR-Name>Swordfish(수상기형)</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>Swordfish Mk.III改(水上機型)</JP-Name>
+    <TR-Name>Swordfish Mk.III개(수상기형)</TR-Name>
   </Item>
   <Item>
     <JP-Name>深海空要塞</JP-Name>
