@@ -1082,6 +1082,29 @@
         "DrunNeed": "0",
         "DrunKanmusu": "0",
         "Desc": "최소 5척, 호위항모(경항모) 기함, 구축함 or 해방함 4척 이상, 대공 240 / 대잠 300 / 색적 180 이상"
+      },
+     {
+        "ID": "141",
+        "Fuel": "0",
+        "Ammo": "600",
+        "Steel": "600",
+        "Baux": "1000",
+        "AdmiralExp": "100",
+        "KanmusuExp1": "70",
+        "KanmusuExp2": "0",
+        "FlagShipLevel": "61",
+        "ItemA": "12",
+        "ItemB": "4",
+        "ItemAAmount": "2",
+        "ItemBAmount": "1",
+        "FlagShipType": "0",
+        "FleetMembers": "6",
+        "FleetTypes": "7,1|1:2,4",
+	"FleetAA":"420",
+	"FleetASW":"330",
+	"FleetLOS":"300",
+	"FleetPower":"450",
+        "Desc": "최소 6척, 화력450 / 대공420 / 대잠330 / 색적 300 이상"
       }
   ]
 }
