@@ -1,139 +1,188 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.9.0">
-   <Quest>
+<Quests Version="1.9.1">
+  <Quest>
     <ID>339</ID>
     <JP-Name>初夏の整理整頓</JP-Name>
     <TR-Name>"19구축대" 연습!</TR-Name>
     <JP-Detail>不要な装備を複数「廃棄」して、夏を迎える準備をしましょう！</JP-Detail>
     <TR-Detail>"이소나미" "우라나미" "아야나미" "시키나미" 편성, 연습 S승 3회 이상</TR-Detail>
   </Quest>
-      <Quest>
+  <Quest>
+    <ID>341</ID>
+    <JP-Name>初夏の整理整頓</JP-Name>
+    <TR-Name>7주년 임무 [7구축 연습]</TR-Name>
+    <JP-Detail>不要な装備を複数「廃棄」して、夏を迎える準備をしましょう！</JP-Detail>
+    <TR-Detail>「오보로」「아케보노」「사자나미」「우시오」중 2척 이상 편성, 연습전 A승리 3회 이상</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>882</ID>
+    <JP-Name>初夏の整理整頓</JP-Name>
+    <TR-Name>7주년 임무 [전단 작전]</TR-Name>
+    <JP-Detail>不要な装備を複数「廃棄」して、夏を迎える準備をしましょう！</JP-Detail>
+    <TR-Detail>구축함 또는 해방함 3척이상 편성, 1-2, 1-3, 1-4, 1-5, 2-1, 2-2 승리</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>883</ID>
+    <JP-Name>初夏の整理整頓</JP-Name>
+    <TR-Name>7주년 임무 [후단 작전]</TR-Name>
+    <JP-Detail>不要な装備を複数「廃棄」して、夏を迎える準備をしましょう！</JP-Detail>
+    <TR-Detail>경순급 1척, 구축함 2척 편성, 2-3, 3-1, 3-2, 3-3, 3-4, 3-5, 7-2-2 S승리</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>884</ID>
+    <JP-Name>初夏の整理整頓</JP-Name>
+    <TR-Name>7주년 임무 [확장 작전]</TR-Name>
+    <JP-Detail>不要な装備を複数「廃棄」して、夏を迎える準備をしましょう！</JP-Detail>
+    <TR-Detail>편성 자유, 6-1, 6-2, 6-3, 6-4, 6-5 S승리</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>916</ID>
+    <JP-Name>初夏の整理整頓</JP-Name>
+    <TR-Name>「히에이 改2丙」배알! 제3전대, 남방돌입!</TR-Name>
+    <JP-Detail>不要な装備を複数「廃棄」して、夏を迎える準備をしましょう！</JP-Detail>
+    <TR-Detail>「히에이 改2丙」포함 콩고형 2척, 경순급 1척, 구축함 1척 편성, 5-1, 5-2, 5-3, 5-4, 5-5 S승리</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>917</ID>
+    <JP-Name>初夏の整理整頓</JP-Name>
+    <TR-Name>개장 항공 경순「Gotland andra」, 출격!</TR-Name>
+    <JP-Detail>不要な装備を複数「廃棄」して、夏を迎える準備をしましょう！</JP-Detail>
+    <TR-Detail>「Gotland andra」기함, 수반 구축함 1척 편성, 2-4, 4-2, 4-4, 4-5 S승리</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>918</ID>
+    <JP-Name>初夏の整理整頓</JP-Name>
+    <TR-Name>「Gotland」 전대 진격하라!</TR-Name>
+    <JP-Detail>不要な装備を複数「廃棄」して、夏を迎える準備をしましょう！</JP-Detail>
+    <TR-Detail>「Gotland andra」기함, 수반 구축함 1척 편성, 2-5, 6-3, 6-4, 6-5 S승리</TR-Detail>
+  </Quest>
+  <Quest>
     <ID>910</ID>
     <JP-Name>初夏の整理整頓</JP-Name>
     <TR-Name>[삼짇날 작전] 「앞바다에 치는 파도」 출격!</TR-Name>
     <JP-Detail>不要な装備を複数「廃棄」して、夏を迎える準備をしましょう！</JP-Detail>
     <TR-Detail>「오키나미」 포함, 유구모형 3척 편성, E-1-1, E-1-2, E-1-3 A승리</TR-Detail>
   </Quest>
-   <Quest>
+  <Quest>
     <ID>911</ID>
     <JP-Name>初夏の整理整頓</JP-Name>
     <TR-Name>재편 「제31구축대」, 발묘하라!</TR-Name>
     <JP-Detail>不要な装備を複数「廃棄」して、夏を迎える準備をしましょう！</JP-Detail>
     <TR-Detail>「나가나미」「키시나미」「아사시모」「오키나미改2」 편성, 1-3, 1-4, 1-5, 2-2, 2-3 승리</TR-Detail>
   </Quest>
-      <Quest>
+  <Quest>
     <ID>340</ID>
     <JP-Name>初夏の整理整頓</JP-Name>
     <TR-Name>[삼짇날 임무] 삼짇날 연습!</TR-Name>
     <JP-Detail>不要な装備を複数「廃棄」して、夏を迎える準備をしましょう！</JP-Detail>
     <TR-Detail>구축함 또는 해방함 3척 편성, 연습 S승리 3회</TR-Detail>
   </Quest>
-      <Quest>
+  <Quest>
     <ID>435</ID>
     <JP-Name>初夏の整理整頓</JP-Name>
     <TR-Name>[삼짇날 임무] 삼짇날 원정!</TR-Name>
     <JP-Detail>不要な装備を複数「廃棄」して、夏を迎える準備をしましょう！</JP-Detail>
     <TR-Detail>4, 10, 14, B1, A3 원정 성공</TR-Detail>
   </Quest>
-      <Quest>
+  <Quest>
     <ID>707</ID>
     <JP-Name>初夏の整理整頓</JP-Name>
     <TR-Name>[삼짇날 임무] 구축함 삼짇날 개수</TR-Name>
     <JP-Detail>不要な装備を複数「廃棄」して、夏を迎える準備をしましょう！</JP-Detail>
     <TR-Detail>강재 303, 보크사이트 303 준비, 구축함에 경순양함 3척 동시 사용하여 근대화개수 2회 성공</TR-Detail>
   </Quest>
-      <Quest>
+  <Quest>
     <ID>708</ID>
     <JP-Name>初夏の整理整頓</JP-Name>
     <TR-Name>[삼짇날 임무] 해방함 삼짇날 개수</TR-Name>
     <JP-Detail>不要な装備を複数「廃棄」して、夏を迎える準備をしましょう！</JP-Detail>
     <TR-Detail>강재 3030, 보크사이트 3030 준비, 해방함에 구축함 5척 동시 사용하여 근대화개수 2회 성공</TR-Detail>
   </Quest>
-   <Quest>
+  <Quest>
     <ID>708</ID>
     <JP-Name>初夏の整理整頓</JP-Name>
     <TR-Name>[삼짇날 임무] 구축함 삼짇날 개수</TR-Name>
     <JP-Detail>不要な装備を複数「廃棄」して、夏を迎える準備をしましょう！</JP-Detail>
     <TR-Detail>강재 3030, 보크사이트 3030 준비, 해방함에 구축함 5척 동시 사용하여 근대화개수 2회 성공</TR-Detail>
   </Quest>
-   <Quest>
+  <Quest>
     <ID>709</ID>
     <JP-Name>初夏の整理整頓</JP-Name>
     <TR-Name>[삼짇날 임무] 경순양함 삼짇날 개수</TR-Name>
     <JP-Detail>不要な装備を複数「廃棄」して、夏を迎える準備をしましょう！</JP-Detail>
     <TR-Detail>강재 4230, 보크사이트 4230 준비, 경순양함에 해방함 2척 동시 사용하여 근대화개수 2회 성공</TR-Detail>
   </Quest>
-   <Quest>
+  <Quest>
     <ID>710</ID>
     <JP-Name>初夏の整理整頓</JP-Name>
     <TR-Name>[삼짇날 임무] 히시모찌 개수 : 서</TR-Name>
     <JP-Detail>不要な装備を複数「廃棄」して、夏を迎える準備をしましょう！</JP-Detail>
     <TR-Detail>히시모찌 10개 준비, 유구모형에 중순양함 4척 동시 사용하여 근대화개수 2회 성공</TR-Detail>
   </Quest>
-   <Quest>
+  <Quest>
     <ID>711</ID>
     <JP-Name>初夏の整理整頓</JP-Name>
     <TR-Name>[삼짇날 임무] 히시모찌 개수 : 서</TR-Name>
     <JP-Detail>不要な装備を複数「廃棄」して、夏を迎える準備をしましょう！</JP-Detail>
     <TR-Detail>히시모찌 15개, 강재 8800, 보크사이트 8800 준비, 「오키나미」에 전함 4척 동시 사용하여 근대화개수 2회 성공</TR-Detail>
   </Quest>
-   <Quest>
+  <Quest>
     <ID>712</ID>
     <JP-Name>初夏の整理整頓</JP-Name>
     <TR-Name>[삼짇날 임무] 히시모찌 개수 : 서</TR-Name>
     <JP-Detail>不要な装備を複数「廃棄」して、夏を迎える準備をしましょう！</JP-Detail>
     <TR-Detail>히시모찌 6개, 개발자재 100, 강재 3000, 보크사이트 3000 준비, 경항모에 경항모 3척 동시 사용하여 근대화개수 2회 성공</TR-Detail>
   </Quest>
-   <Quest>
+  <Quest>
     <ID>713</ID>
     <JP-Name>初夏の整理整頓</JP-Name>
     <TR-Name>[삼짇날 임무] 히시모치 개수 : 과</TR-Name>
     <JP-Detail>不要な装備を複数「廃棄」して、夏を迎える準備をしましょう！</JP-Detail>
     <TR-Detail>히시모찌 17개, 개발자재 300, 강재 15000, 보크사이트 15000 준비, 정규항모에 정규항모 5척 동시 사용하여 근대화개수 2회 성공</TR-Detail>
   </Quest>
-   <Quest>
+  <Quest>
     <ID>906</ID>
     <JP-Name>初夏の整理整頓</JP-Name>
     <TR-Name>[삼짇날 작전] 진수부 근해의 안전을 도모하라!</TR-Name>
     <JP-Detail>不要な装備を複数「廃棄」して、夏を迎える準備をしましょう！</JP-Detail>
     <TR-Detail>구축함 또는 해방함 3척 편성, 1-2, 1-3, 1-5, 1-6, 2-1 승리</TR-Detail>
   </Quest>
-   <Quest>
+  <Quest>
     <ID>907</ID>
     <JP-Name>初夏の整理整頓</JP-Name>
     <TR-Name>[삼짇날 작전] 침공부대 물자 집적지 강습!</TR-Name>
     <JP-Detail>不要な装備を複数「廃棄」して、夏を迎える準備をしましょう！</JP-Detail>
     <TR-Detail>구축함 3척 이상 편성, E-1-2 S승리 2회</TR-Detail>
   </Quest>
-   <Quest>
+  <Quest>
     <ID>908</ID>
     <JP-Name>初夏の整理整頓</JP-Name>
     <TR-Name>[삼짇날 작전] 적기동부대 영격전!</TR-Name>
     <JP-Detail>不要な装備を複数「廃棄」して、夏を迎える準備をしましょう！</JP-Detail>
     <TR-Detail>정규항모 2척, 전함 2척, 중순급 2척 편성 연합함대, E-1-3 A승 4회</TR-Detail>
   </Quest>
-   <Quest>
+  <Quest>
     <ID>909</ID>
     <JP-Name>初夏の整理整頓</JP-Name>
     <TR-Name>[삼짇날 작전] 주력 오브 주력, 달리다!</TR-Name>
     <JP-Detail>不要な装備を複数「廃棄」して、夏を迎える準備をしましょう！</JP-Detail>
     <TR-Detail>유구모형 3척 편성, 2-2, 2-3, 3-5, 7-2-2, E-1-1 S승리</TR-Detail>
   </Quest>
-   <Quest>
+  <Quest>
     <ID>901</ID>
     <JP-Name>初夏の整理整頓</JP-Name>
     <TR-Name>"유바리改2" 시험해봐도 될까?</TR-Name>
     <JP-Detail>不要な装備を複数「廃棄」して、夏を迎える準備をしましょう！</JP-Detail>
     <TR-Detail>유바리改2형 기함 편성, 2-5, 3-3, 5-3, 6-3 S승리</TR-Detail>
   </Quest>
-   <Quest>
+  <Quest>
     <ID>902</ID>
     <JP-Name>初夏の整理整頓</JP-Name>
     <TR-Name>신편 "6수전" 출격! 나중에 감상 들려줘!</TR-Name>
     <JP-Detail>不要な装備を複数「廃棄」して、夏を迎える準備をしましょう！</JP-Detail>
     <TR-Detail>"유바리改2"형 기함과 제6수뢰전대를 포함하여 4척 이상 편성, 1-5, 1-6, 2-2, 3-2, 7-1 S승리</TR-Detail>
   </Quest>
-   <Quest>
+  <Quest>
     <ID>903</ID>
     <JP-Name>初夏の整理整頓</JP-Name>
     <TR-Name>확장 "6수전", 최전선으로!</TR-Name>
@@ -1102,7 +1151,8 @@
     <JP-Name>「礼号作戦」実施せよ！</JP-Name>
     <TR-Name>례호작전을 실시하라!</TR-Name>
     <JP-Detail>精強な「水上反撃部隊」で、南西諸島沖ノ島沖に突入！同海域の敵戦力を撃滅せよ！</JP-Detail>&gt;
-    <TR-Detail>정강한 수상반격부대로 남서제도 오키노시마 앞바다(2-5)에 돌입, 적 전력을 격멸하라! (카스미 기함, 아시가라, 오오요도, 아사시모, 키요시모 최대 6척)</TR-Detail></Quest>
+    <TR-Detail>정강한 수상반격부대로 남서제도 오키노시마 앞바다(2-5)에 돌입, 적 전력을 격멸하라! (카스미 기함, 아시가라, 오오요도, 아사시모, 키요시모 최대 6척)</TR-Detail>
+  </Quest>
   <Quest>
     <ID>296</ID>
     <JP-Name>新編成航空戦隊、北方へ進出せよ！</JP-Name>
@@ -1254,7 +1304,8 @@
     <ID>267</ID>
     <JP-Name>「第十一駆逐隊」出撃せよ！</JP-Name>
     <TR-Name>「제11구축대」출격하라!</TR-Name>\
-    <JP-Detail>「第十一駆逐隊」を含む艦隊で出撃し、オリョール海の敵を撃破せよ！</JP-Detail><TR-Detail>「제11구축대」(후부키,시라유키,하츠유키,무라쿠모)를 포함한 함대로 2-3 보스전 승리(그 외 자유편성)※기함자유</TR-Detail></Quest>
+    <JP-Detail>「第十一駆逐隊」を含む艦隊で出撃し、オリョール海の敵を撃破せよ！</JP-Detail><TR-Detail>「제11구축대」(후부키,시라유키,하츠유키,무라쿠모)를 포함한 함대로 2-3 보스전 승리(그 외 자유편성)※기함자유</TR-Detail>
+  </Quest>
   <Quest>
     <ID>266</ID>
     <JP-Name>「水上反撃部隊」突入せよ！</JP-Name>
@@ -2803,13 +2854,6 @@
     <TR-Detail>갑형 구축대 편성 임무 : 카게로 改2 시라누이 改2 쿠로시오 改2를 집중 배치, 거기에 숙련도 70이상의 갑형 구축함[카게로형/유구모형 구축함]을 3척 집중 배치, 정예 함대형 구축대를 편성하라!</TR-Detail>
   </Quest>
   <Quest>
-    <ID>884</ID>
-    <JP-Name>最精鋭甲型駆逐艦、突入！敵中突破！</JP-Name>
-    <TR-Name>최정예 갑형 구축함, 돌입! 적중돌파!</TR-Name>
-    <JP-Detail>「黒潮改二」「不知火改二」「陽炎改二」のいずれかを旗艦、他2隻の練度75以上の甲型駆逐艦を配備した&lt;br&gt;計6隻艦隊で西方カレー洋、北方キス島沖、南方サブ島沖海域に複数回突入、各作戦を完全成功させよ！</JP-Detail>
-    <TR-Detail>쿠로시오 改2 시라누이 改2 카게로 改2 중 하나 기함, 레벨 75이상 갑형구축함 2척 포함 6척 편성, 4-2, 3-2, 5-3 각 2회씩 승리</TR-Detail>
-  </Quest>
-  <Quest>
     <ID>885</ID>
     <JP-Name>戦闘航空母艦、出撃せよ！</JP-Name>
     <TR-Name>전투 항공 모함, 출격하라!</TR-Name>
@@ -3299,21 +3343,21 @@
     <JP-Detail>「新しき盾」演習任務：重巡「摩耶」及び重巡「羽黒」を擁する艦隊による演習「新しき盾」を実施する。本「新しき盾」演習において、本日中に【S判定】勝利3回以上達成せよ！</JP-Detail>
     <TR-Detail>마야, 하구로 편성, 연습 S승리 3회 이상</TR-Detail>
   </Quest>
-    <Quest>
+  <Quest>
     <ID>833</ID>
     <JP-Name>陸戦用装備の艦載運用実戦研究</JP-Name>
     <TR-Name>육전용 장비의 함재 운용 실전 연구</TR-Name>
     <JP-Detail>陸戦用装備の艦載運用研究：水上機母艦または揚陸艦を含む艦隊を編成、西方海域カレー洋リランカ島沖及び中部北海域ピーコック島沖の各作戦において、敵地上戦力と交戦、これを複数回撃破せよ！</JP-Detail>
     <TR-Detail>수상기모함 또는 양륙함 편성, 4-5, 6-4 각 A승리 2회</TR-Detail>
   </Quest>
-      <Quest>
+  <Quest>
     <ID>336</ID>
     <JP-Name>輸送船団演習</JP-Name>
     <TR-Name>수송 선단 연습</TR-Name>
     <JP-Detail>輸送船団演習任務：補給艦または揚陸艦、海防艦を計2隻以上含む輸送船団を編成、同輸送船団及び護衛艦艇による演習で、本日中に【A判定】勝利4回以上達成せよ。</JP-Detail>
     <TR-Detail>보급함, 양륙함, 해방함을 총 2척 이상 편성, 연습 A승리 4회 이상</TR-Detail>
   </Quest>
-        <Quest>
+  <Quest>
     <ID>337</ID>
     <JP-Name></JP-Name>
     <TR-Name>18구축 연습!</TR-Name>
@@ -3327,21 +3371,21 @@
     <JP-Detail></JP-Detail>
     <TR-Detail>무츠키형 구축함 4척 편성, 연습전 4회 이상 승리</TR-Detail>
   </Quest>
-    <Quest>
+  <Quest>
     <ID>653</ID>
     <JP-Name></JP-Name>
     <TR-Name>공창가동! 차기작전 준비!</TR-Name>
     <JP-Detail></JP-Detail>
     <TR-Detail>14cm 단장포x6 폐기, 가구코인 6,000 "35.6cm 연장포" "96식 함전" 각 3개를 준비</TR-Detail>
   </Quest>
-      <Quest>
+  <Quest>
     <ID>845</ID>
     <JP-Name></JP-Name>
     <TR-Name>발령! "서방해역 작전"</TR-Name>
     <JP-Detail></JP-Detail>
     <TR-Detail>4-1 ~ 4-5 S승리</TR-Detail>
   </Quest>
-        <Quest>
+  <Quest>
     <ID>866</ID>
     <JP-Name></JP-Name>
     <TR-Name>꽁치잡이 : 올해는 흉어? 그래도...좋습니다!</TR-Name>
@@ -3363,55 +3407,41 @@
     <TR-Detail>꽁치 18마리 입수</TR-Detail>
   </Quest>
   <Quest>
-    <ID>882</ID>
-    <JP-Name></JP-Name>
-    <TR-Name>[특별임무] 괜찮아, 정어리가 있잖아!</TR-Name>
-    <JP-Detail></JP-Detail>
-    <TR-Detail>정어리 25마리 입수</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>883</ID>
-    <JP-Name></JP-Name>
-    <TR-Name>[특별임무] 올해는 정어리가 풍어인거예요!</TR-Name>
-    <JP-Detail></JP-Detail>
-    <TR-Detail>정어리 50마리 입수</TR-Detail>
-  </Quest>
-   <Quest>
     <ID>912</ID>
     <JP-Name></JP-Name>
     <TR-Name>공작함「아카시」호위 임무</TR-Name>
     <JP-Detail></JP-Detail>
     <TR-Detail>기함「아카시」, 구축함 3척 이상 편성, 1-3, 1-6, 2-1, 2-2, 2-3 승리</TR-Detail>
   </Quest>
-   <Quest>
+  <Quest>
     <ID>913</ID>
     <JP-Name></JP-Name>
     <TR-Name>「제5항공전대」, 종횡무진!</TR-Name>
     <JP-Detail></JP-Detail>
     <TR-Detail>「쇼카쿠」「즈이카쿠」「오보로」「아키구모」편성, 3-5, 5-2, 7-2-2, 6-5 S승리</TR-Detail>
   </Quest>
-   <Quest>
+  <Quest>
     <ID>914</ID>
     <JP-Name></JP-Name>
     <TR-Name>중순전대, 서쪽으로!</TR-Name>
     <JP-Detail></JP-Detail>
     <TR-Detail>중순(항순X) 3척 이상, 구축함 1척 이상 편성, 4-1, 4-2, 4-3, 4-4 승리</TR-Detail>
   </Quest>
-   <Quest>
+  <Quest>
     <ID>436</ID>
     <JP-Name></JP-Name>
     <TR-Name>연습항해 및 경비임무를 실시하라!</TR-Name>
     <JP-Detail></JP-Detail>
     <TR-Detail>1, 2, 3, 4, 10 원정 성공</TR-Detail>
   </Quest>
-   <Quest>
+  <Quest>
     <ID>915</ID>
     <JP-Name></JP-Name>
     <TR-Name>[봄 기간 한정 임무] 날아라! 플로트 신은 황새치</TR-Name>
     <JP-Detail></JP-Detail>
     <TR-Detail>기함 수상기모함, 구축함 또는 해방함 포함 편성, 1-4, 2-3, 2-4 승리</TR-Detail>
   </Quest>
-   <Quest>
+  <Quest>
     <ID>697</ID>
     <JP-Name></JP-Name>
     <TR-Name>[봄 기간 한정 임무] 플로트 신은 황새치의 개수</TR-Name>
