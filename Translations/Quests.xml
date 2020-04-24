@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.9.1">
+<Quests Version="1.9.2">
   <Quest>
     <ID>339</ID>
     <JP-Name>初夏の整理整頓</JP-Name>
@@ -29,7 +29,7 @@
     <TR-Detail>경순급 1척, 구축함 2척 편성, 2-3, 3-1, 3-2, 3-3, 3-4, 3-5, 7-2-2 S승리</TR-Detail>
   </Quest>
   <Quest>
-    <ID>884</ID>
+    <ID>910</ID>
     <JP-Name>初夏の整理整頓</JP-Name>
     <TR-Name>7주년 임무 [확장 작전]</TR-Name>
     <JP-Detail>不要な装備を複数「廃棄」して、夏を迎える準備をしましょう！</JP-Detail>
@@ -55,13 +55,6 @@
     <TR-Name>「Gotland」 전대 진격하라!</TR-Name>
     <JP-Detail>不要な装備を複数「廃棄」して、夏を迎える準備をしましょう！</JP-Detail>
     <TR-Detail>「Gotland andra」기함, 수반 구축함 1척 편성, 2-5, 6-3, 6-4, 6-5 S승리</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>910</ID>
-    <JP-Name>初夏の整理整頓</JP-Name>
-    <TR-Name>[삼짇날 작전] 「앞바다에 치는 파도」 출격!</TR-Name>
-    <JP-Detail>不要な装備を複数「廃棄」して、夏を迎える準備をしましょう！</JP-Detail>
-    <TR-Detail>「오키나미」 포함, 유구모형 3척 편성, E-1-1, E-1-2, E-1-3 A승리</TR-Detail>
   </Quest>
   <Quest>
     <ID>911</ID>
