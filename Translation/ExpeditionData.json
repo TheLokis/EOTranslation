@@ -1,5 +1,5 @@
 ﻿{
-    "Version": "1.3A",
+    "Version": "1.4A",
     "Expedition": [
       {
         "ID": "1",
@@ -943,7 +943,7 @@
         "ItemAAmount": "2",
         "ItemBAmount": "1",
         "FleetMembers": "5",
-        "FleetTypes": "13,4|14,1",
+        "FleetTypes": "13,4|20,1",
         "Desc": "최소 5척, 잠수모함 1척 이상, 잠수함 4척 이상"
       },
       {
@@ -1031,7 +1031,7 @@
         "ItemBAmount": "1",
         "FlagShipType": "0",
         "FleetMembers": "3",
-        "FleetTypes": "2,2|1,1",
+        "FleetTypes": "7,1|2,3|1,2",
         "DrunNeed": "0",
         "DrunKanmusu": "0",
         "Desc": "6척, 경항모 1척, 구축함 3척, 해방함 2척"
@@ -1098,9 +1098,9 @@
         "ItemB": "4",
         "ItemAAmount": "2",
         "ItemBAmount": "1",
-        "FlagShipType": "7",
+        "FlagShipType": "5",
         "FleetMembers": "6",
-        "FleetTypes": "7,1|2,3|3,1",
+        "FleetTypes": "5,1|2,3|3,1",
 	"FleetAA":"350",
 	"FleetASW":"330",
 	"FleetLOS":"250",
@@ -1171,9 +1171,9 @@
         "ItemB": "59",
         "ItemAAmount": "1",
         "ItemBAmount": "1",
-        "FlagShipType": "14",
+        "FlagShipType": "20",
         "FleetMembers": "5",
-        "FleetTypes": "14,1|13,3",
+        "FleetTypes": "20,1|13,3",
 		"FleetAA":"89",
 		"FleetASW":"50",
         "Desc": "함대 레벨 총합 275이상, 최소 5척, 잠수모함 기함, 잠수함 3척 이상, 나머지 2척??? 대공89 이상 / 대잠50 이상"
