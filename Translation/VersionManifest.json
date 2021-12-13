@@ -1,18 +1,18 @@
 ﻿{
-  "Equipment": "2.1A",
+  "Equipment": "2.4A",
   "EquipmentType": "1.2A",
-  "ShipName": "2.0A",
+  "ShipName": "2.1A",
   "ShipSuffix": "1.5A",
   "ShipType": "1.0A",
   "OperationMap": "1.1A",
   "OperationSortie": "1.0A",
-  "QuestDetail": "2.1A",
-  "QuestTitle": "2.0A",
+  "QuestDetail": "2.2A",
+  "QuestTitle": "2.1A",
   "ExpeditionDetail": "1.2A",
   "ExpeditionTitle": "1.2A",
   "ExpeditionData": "1.4A",
   "Items": "1.1A",
-  "FitData": "1.0A",
-  "NodeData": "1.0A",
-  "AkashiData": "1.2A"
+  "FitData": "1.1A",
+  "NodeData": "1.1A",
+  "AkashiData": "1.3A"
 }
