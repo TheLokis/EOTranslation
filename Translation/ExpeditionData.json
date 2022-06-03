@@ -1,5 +1,5 @@
 {
-  "Version": "1.5A",
+  "Version": "1.6A",
   "Expedition": [
     {
       "ID": "1",
@@ -1048,7 +1048,7 @@
       "ItemB": "4",
       "ItemAAmount": "5",
       "ItemBAmount": "1",
-      "FlagShipType": "16",
+      "FlagShipType": "0",
       "FleetMembers": "5",
       "FleetTypes": "3,1|2,3",
       "FleetAA": "300",
