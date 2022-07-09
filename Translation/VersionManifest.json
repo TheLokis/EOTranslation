@@ -1,5 +1,5 @@
 ﻿{
-  "Equipment": "2.14A",
+  "Equipment": "2.15A",
   "EquipmentType": "1.2A",
   "ShipName": "2.4A",
   "ShipSuffix": "1.7A",
@@ -13,6 +13,6 @@
   "ExpeditionData": "1.6A",
   "Items": "1.1A",
   "FitData": "1.1A",
-  "NodeData": "1.4A",
+  "NodeData": "1.5A",
   "AkashiData": "1.4A"
 }
